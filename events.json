@@ -47,7 +47,8 @@
   "type": [
    "투표"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기관"
  },
  {
   "id": "E02",
@@ -97,7 +98,8 @@
   "type": [
    "투표"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기관"
  },
  {
   "id": "E03",
@@ -142,7 +144,8 @@
    "댓글",
    "설문"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기관"
  },
  {
   "id": "E04",
@@ -194,7 +197,8 @@
    "설문",
    "댓글"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기관"
  },
  {
   "id": "E05",
@@ -243,7 +247,8 @@
    "댓글",
    "RT·공유"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "E06",
@@ -293,7 +298,8 @@
   "type": [
    "퀴즈"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기관"
  },
  {
   "id": "E08",
@@ -336,7 +342,8 @@
    "댓글",
    "팔로우"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "E09",
@@ -370,7 +377,8 @@
   "type": [
    "댓글"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "E10",
@@ -405,7 +413,8 @@
    "RT·공유",
    "후기·리뷰"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기관"
  },
  {
   "id": "N01",
@@ -445,7 +454,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N02",
@@ -485,7 +495,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N03",
@@ -525,7 +536,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N04",
@@ -565,7 +577,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N05",
@@ -601,7 +614,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N06",
@@ -638,7 +652,8 @@
    "RT·공유",
    "댓글"
   ],
-  "announceDate": "2026-11-25"
+  "announceDate": "2026-11-25",
+  "hostType": "기업"
  },
  {
   "id": "N07",
@@ -675,7 +690,8 @@
    "RT·공유",
    "댓글"
   ],
-  "announceDate": "2026-11-10"
+  "announceDate": "2026-11-10",
+  "hostType": "기업"
  },
  {
   "id": "N08",
@@ -710,7 +726,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N09",
@@ -745,7 +762,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N10",
@@ -780,7 +798,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N11",
@@ -818,7 +837,8 @@
   "type": [
    "RT·공유"
   ],
-  "announceDate": "2026-12-04"
+  "announceDate": "2026-12-04",
+  "hostType": "기업"
  },
  {
   "id": "N12",
@@ -853,7 +873,8 @@
    "팔로우",
    "댓글"
   ],
-  "announceDate": "2026-11-16"
+  "announceDate": "2026-11-16",
+  "hostType": "기관"
  },
  {
   "id": "N13",
@@ -889,7 +910,8 @@
    "팔로우",
    "댓글"
   ],
-  "announceDate": "2026-11-19"
+  "announceDate": "2026-11-19",
+  "hostType": "기관"
  },
  {
   "id": "N14",
@@ -924,7 +946,8 @@
    "팔로우",
    "댓글"
   ],
-  "announceDate": "2026-11-13"
+  "announceDate": "2026-11-13",
+  "hostType": "기업"
  },
  {
   "id": "N15",
@@ -965,7 +988,8 @@
    "RT·공유",
    "댓글"
   ],
-  "announceDate": "2026-11-10"
+  "announceDate": "2026-11-10",
+  "hostType": "기업"
  },
  {
   "id": "N16",
@@ -1002,7 +1026,8 @@
    "RT·공유",
    "댓글"
   ],
-  "announceDate": "2026-11-11"
+  "announceDate": "2026-11-11",
+  "hostType": "기업"
  },
  {
   "id": "N17",
@@ -1038,7 +1063,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": "2026-11-09"
+  "announceDate": "2026-11-09",
+  "hostType": "기업"
  },
  {
   "id": "N18",
@@ -1072,7 +1098,8 @@
   "type": [
    "댓글"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N19",
@@ -1106,7 +1133,8 @@
   "type": [
    "댓글"
   ],
-  "announceDate": "2026-11-10"
+  "announceDate": "2026-11-10",
+  "hostType": "기업"
  },
  {
   "id": "N20",
@@ -1141,7 +1169,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": "2026-11-19"
+  "announceDate": "2026-11-19",
+  "hostType": "기업"
  },
  {
   "id": "N21",
@@ -1176,7 +1205,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": "2026-12-01"
+  "announceDate": "2026-12-01",
+  "hostType": "기업"
  },
  {
   "id": "N22",
@@ -1211,7 +1241,8 @@
    "RT·공유",
    "댓글"
   ],
-  "announceDate": "2026-11-24"
+  "announceDate": "2026-11-24",
+  "hostType": "기업"
  },
  {
   "id": "N23",
@@ -1246,7 +1277,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N24",
@@ -1281,7 +1313,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N25",
@@ -1316,7 +1349,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N26",
@@ -1351,7 +1385,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N27",
@@ -1386,7 +1421,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N28",
@@ -1421,7 +1457,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N29",
@@ -1456,7 +1493,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N30",
@@ -1495,7 +1533,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N31",
@@ -1543,7 +1582,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N32",
@@ -1591,7 +1631,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N33",
@@ -1626,7 +1667,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N34",
@@ -1661,7 +1703,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": "2026-11-11"
+  "announceDate": "2026-11-11",
+  "hostType": "기업"
  },
  {
   "id": "N35",
@@ -1696,7 +1739,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N36",
@@ -1731,7 +1775,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": "2026-11-10"
+  "announceDate": "2026-11-10",
+  "hostType": "기업"
  },
  {
   "id": "N37",
@@ -1768,7 +1813,8 @@
    "RT·공유",
    "후기·리뷰"
   ],
-  "announceDate": "2026-11-10"
+  "announceDate": "2026-11-10",
+  "hostType": "기업"
  },
  {
   "id": "N38",
@@ -1803,7 +1849,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N39",
@@ -1838,7 +1885,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": "2026-11-10"
+  "announceDate": "2026-11-10",
+  "hostType": "기업"
  },
  {
   "id": "N40",
@@ -1873,7 +1921,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": "2026-12-10"
+  "announceDate": "2026-12-10",
+  "hostType": "기관"
  },
  {
   "id": "N41",
@@ -1908,7 +1957,8 @@
    "팔로우",
    "RT·공유"
   ],
-  "announceDate": "2026-11-13"
+  "announceDate": "2026-11-13",
+  "hostType": "기업"
  },
  {
   "id": "N42",
@@ -1943,7 +1993,8 @@
    "팔로우",
    "후기·리뷰"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N43",
@@ -1977,7 +2028,8 @@
   "type": [
    "회원가입"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N44",
@@ -2011,7 +2063,8 @@
   "type": [
    "회원가입"
   ],
-  "announceDate": "2026-12-07"
+  "announceDate": "2026-12-07",
+  "hostType": "기업"
  },
  {
   "id": "N45",
@@ -2045,7 +2098,8 @@
   "type": [
    "회원가입"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기업"
  },
  {
   "id": "N46",
@@ -2080,7 +2134,8 @@
    "회원가입",
    "팔로우"
   ],
-  "announceDate": null
+  "announceDate": null,
+  "hostType": "기관"
  },
  {
   "id": "N47",
@@ -2113,7 +2168,8 @@
   "type": [
    "댓글"
   ],
-  "announceDate": "2026-11-10"
+  "announceDate": "2026-11-10",
+  "hostType": "기업"
  },
  {
   "id": "N48",
@@ -2146,7 +2202,8 @@
   "type": [
    "댓글"
   ],
-  "announceDate": "2026-11-10"
+  "announceDate": "2026-11-10",
+  "hostType": "기업"
  },
  {
   "id": "N49",
@@ -2182,7 +2239,8 @@
    "팔로우",
    "댓글"
   ],
-  "announceDate": "2026-11-11"
+  "announceDate": "2026-11-11",
+  "hostType": "기업"
  },
  {
   "id": "N50",
@@ -2225,7 +2283,8 @@
    "팔로우",
    "댓글"
   ],
-  "announceDate": "2026-11-13"
+  "announceDate": "2026-11-13",
+  "hostType": "기업"
  },
  {
   "id": "N51",
@@ -2267,6 +2326,890 @@
    "팔로우",
    "댓글"
   ],
-  "announceDate": "2026-11-18"
+  "announceDate": "2026-11-18",
+  "hostType": "기업"
+ },
+ {
+  "id": "S01",
+  "title": "브링그린 징크테카 트러블 세럼 샤쉐 나눔 (~11/08)",
+  "host": "g(@gS2ee)",
+  "hostType": "협찬개인",
+  "sponsor": "브링그린",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "브링그린 징크테카 트러블 세럼 샤쉐 30ml(6ml×5)",
+    "count": 10
+   }
+  ],
+  "winners": 10,
+  "participants": 292,
+  "checkedAt": "2026-11-05",
+  "start": "2026-11-04",
+  "end": "2026-11-08",
+  "steps": [
+   "X에서 @gS2ee 계정을 팔로우해요",
+   "이벤트 게시물을 리포스트(RT)해요",
+   "팔로워만 추첨에 포함돼요"
+  ],
+  "tip": "브링그린 협찬으로 진행하는 개인 나눔이에요. 당발은 11/8 자정이에요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/gS2ee/status/2117913641135792505",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 288·인용 4)",
+   "주최: 개인 계정 @gS2ee / 협찬 브랜드: 브링그린"
+  ],
+  "type": [
+   "팔로우",
+   "RT·공유"
+  ],
+  "announceDate": "2026-11-08"
+ },
+ {
+  "id": "S02",
+  "title": "브링그린 징크테카 세럼 샘플 나눔 (~11/08)",
+  "host": "호두둥(@SjddbF)",
+  "hostType": "협찬개인",
+  "sponsor": "브링그린",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "브링그린 징크테카 트러블 세럼 샘플 30ml",
+    "count": 10
+   }
+  ],
+  "winners": 10,
+  "participants": 506,
+  "checkedAt": "2026-11-05",
+  "start": "2026-11-03",
+  "end": "2026-11-08",
+  "steps": [
+   "X에서 @SjddbF 계정을 팔로우해요",
+   "이벤트 게시물을 리포스트(RT)해요",
+   "11/8까지 참여해요"
+  ],
+  "tip": "브링그린(@bringgreen_kr) 협찬 개인 RT 이벤트예요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/SjddbF/status/2117767848164732943",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 504·인용 2)",
+   "주최: 개인 계정 @SjddbF / 협찬 브랜드: 브링그린"
+  ],
+  "type": [
+   "팔로우",
+   "RT·공유"
+  ],
+  "announceDate": null
+ },
+ {
+  "id": "S03",
+  "title": "클리시어 트리트먼트 잼 틴트 나눔 (~11/11)",
+  "host": "벨라(@bellaseo2371)",
+  "hostType": "협찬개인",
+  "sponsor": "클리시어",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "클리시어 트리트먼트 잼 틴트",
+    "count": 3
+   }
+  ],
+  "winners": 3,
+  "participants": 248,
+  "checkedAt": "2026-11-05",
+  "start": "2026-11-04",
+  "end": "2026-11-11",
+  "steps": [
+   "클리시어 뷰티 X 계정을 팔로우해요",
+   "벨라(@bellaseo2371) 계정도 팔로우해요",
+   "이벤트 게시물을 리포스트(RT)해요"
+  ],
+  "tip": "제품제공 협찬으로 개인이 여는 RT 이벤트예요. ~11/11까지예요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/bellaseo2371/status/2117893932923429170",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 247·인용 1)",
+   "주최: 개인 계정 @bellaseo2371 / 협찬 브랜드: 클리시어"
+  ],
+  "type": [
+   "팔로우",
+   "RT·공유"
+  ],
+  "announceDate": null
+ },
+ {
+  "id": "S04",
+  "title": "르베로 맥주효모 헤어토닉 나눔 (~11/11)",
+  "host": "츄리(@chullliii)",
+  "hostType": "협찬개인",
+  "sponsor": "르베로",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "르베로 맥주효모 두피앰플 헤어토닉",
+    "count": 10
+   }
+  ],
+  "winners": 10,
+  "participants": 353,
+  "checkedAt": "2026-11-05",
+  "start": "2026-11-04",
+  "end": "2026-11-11",
+  "steps": [
+   "@levero_official 계정을 팔로우해요",
+   "이벤트 게시물을 리포스트(RT)해요"
+  ],
+  "tip": "광고·제품제공 표시가 있는 개인 협찬 이벤트예요. 기간 11/4~11/11.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/chullliii/status/2117860063197241822",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 352·인용 1)",
+   "주최: 개인 계정 @chullliii / 협찬 브랜드: 르베로"
+  ],
+  "type": [
+   "팔로우",
+   "RT·공유"
+  ],
+  "announceDate": null
+ },
+ {
+  "id": "S05",
+  "title": "이해원n제 트렌드 교재 나눔 (~11/08)",
+  "host": "mir(@igtomw)",
+  "hostType": "협찬개인",
+  "sponsor": "이해원 수학 연구소",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "이해원n제 트렌드 교재",
+    "count": 5
+   }
+  ],
+  "winners": 5,
+  "participants": 64,
+  "checkedAt": "2026-11-05",
+  "start": "2026-11-03",
+  "end": "2026-11-08",
+  "steps": [
+   "@lhw_math 계정을 팔로우해요",
+   "이벤트 게시물을 리포스트(RT)해요"
+  ],
+  "tip": "협찬 표기된 개인 RT 이벤트예요. 당발 11/9.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/igtomw/status/2117598005289451738",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 61·인용 3)",
+   "주최: 개인 계정 @igtomw / 협찬 브랜드: 이해원 수학 연구소"
+  ],
+  "type": [
+   "팔로우",
+   "RT·공유"
+  ],
+  "announceDate": "2026-11-09"
+ },
+ {
+  "id": "S06",
+  "title": "더랩바이블랑두 젤리 미스트 나눔 (~11/11)",
+  "host": "유니(@ksksy91)",
+  "hostType": "협찬개인",
+  "sponsor": "더랩바이블랑두",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "더랩바이블랑두 올리고 히알루론산 캡슐 젤리 미스트",
+    "count": 5
+   }
+  ],
+  "winners": 5,
+  "participants": 286,
+  "checkedAt": "2026-11-05",
+  "start": "2026-11-03",
+  "end": "2026-11-11",
+  "steps": [
+   "@ksksy91 계정을 팔로우해요",
+   "이벤트 게시물을 리포스트(RT)해요"
+  ],
+  "tip": "더랩에서 이벤트 지원(제품제공)한 개인 나눔이에요. 당발 11/12.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/ksksy91/status/2117530624601002304",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 285·인용 1)",
+   "주최: 개인 계정 @ksksy91 / 협찬 브랜드: 더랩바이블랑두"
+  ],
+  "type": [
+   "팔로우",
+   "RT·공유"
+  ],
+  "announceDate": "2026-11-12"
+ },
+ {
+  "id": "S07",
+  "title": "츄렌즈 베어부·봉봉 베어부 원데이 나눔 (~11/08)",
+  "host": "운공(@ung0ng)",
+  "hostType": "협찬개인",
+  "sponsor": "츄렌즈",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "츄렌즈 베어부 또는 봉봉 베어부 원데이 4팩",
+    "count": 5
+   }
+  ],
+  "winners": 5,
+  "participants": 809,
+  "checkedAt": "2026-11-05",
+  "start": "2026-11-02",
+  "end": "2026-11-08",
+  "steps": [
+   "@ung0ng 계정을 팔로우해요",
+   "이벤트 게시물을 리포스트(RT)해요",
+   "당첨 시 렌즈 종류를 선택할 수 있어요"
+  ],
+  "tip": "츄렌즈(@chuulens) 협찬 개인 이벤트예요. 당발 11/9.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/ung0ng/status/2117265854081728961",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 797·인용 12)",
+   "주최: 개인 계정 @ung0ng / 협찬 브랜드: 츄렌즈"
+  ],
+  "type": [
+   "팔로우",
+   "RT·공유"
+  ],
+  "announceDate": "2026-11-09"
+ },
+ {
+  "id": "S08",
+  "title": "헤이로어 올데이 헨리넥 브라탑 나눔 (~11/08)",
+  "host": "오지(@oji_wisdom_)",
+  "hostType": "협찬개인",
+  "sponsor": "헤이로어",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "헤이로어 올데이 헨리넥 긴팔 브라탑",
+    "count": 2
+   }
+  ],
+  "winners": 2,
+  "participants": 660,
+  "checkedAt": "2026-11-05",
+  "start": "2026-11-02",
+  "end": "2026-11-08",
+  "steps": [
+   "이벤트 게시물을 인용(Quote)하고 원하는 컬러·사이즈를 남겨요",
+   "기간은 11/2~11/8이에요"
+  ],
+  "tip": "협찬 표기 개인 나눔이에요. 인용으로 컬러·사이즈를 남겨야 해요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/oji_wisdom_/status/2117215733151392238",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 533·인용 127)",
+   "주최: 개인 계정 @oji_wisdom_ / 협찬 브랜드: 헤이로어"
+  ],
+  "type": [
+   "RT·공유"
+  ],
+  "announceDate": null
+ },
+ {
+  "id": "S09",
+  "title": "츄렌즈 베어부·봉봉 베어부 원데이 나눔 (즈인, ~11/08)",
+  "host": "즈인(@so_ills)",
+  "hostType": "협찬개인",
+  "sponsor": "츄렌즈",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "츄렌즈 베어부 또는 봉봉 베어부 원데이 4팩",
+    "count": 5
+   }
+  ],
+  "winners": 5,
+  "participants": 950,
+  "checkedAt": "2026-11-05",
+  "start": "2026-11-02",
+  "end": "2026-11-08",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요",
+   "당발은 11/9이에요"
+  ],
+  "tip": "츄렌즈 협찬으로 개인이 진행하는 RT 이벤트예요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/so_ills/status/2117193221671702663",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 920·인용 30)",
+   "주최: 개인 계정 @so_ills / 협찬 브랜드: 츄렌즈"
+  ],
+  "type": [
+   "RT·공유"
+  ],
+  "announceDate": "2026-11-09"
+ },
+ {
+  "id": "S10",
+  "title": "VT PDRN 립세럼 2종 나눔 (~11/11)",
+  "host": "눕눕(@noopnoop__)",
+  "hostType": "협찬개인",
+  "sponsor": "VT",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "VT PDRN 립세럼 2종(글레이즈/로지피치)",
+    "count": 10
+   }
+  ],
+  "winners": 10,
+  "participants": 56,
+  "checkedAt": "2026-11-05",
+  "start": "2026-11-02",
+  "end": "2026-11-11",
+  "steps": [
+   "인용된 원트 게시물을 확인해요",
+   "이벤트 게시물을 리포스트(RT)해요"
+  ],
+  "tip": "협찬 표기 개인 이벤트예요. 당발 11/12.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/noopnoop__/status/2117167902797545835",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 55·인용 1)",
+   "주최: 개인 계정 @noopnoop__ / 협찬 브랜드: VT"
+  ],
+  "type": [
+   "RT·공유"
+  ],
+  "announceDate": "2026-11-12"
+ },
+ {
+  "id": "S11",
+  "title": "츄렌즈 베어부·봉봉 베어부 원데이 나눔 (BELL, ~11/08)",
+  "host": "BELL(@wjwjsjjxn)",
+  "hostType": "협찬개인",
+  "sponsor": "츄렌즈",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "츄렌즈 베어부 또는 봉봉 베어부 원데이 4팩",
+    "count": 5
+   }
+  ],
+  "winners": 5,
+  "participants": 962,
+  "checkedAt": "2026-11-05",
+  "start": "2026-11-02",
+  "end": "2026-11-08",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요"
+  ],
+  "tip": "츄렌즈(@chuulens) 협찬 개인 RT 이벤트예요. 당발 11/9.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/wjwjsjjxn/status/2117117611003813917",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 937·인용 25)",
+   "주최: 개인 계정 @wjwjsjjxn / 협찬 브랜드: 츄렌즈"
+  ],
+  "type": [
+   "RT·공유"
+  ],
+  "announceDate": "2026-11-09"
+ },
+ {
+  "id": "S12",
+  "title": "츄렌즈 봉봉 베어부 원데이 나눔 (두두, ~11/08)",
+  "host": "두두(@dddd_9999_)",
+  "hostType": "협찬개인",
+  "sponsor": "츄렌즈",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "츄렌즈 베어부 또는 봉봉 베어부 원데이 4팩",
+    "count": 5
+   }
+  ],
+  "winners": 5,
+  "participants": 974,
+  "checkedAt": "2026-11-05",
+  "start": "2026-11-02",
+  "end": "2026-11-08",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요",
+   "기간은 11/2~11/8, 당발 11/9이에요"
+  ],
+  "tip": "츄렌즈 협찬 개인 이벤트예요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/dddd_9999_/status/2117062258434154877",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 924·인용 50)",
+   "주최: 개인 계정 @dddd_9999_ / 협찬 브랜드: 츄렌즈"
+  ],
+  "type": [
+   "RT·공유"
+  ],
+  "announceDate": "2026-11-09"
+ },
+ {
+  "id": "S13",
+  "title": "달리프×헬로키티 헤어 마스카라 나눔 (~11/06)",
+  "host": "두두(@dddd_9999_)",
+  "hostType": "협찬개인",
+  "sponsor": "달리프",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "달리프 글램 듀얼 픽서 헤어 마스카라 헬로키티 에디션",
+    "count": 2
+   }
+  ],
+  "winners": 2,
+  "participants": 718,
+  "checkedAt": "2026-11-05",
+  "start": "2026-11-02",
+  "end": "2026-11-06",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요",
+   "기간은 11/2~11/6이에요"
+  ],
+  "tip": "달리프(@daleaf_korea) 협찬 개인 이벤트예요. 당발 11/7.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/dddd_9999_/status/2116931563791470627",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 708·인용 10)",
+   "주최: 개인 계정 @dddd_9999_ / 협찬 브랜드: 달리프"
+  ],
+  "type": [
+   "RT·공유"
+  ],
+  "announceDate": "2026-11-07"
+ },
+ {
+  "id": "S14",
+  "title": "코스노리 판테놀 베리어 앰플 나눔 (~11/07)",
+  "host": "Valen(@valen33tine)",
+  "hostType": "협찬개인",
+  "sponsor": "코스노리",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "코스노리 판테놀 베리어 앰플 10",
+    "count": 3
+   }
+  ],
+  "winners": 3,
+  "participants": 414,
+  "checkedAt": "2026-11-05",
+  "start": "2026-11-01",
+  "end": "2026-11-07",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요"
+  ],
+  "tip": "코스노리(@cosnori) 제품제공 개인 나눔이에요. 당발 11/8.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/valen33tine/status/2116887610744525237",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 414·인용 0)",
+   "주최: 개인 계정 @valen33tine / 협찬 브랜드: 코스노리"
+  ],
+  "type": [
+   "RT·공유"
+  ],
+  "announceDate": "2026-11-08"
+ },
+ {
+  "id": "S15",
+  "title": "코스노리 판테놀 베리어 앰플 나눔 (여니, ~11/06)",
+  "host": "여니(@yeoooonnni)",
+  "hostType": "협찬개인",
+  "sponsor": "코스노리",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "코스노리 판테놀 베리어 앰플 10",
+    "count": 3
+   }
+  ],
+  "winners": 3,
+  "participants": 544,
+  "checkedAt": "2026-11-05",
+  "start": "2026-11-01",
+  "end": "2026-11-06",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요"
+  ],
+  "tip": "코스노리 제품제공 개인 이벤트예요. 당발 11/7.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/yeoooonnni/status/2116876103369605440",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 544·인용 0)",
+   "주최: 개인 계정 @yeoooonnni / 협찬 브랜드: 코스노리"
+  ],
+  "type": [
+   "RT·공유"
+  ],
+  "announceDate": "2026-11-07"
+ },
+ {
+  "id": "S16",
+  "title": "블라이드 포밍 스플래쉬 마스크 나눔 (~11/06)",
+  "host": "메랑(@utldenwuk)",
+  "hostType": "협찬개인",
+  "sponsor": "블라이드",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "블라이드 포밍 스플래쉬 마스크",
+    "count": 3
+   }
+  ],
+  "winners": 3,
+  "participants": 187,
+  "checkedAt": "2026-11-05",
+  "start": "2026-10-31",
+  "end": "2026-11-06",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요"
+  ],
+  "tip": "협찬 표기 개인 RT 이벤트예요. 당발 11/7(토).",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/utldenwuk/status/2116525197578911963",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 187·인용 0)",
+   "주최: 개인 계정 @utldenwuk / 협찬 브랜드: 블라이드"
+  ],
+  "type": [
+   "RT·공유"
+  ],
+  "announceDate": "2026-11-07"
+ },
+ {
+  "id": "S17",
+  "title": "토닝코드 듀얼 레이어 크림 나눔 (~11/07)",
+  "host": "꺙(@coduckg0)",
+  "hostType": "협찬개인",
+  "sponsor": "토닝코드(큐어소나)",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "토닝코드 듀얼 레이어 크림",
+    "count": 3
+   }
+  ],
+  "winners": 3,
+  "participants": 195,
+  "checkedAt": "2026-11-05",
+  "start": "2026-10-31",
+  "end": "2026-11-07",
+  "steps": [
+   "@coduckg0 계정을 팔로우해요",
+   "이벤트 게시물을 리포스트(RT)해요"
+  ],
+  "tip": "제품제공·협찬 표기 개인 이벤트예요. 기간 10.31~11.7, 당발 11.8.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/coduckg0/status/2116422584845877490",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 193·인용 2)",
+   "주최: 개인 계정 @coduckg0 / 협찬 브랜드: 토닝코드(큐어소나)"
+  ],
+  "type": [
+   "팔로우",
+   "RT·공유"
+  ],
+  "announceDate": "2026-11-08"
+ },
+ {
+  "id": "S18",
+  "title": "톤28 블루 펩타이드 시카 고체세럼 나눔 (~11/10)",
+  "host": "may(@mayiivv)",
+  "hostType": "협찬개인",
+  "sponsor": "톤28",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "톤28 더 퍼스트 블루 펩타이드 시카 고체 세럼",
+    "count": 2
+   }
+  ],
+  "winners": 2,
+  "participants": 193,
+  "checkedAt": "2026-11-05",
+  "start": "2026-11-04",
+  "end": "2026-11-10",
+  "steps": [
+   "@mayiivv 계정을 팔로우해요",
+   "이벤트 게시물을 리포스트(RT)해요"
+  ],
+  "tip": "제품제공 개인 나눔이에요. 당발 11월 11일.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/mayiivv/status/2117955706280403387",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 193·인용 0)",
+   "주최: 개인 계정 @mayiivv / 협찬 브랜드: 톤28"
+  ],
+  "type": [
+   "팔로우",
+   "RT·공유"
+  ],
+  "announceDate": "2026-11-11"
+ },
+ {
+  "id": "S19",
+  "title": "무지개맨션 오브제 리퀴드 블랙 에디션 나눔 (~11/07)",
+  "host": "윤쁘(@yoonvlovee)",
+  "hostType": "협찬개인",
+  "sponsor": "무지개맨션",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "무지개맨션 오브제 리퀴드 블랙 에디션 1종",
+    "count": 3
+   }
+  ],
+  "winners": 3,
+  "participants": 319,
+  "checkedAt": "2026-11-05",
+  "start": "2026-11-02",
+  "end": "2026-11-07",
+  "steps": [
+   "@yoonvlovee 계정을 팔로우해요",
+   "이벤트 게시물을 리포스트(RT)해요",
+   "댓글에 ‘무지개맨션 오브제 리퀴드 블랙 에디션’을 남겨요"
+  ],
+  "tip": "무지개맨션 제품제공 개인 이벤트예요. ~11/7 당발.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/yoonvlovee/status/2117223267908174148",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 318·인용 1)",
+   "주최: 개인 계정 @yoonvlovee / 협찬 브랜드: 무지개맨션"
+  ],
+  "type": [
+   "팔로우",
+   "RT·공유",
+   "댓글"
+  ],
+  "announceDate": "2026-11-07"
+ },
+ {
+  "id": "S20",
+  "title": "블라이드 버블링 스플래쉬 마스크 나눔 (~11/08)",
+  "host": "thelo(@KikiThelo)",
+  "hostType": "협찬개인",
+  "sponsor": "블라이드",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "블라이드 버블링 스플래쉬 마스크",
+    "count": 3
+   }
+  ],
+  "winners": 3,
+  "participants": 116,
+  "checkedAt": "2026-11-05",
+  "start": "2026-10-29",
+  "end": "2026-11-08",
+  "steps": [
+   "@blithe_kr 계정을 팔로우해요",
+   "@KikiThelo 계정을 팔로우해요",
+   "이벤트 게시물을 리포스트(RT)해요",
+   "11월 8일 밤 12시까지예요"
+  ],
+  "tip": "블라이드 제품제공·협업 개인 이벤트예요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/KikiThelo/status/2115747160902062248",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 114·인용 2)",
+   "주최: 개인 계정 @KikiThelo / 협찬 브랜드: 블라이드"
+  ],
+  "type": [
+   "팔로우",
+   "RT·공유"
+  ],
+  "announceDate": null
+ },
+ {
+  "id": "S21",
+  "title": "햄찌사주 이용권 나눔 (~11/08)",
+  "host": "나나리치(@up_nanaa)",
+  "hostType": "협찬개인",
+  "sponsor": "햄찌사주",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "햄찌사주 이용권 3개",
+    "count": 5
+   }
+  ],
+  "winners": 5,
+  "participants": 31,
+  "checkedAt": "2026-11-05",
+  "start": "2026-11-04",
+  "end": "2026-11-08",
+  "steps": [
+   "@hamzzi_saju 계정을 팔로우해요",
+   "이벤트 게시물을 리포스트(RT)해요"
+  ],
+  "tip": "제품제공 표기 개인 이벤트예요. 이용권은 햄찌사주 계정에서 지급돼요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/up_nanaa/status/2117632897532166307",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 29·인용 2)",
+   "주최: 개인 계정 @up_nanaa / 협찬 브랜드: 햄찌사주"
+  ],
+  "type": [
+   "팔로우",
+   "RT·공유"
+  ],
+  "announceDate": "2026-11-08"
+ },
+ {
+  "id": "S22",
+  "title": "톤28 블루 펩타이드 시카 고체 세럼 나눔 (~11/09)",
+  "host": "쪼(@ZZ0_K_)",
+  "hostType": "협찬개인",
+  "sponsor": "톤28",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "톤28 더 퍼스트 블루 펩타이드 시카 고체 세럼",
+    "count": 2
+   }
+  ],
+  "winners": 2,
+  "participants": 448,
+  "checkedAt": "2026-11-05",
+  "start": "2026-11-03",
+  "end": "2026-11-09",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요"
+  ],
+  "tip": "톤28 제품제공 개인 나눔이에요. 당발 11/10.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/ZZ0_K_/status/2117618372800360953",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 447·인용 1)",
+   "주최: 개인 계정 @ZZ0_K_ / 협찬 브랜드: 톤28"
+  ],
+  "type": [
+   "RT·공유"
+  ],
+  "announceDate": "2026-11-10"
+ },
+ {
+  "id": "S23",
+  "title": "크리스마스 메이크업 웜톤 BOX 나눔 (~12/24)",
+  "host": "리..(@leexxwo)",
+  "hostType": "협찬개인",
+  "sponsor": "협찬 메이크업(웜톤 BOX)",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "웜톤 메이크업 BOX(새상품+1회 발색 제품 구성)",
+    "count": 1
+   }
+  ],
+  "winners": 1,
+  "participants": 433,
+  "checkedAt": "2026-11-05",
+  "start": "2026-11-03",
+  "end": "2026-12-24",
+  "steps": [
+   "@leexxwo 계정을 팔로우해요",
+   "이벤트 게시물을 리포스트(RT)해요",
+   "팔로워 한정이에요"
+  ],
+  "tip": "광고/협찬 표기 개인 나눔이에요. 반택비는 주최자가 부담하고, 개봉 인증을 요청해요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/leexxwo/status/2117636996172759152",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 430·인용 3)",
+   "주최: 개인 계정 @leexxwo / 협찬 브랜드: 협찬 메이크업(웜톤 BOX)"
+  ],
+  "type": [
+   "팔로우",
+   "RT·공유"
+  ],
+  "announceDate": "2026-12-25"
+ },
+ {
+  "id": "S24",
+  "title": "크리스마스 메이크업 쿨톤 BOX 나눔 (~12/24)",
+  "host": "리..(@leexxwo)",
+  "hostType": "협찬개인",
+  "sponsor": "협찬 메이크업(쿨톤 BOX)",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "쿨톤 메이크업 BOX(새상품+1회 발색 제품 구성)",
+    "count": 1
+   }
+  ],
+  "winners": 1,
+  "participants": 411,
+  "checkedAt": "2026-11-05",
+  "start": "2026-11-03",
+  "end": "2026-12-24",
+  "steps": [
+   "@leexxwo 계정을 팔로우해요",
+   "이벤트 게시물을 리포스트(RT)해요",
+   "팔로워 한정이에요"
+  ],
+  "tip": "광고/협찬 표기 개인 나눔이에요. 반택비는 주최자가 부담하고, 개봉 인증을 요청해요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/leexxwo/status/2117635824867307762",
+  "verified": [
+   "기간·경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공/광고 표기)",
+   "참여인원: RT+인용 수 기준(2026-11-05 확인, RT 407·인용 4)",
+   "주최: 개인 계정 @leexxwo / 협찬 브랜드: 협찬 메이크업(쿨톤 BOX)"
+  ],
+  "type": [
+   "팔로우",
+   "RT·공유"
+  ],
+  "announceDate": "2026-12-25"
  }
 ]
