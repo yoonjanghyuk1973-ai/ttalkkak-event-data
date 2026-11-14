@@ -2848,44 +2848,6 @@
   "hostImage": "img/M77.webp"
  },
  {
-  "id": "M78",
-  "title": "요즘어때 영상 시청하고 선물 받자 이벤트",
-  "host": "부산광역정신건강복지센터",
-  "channel": "유튜브",
-  "prizes": [
-   {
-    "name": "스타벅스 디저트 세트",
-    "count": 200
-   }
-  ],
-  "winners": 200,
-  "participants": null,
-  "checkedAt": "2026-11-05",
-  "start": "2026-10-28",
-  "end": "2026-11-14",
-  "steps": [
-   "유튜브 채널 접속해요",
-   "시청 인증 캡처해요",
-   "폼 제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319279",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-05)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "댓글"
-  ],
-  "announceDate": "2026-11-18",
-  "hostType": "기관",
-  "sponsor": null,
-  "hostImage": "img/M78.webp"
- },
- {
   "id": "M82",
   "title": "SNS 만족도 설문하고 투썸 쿠폰 챙기자 이벤트",
   "host": "오송첨단의료산업진흥재단",
@@ -3539,46 +3501,6 @@
   "announceDate": "2026-11-26"
  },
  {
-  "id": "M103",
-  "title": "미케네 팔로우·댓글 경품 (~11/14)",
-  "host": "미케네",
-  "hostType": "기업",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "배스킨라빈스 기프티콘",
-    "count": 3
-   },
-   {
-    "name": "원하는 미케네 의류",
-    "count": 2
-   }
-  ],
-  "winners": 5,
-  "participants": null,
-  "checkedAt": "2026-11-07",
-  "start": "2026-11-05",
-  "end": "2026-11-14",
-  "steps": [
-   "@micane_official 을 팔로우해요",
-   "이벤트 게시물에 좋아요를 눌러요",
-   "참여 완료 댓글을 남겨요"
-  ],
-  "tip": "친구 소환·리그램 시 확률 UP. 당발 11/16.",
-  "difficulty": 1,
-  "minutes": 2,
-  "url": "https://www.instagram.com/p/DfWI0N-zRVA/",
-  "verified": [
-   "기간·경품: 쌀먹닷컴 안내 및 IG 게시물 URL 확인",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "댓글"
-  ],
-  "announceDate": "2026-11-16"
- },
- {
   "id": "M104",
   "title": "스토리펀치 체리 베리 체리 론칭 RT (~11/17)",
   "host": "스토리펀치",
@@ -3693,84 +3615,6 @@
   "hostImage": "img/S50.webp"
  },
  {
-  "id": "S51",
-  "title": "블라이드 머드팩 클렌저 나눔 (molyyyHi)",
-  "host": "몰리(@molyyyHi)",
-  "hostType": "협찬개인",
-  "sponsor": "블라이드",
-  "hostHandle": "molyyyHi",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "블라이드 머드팩 클렌저",
-    "count": 3
-   }
-  ],
-  "winners": 3,
-  "participants": 30,
-  "checkedAt": "2026-11-08",
-  "start": "2026-11-07",
-  "end": "2026-11-14",
-  "steps": [
-   "X에서 주최 계정을 팔로우해요",
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "블라이드 협찬 개인 나눔이에요. 아직 RT가 적은 편이에요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/molyyyHi/status/2119112128007381373",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공 표기, 브랜드 블라이드)",
-   "참여인원: RT+인용(2026-11-08, RT 30·인용 0)",
-   "마감: 본문 미기재 → 게시(11/7)+7일=11/14 추정"
-  ],
-  "type": [
-   "팔로우",
-   "RT·공유"
-  ],
-  "announceDate": null,
-  "hostImage": "img/S51.webp"
- },
- {
-  "id": "S53",
-  "title": "톤28 블루 펩타이드 시카 고체 세럼 나눔 (ksksy91, ~11/14)",
-  "host": "유니(@ksksy91)",
-  "hostType": "협찬개인",
-  "sponsor": "톤28",
-  "hostHandle": "ksksy91",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "톤28 블루 펩타이드 시카 고체 세럼",
-    "count": 2
-   }
-  ],
-  "winners": 2,
-  "participants": 125,
-  "checkedAt": "2026-11-08",
-  "start": "2026-11-07",
-  "end": "2026-11-14",
-  "steps": [
-   "X에서 주최 계정을 팔로우해요",
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "톤28 제품제공 개인 나눔이에요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/ksksy91/status/2119063768210735372",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공 표기, 브랜드 톤28)",
-   "참여인원: RT+인용(2026-11-08, RT 124·인용 1)",
-   "마감: 본문 당발 11/14"
-  ],
-  "type": [
-   "팔로우",
-   "RT·공유"
-  ],
-  "announceDate": "2026-11-14",
-  "hostImage": "img/S53.webp"
- },
- {
   "id": "S54",
   "title": "톤28 블루 펩타이드 시카 고체 세럼 나눔 (kuromishin526, ~11/15)",
   "host": "신로미언니(@kuromishin526)",
@@ -3808,121 +3652,6 @@
   ],
   "announceDate": "2026-11-15",
   "hostImage": "img/S54.webp"
- },
- {
-  "id": "S55",
-  "title": "모크레스 틴티드 립 듀오 컬러 택1 나눔",
-  "host": "므므(@meuuem33)",
-  "hostType": "협찬개인",
-  "sponsor": "모크레스",
-  "hostHandle": "meuuem33",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "모크레스 이지 스터닝 틴티드 립 듀오(택1)",
-    "count": 3
-   }
-  ],
-  "winners": 3,
-  "participants": 153,
-  "checkedAt": "2026-11-08",
-  "start": "2026-11-07",
-  "end": "2026-11-14",
-  "steps": [
-   "X에서 @meuuem33·@mocresofficial 팔로우(팔로워 한정)",
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "모크레스 제품제공 개인 나눔이에요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/meuuem33/status/2119043361646469178",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공 표기, 브랜드 모크레스)",
-   "참여인원: RT+인용(2026-11-08, RT 148·인용 5)",
-   "마감: 본문 미기재 → 게시(11/7)+7일=11/14 추정"
-  ],
-  "type": [
-   "팔로우",
-   "RT·공유"
-  ],
-  "announceDate": null,
-  "hostImage": "img/S55.webp"
- },
- {
-  "id": "S56",
-  "title": "미샤 비폴렌 앰풀러+크림 나눔 (with_j00k)",
-  "host": "시샘달(@with_j00k)",
-  "hostType": "협찬개인",
-  "sponsor": "미샤",
-  "hostHandle": "with_j00k",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "미샤 비폴렌 리뉴 앰풀러+크림",
-    "count": 5
-   }
-  ],
-  "winners": 5,
-  "participants": 268,
-  "checkedAt": "2026-11-08",
-  "start": "2026-11-07",
-  "end": "2026-11-14",
-  "steps": [
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "미샤 협찬 개인 나눔, 5명 뽑아요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/with_j00k/status/2119026323708424559",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공 표기, 브랜드 미샤)",
-   "참여인원: RT+인용(2026-11-08, RT 264·인용 4)",
-   "마감: 본문 미기재 → 게시(11/7)+7일=11/14 추정"
-  ],
-  "type": [
-   "RT·공유"
-  ],
-  "announceDate": null,
-  "hostImage": "img/S56.webp"
- },
- {
-  "id": "S59",
-  "title": "달리프×헬로키티 헤어마스카라 나눔",
-  "host": "may(@mayiivv)",
-  "hostType": "협찬개인",
-  "sponsor": "달리프",
-  "hostHandle": "mayiivv",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "달리프 헤어마스카라",
-    "count": 2
-   }
-  ],
-  "winners": 2,
-  "participants": 275,
-  "checkedAt": "2026-11-08",
-  "start": "2026-11-07",
-  "end": "2026-11-14",
-  "steps": [
-   "X에서 @mayiivv 팔로우(팔로워 한정)",
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "달리프 제품제공 개인 나눔이에요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/mayiivv/status/2119010509219618909",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공 표기, 브랜드 달리프)",
-   "참여인원: RT+인용(2026-11-08, RT 275·인용 0)",
-   "마감: 본문 미기재 → 게시(11/7)+7일=11/14 추정"
-  ],
-  "type": [
-   "팔로우",
-   "RT·공유"
-  ],
-  "announceDate": null,
-  "hostImage": "img/S59.webp"
  },
  {
   "id": "S60",
@@ -7164,41 +6893,6 @@
    "댓글"
   ],
   "announceDate": "2026-11-19"
- },
- {
-  "id": "M186",
-  "title": "나만의 굳이데이 댓글로 텀블러 받자 이벤트",
-  "host": "써모스",
-  "hostType": "기업",
-  "channel": "웹",
-  "prizes": [
-   {
-    "name": "써모스 캐리 핸들 텀블러",
-    "count": 3
-   }
-  ],
-  "winners": 3,
-  "participants": null,
-  "checkedAt": "2026-11-11",
-  "start": "2026-11-10",
-  "end": "2026-11-14",
-  "steps": [
-   "영상 확인해요",
-   "나만의 굳이데이 댓글 작성해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319743",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-11)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "댓글"
-  ],
-  "announceDate": "2026-11-18"
  },
  {
   "id": "M187",
@@ -13651,44 +13345,6 @@
   "sponsor": "톤28"
  },
  {
-  "id": "S141",
-  "title": "미샤 비폴렌 앰풀러+크림 나눔 (~11/14)",
-  "host": "뽀롱(@bbo_ron)",
-  "hostType": "협찬개인",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "미샤 비폴렌 앰풀러+앰플 크림",
-    "count": 5
-   }
-  ],
-  "winners": 5,
-  "participants": 386,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-10",
-  "end": "2026-11-14",
-  "steps": [
-   "X에서 @bbo_ron 계정을 팔로우해요",
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "미샤 협찬으로 진행하는 개인 나눔이에요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/bbo_ron/status/2120154347099095267",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인([제품제공]/@missha_kr)",
-   "마감·당발: 본문 기재 당첨 발표(11/14)를 마감으로 표시",
-   "참여인원: RT+인용(2026-11-13, RT 383·인용 3)"
-  ],
-  "type": [
-   "팔로우",
-   "RT·공유"
-  ],
-  "hostHandle": "bbo_ron",
-  "sponsor": "미샤",
-  "announceDate": "2026-11-14"
- },
- {
   "id": "N76",
   "title": "오르테 스텐 토스트기 RT 이벤트 (~11/16)",
   "host": "ORTE Official(@orte_official)",
@@ -20107,42 +19763,6 @@
   "announceDate": "2026-11-25"
  },
  {
-  "id": "M463",
-  "title": "카톡 채널 친구추가로 스타벅스 받자 이벤트",
-  "host": "광주시문화재단",
-  "hostType": "기관",
-  "channel": "웹",
-  "prizes": [
-   {
-    "name": "스타벅스 아메리카노 모바일 쿠폰",
-    "count": 100
-   }
-  ],
-  "winners": 100,
-  "participants": null,
-  "checkedAt": "2026-11-14",
-  "start": "2026-11-03",
-  "end": "2026-11-14",
-  "steps": [
-   "카톡 채널 검색·추가해요",
-   "캡처해요",
-   "폼 제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320123",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-14)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "RT·공유"
-  ],
-  "announceDate": "2026-11-16"
- },
- {
   "id": "S152",
   "title": "마이피픈 라븐 렌즈 2팩 나눔 (~11/20)",
   "host": "BELL ੈ ✩‧₊˚(@wjwjsjjxn)",
@@ -21430,5 +21050,735 @@
   ],
   "hostHandle": "hxxn9_archive",
   "sponsor": "슬로우앤드"
+ },
+ {
+  "id": "M464",
+  "title": "관광지 이모티콘퀴즈 풀고 치킨 받자 이벤트",
+  "host": "전북특별자치도 관광마케",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "굽네치킨 3만원 교환권",
+    "count": 20
+   }
+  ],
+  "winners": 20,
+  "participants": null,
+  "checkedAt": "2026-11-15",
+  "start": "2026-11-11",
+  "end": "2026-11-15",
+  "steps": [
+   "팔로우·좋아요",
+   "3곳 답·인증샷 폼 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=319920",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-15)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "퀴즈",
+   "후기·리뷰"
+  ],
+  "announceDate": "2026-11-18"
+ },
+ {
+  "id": "M465",
+  "title": "충주쌀 찾기 게임하고 충주쌀 받자 이벤트",
+  "host": "햇살여문",
+  "hostType": "기업",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "충주쌀",
+    "count": 35
+   }
+  ],
+  "winners": 35,
+  "participants": null,
+  "checkedAt": "2026-11-15",
+  "start": "2026-11-10",
+  "end": "2026-11-20",
+  "steps": [
+   "충주쌀 찾기 게임 참여해요",
+   "개인정보 폼 입력해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=319928",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-15)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "퀴즈"
+  ],
+  "announceDate": "2026-11-23"
+ },
+ {
+  "id": "M466",
+  "title": "문해력 자가진단 인증하고 치킨 받자 이벤트",
+  "host": "국가문해교육센터",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "커피 교환권",
+    "count": 300
+   },
+   {
+    "name": "치킨 교환권",
+    "count": 30
+   },
+   {
+    "name": "아이스크림 교환권",
+    "count": 20
+   }
+  ],
+  "winners": 350,
+  "participants": null,
+  "checkedAt": "2026-11-15",
+  "start": "2026-11-16",
+  "end": "2026-11-16",
+  "steps": [
+   "홈페이지 자가진단해요",
+   "결과 캡처·인증(선착순이라 당일 마감으로 처리)해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320104",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-15)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "설문"
+  ],
+  "announceDate": "2026-11-30"
+ },
+ {
+  "id": "S188",
+  "title": "포블랑시 유기농 여성청결제 나눔 (~11/21)",
+  "host": "유주(@wouldyou2ju)",
+  "hostType": "협찬개인",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "포블랑시 유기농 여성청결제",
+    "count": 2
+   }
+  ],
+  "winners": 2,
+  "participants": 136,
+  "checkedAt": "2026-11-15",
+  "start": "2026-11-14",
+  "end": "2026-11-21",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요",
+   "주최·브랜드 계정을 팔로우해요"
+  ],
+  "tip": "포블랑시 협찬로 진행하는 개인 나눔이에요. 구매 없이 참여할 수 있어요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/wouldyou2ju/status/2121540080796082650",
+  "verified": [
+   "경품·당첨인원: 개인 X 게시물 확인(#협찬 본문 표기)",
+   "마감: 본문 미기재 → 게시(11/14)+7일=11/21 추정",
+   "참여인원: RT+인용(2026-11-15, RT 132·인용 4)"
+  ],
+  "type": [
+   "RT·공유",
+   "팔로우"
+  ],
+  "hostHandle": "wouldyou2ju",
+  "sponsor": "포블랑시"
+ },
+ {
+  "id": "S189",
+  "title": "블라이드 스플래쉬 머드 팩투폼 나눔 (~11/21)",
+  "host": "사랑(@dear_loveis)",
+  "hostType": "협찬개인",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "블라이드 스플래쉬 머드 팩투폼",
+    "count": 3
+   }
+  ],
+  "winners": 3,
+  "participants": 106,
+  "checkedAt": "2026-11-15",
+  "start": "2026-11-14",
+  "end": "2026-11-21",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요",
+   "주최·브랜드 계정을 팔로우해요"
+  ],
+  "tip": "블라이드 협찬로 진행하는 개인 나눔이에요. 구매 없이 참여할 수 있어요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/dear_loveis/status/2121571655751438630",
+  "verified": [
+   "경품·당첨인원: 개인 X 게시물 확인(#협찬 본문 표기)",
+   "마감: 본문 미기재 → 게시(11/14)+7일=11/21 추정",
+   "참여인원: RT+인용(2026-11-15, RT 101·인용 5)"
+  ],
+  "type": [
+   "RT·공유",
+   "팔로우"
+  ],
+  "hostHandle": "dear_loveis",
+  "sponsor": "블라이드"
+ },
+ {
+  "id": "S190",
+  "title": "멘톨로지 마일드쿨 클리어 수딩크림 나눔 (~11/22)",
+  "host": "미수키(@missmisukiii)",
+  "hostType": "협찬개인",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "멘톨로지 마일드쿨 클리어 수딩크림",
+    "count": 2
+   }
+  ],
+  "winners": 2,
+  "participants": 67,
+  "checkedAt": "2026-11-15",
+  "start": "2026-11-14",
+  "end": "2026-11-22",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요",
+   "주최·브랜드 계정을 팔로우해요"
+  ],
+  "tip": "멘톨로지 협찬로 진행하는 개인 나눔이에요. 구매 없이 참여할 수 있어요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/missmisukiii/status/2121626759967932681",
+  "verified": [
+   "경품·당첨인원: 개인 X 게시물 확인(#협찬/제품제공 본문 표기)",
+   "마감: 본문 미기재 → 게시(11/15 KST)+7일=11/22 추정",
+   "참여인원: RT+인용(2026-11-15, RT 66·인용 1)"
+  ],
+  "type": [
+   "RT·공유",
+   "팔로우"
+  ],
+  "hostHandle": "missmisukiii",
+  "sponsor": "멘톨로지"
+ },
+ {
+  "id": "S191",
+  "title": "마이피픈 라븐 렌즈 2팩 나눔 (~11/21)",
+  "host": "령(@gnaroey)",
+  "hostType": "협찬개인",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "마이피픈 라븐 렌즈 2팩",
+    "count": 5
+   }
+  ],
+  "winners": 5,
+  "participants": 446,
+  "checkedAt": "2026-11-15",
+  "start": "2026-11-14",
+  "end": "2026-11-21",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요"
+  ],
+  "tip": "마이피픈 협찬로 진행하는 개인 나눔이에요. 구매 없이 참여할 수 있어요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/gnaroey/status/2121522702943174972",
+  "verified": [
+   "경품·당첨인원: 개인 X 게시물 확인(#협찬 본문 표기)",
+   "마감: 본문 미기재 → 게시(11/14)+7일=11/21 추정",
+   "참여인원: RT+인용(2026-11-15, RT 427·인용 19)"
+  ],
+  "type": [
+   "RT·공유"
+  ],
+  "hostHandle": "gnaroey",
+  "sponsor": "마이피픈"
+ },
+ {
+  "id": "S192",
+  "title": "바르는 마데카 크림패치 나눔 (~11/21)",
+  "host": "티타(@only1intheearth)",
+  "hostType": "협찬개인",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "바르는 마데카 크림패치",
+    "count": 5
+   }
+  ],
+  "winners": 5,
+  "participants": 405,
+  "checkedAt": "2026-11-15",
+  "start": "2026-11-14",
+  "end": "2026-11-21",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요"
+  ],
+  "tip": "마데카 협찬로 진행하는 개인 나눔이에요. 구매 없이 참여할 수 있어요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/only1intheearth/status/2121450757442732478",
+  "verified": [
+   "경품·당첨인원: 개인 X 게시물 확인(#광고 본문 표기)",
+   "마감: 본문 미기재 → 게시(11/14)+7일=11/21 추정",
+   "참여인원: RT+인용(2026-11-15, RT 404·인용 1)"
+  ],
+  "type": [
+   "RT·공유"
+  ],
+  "hostHandle": "only1intheearth",
+  "sponsor": "마데카"
+ },
+ {
+  "id": "S193",
+  "title": "포블랑시 유기농 여성청결제 나눔 (~11/18)",
+  "host": "돈키(@kittymichingirl)",
+  "hostType": "협찬개인",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "포블랑시 유기농 여성청결제",
+    "count": 2
+   }
+  ],
+  "winners": 2,
+  "participants": 103,
+  "checkedAt": "2026-11-15",
+  "start": "2026-11-14",
+  "end": "2026-11-18",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요",
+   "주최·브랜드 계정을 팔로우해요"
+  ],
+  "tip": "포블랑시 협찬로 진행하는 개인 나눔이에요. 구매 없이 참여할 수 있어요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/kittymichingirl/status/2121607571400478967",
+  "verified": [
+   "경품·당첨인원: 개인 X 게시물 확인(#제품제공 본문 표기)",
+   "마감: 본문 이벤트 기간 11/14~11/18, 발표 11/20",
+   "참여인원: RT+인용(2026-11-15, RT 103·인용 0)"
+  ],
+  "type": [
+   "RT·공유",
+   "팔로우"
+  ],
+  "hostHandle": "kittymichingirl",
+  "sponsor": "포블랑시",
+  "announceDate": "2026-11-20"
+ },
+ {
+  "id": "S194",
+  "title": "더랩바이블랑두 캡슐 젤리 미스트 나눔 (~11/21)",
+  "host": "코덕쪼코(@codukcchoco)",
+  "hostType": "협찬개인",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "더랩바이블랑두 캡슐 젤리 미스트",
+    "count": 5
+   }
+  ],
+  "winners": 5,
+  "participants": 248,
+  "checkedAt": "2026-11-15",
+  "start": "2026-11-14",
+  "end": "2026-11-21",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요"
+  ],
+  "tip": "더랩바이블랑두 협찬로 진행하는 개인 나눔이에요. 구매 없이 참여할 수 있어요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/codukcchoco/status/2121590478642843992",
+  "verified": [
+   "경품·당첨인원: 개인 X 게시물 확인(#광고 본문 표기)",
+   "마감: 본문 미기재 → 게시(11/14)+7일=11/21 추정",
+   "참여인원: RT+인용(2026-11-15, RT 248·인용 0)"
+  ],
+  "type": [
+   "RT·공유"
+  ],
+  "hostHandle": "codukcchoco",
+  "sponsor": "더랩바이블랑두"
+ },
+ {
+  "id": "S195",
+  "title": "미샤 비폴렌 앰플&크림 나눔 (~11/21)",
+  "host": "단(@eks_0q)",
+  "hostType": "협찬개인",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "미샤 비폴렌 앰플&크림",
+    "count": 10
+   }
+  ],
+  "winners": 10,
+  "participants": 191,
+  "checkedAt": "2026-11-15",
+  "start": "2026-11-14",
+  "end": "2026-11-21",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요",
+   "주최·브랜드 계정을 팔로우해요"
+  ],
+  "tip": "미샤 협찬로 진행하는 개인 나눔이에요. 구매 없이 참여할 수 있어요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/eks_0q/status/2121572454133076028",
+  "verified": [
+   "경품·당첨인원: 개인 X 게시물 확인(#제품제공 본문 표기)",
+   "마감: 본문 미기재 → 게시(11/14)+7일=11/21 추정",
+   "참여인원: RT+인용(2026-11-15, RT 189·인용 2)"
+  ],
+  "type": [
+   "RT·공유",
+   "팔로우"
+  ],
+  "hostHandle": "eks_0q",
+  "sponsor": "미샤"
+ },
+ {
+  "id": "S196",
+  "title": "더랩바이블랑두 캡슐 젤리 미스트 나눔 (~11/21)",
+  "host": "괴나리봇짐(@beautiemaker)",
+  "hostType": "협찬개인",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "더랩바이블랑두 캡슐 젤리 미스트",
+    "count": 5
+   }
+  ],
+  "winners": 5,
+  "participants": 360,
+  "checkedAt": "2026-11-15",
+  "start": "2026-11-14",
+  "end": "2026-11-21",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요"
+  ],
+  "tip": "더랩바이블랑두 협찬로 진행하는 개인 나눔이에요. 구매 없이 참여할 수 있어요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/beautiemaker/status/2121560147608969530",
+  "verified": [
+   "경품·당첨인원: 개인 X 게시물 확인(#광고 본문 표기)",
+   "마감: 본문 미기재 → 게시(11/14)+7일=11/21 추정",
+   "참여인원: RT+인용(2026-11-15, RT 360·인용 0)"
+  ],
+  "type": [
+   "RT·공유"
+  ],
+  "hostHandle": "beautiemaker",
+  "sponsor": "더랩바이블랑두"
+ },
+ {
+  "id": "S197",
+  "title": "샐러디 두부부리또 나눔 (~11/21)",
+  "host": "개(@_53719_)",
+  "hostType": "협찬개인",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "샐러디 두부부리또",
+    "count": 5
+   }
+  ],
+  "winners": 5,
+  "participants": 539,
+  "checkedAt": "2026-11-15",
+  "start": "2026-11-14",
+  "end": "2026-11-21",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요"
+  ],
+  "tip": "샐러디 협찬로 진행하는 개인 나눔이에요. 구매 없이 참여할 수 있어요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/_53719_/status/2121538157846167660",
+  "verified": [
+   "경품·당첨인원: 개인 X 게시물 확인(#광고 본문 표기)",
+   "마감: 본문 기간 11/14~11/21, 발표 11/22",
+   "참여인원: RT+인용(2026-11-15, RT 526·인용 13)"
+  ],
+  "type": [
+   "RT·공유"
+  ],
+  "hostHandle": "_53719_",
+  "sponsor": "샐러디",
+  "announceDate": "2026-11-22"
+ },
+ {
+  "id": "S198",
+  "title": "블라이드 PDRN 젤리팩클렌저 나눔 (~11/20)",
+  "host": "오육이(@pomuue)",
+  "hostType": "협찬개인",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "블라이드 PDRN 젤리팩클렌저",
+    "count": 3
+   }
+  ],
+  "winners": 3,
+  "participants": 127,
+  "checkedAt": "2026-11-15",
+  "start": "2026-11-14",
+  "end": "2026-11-20",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요",
+   "주최·브랜드 계정을 팔로우해요"
+  ],
+  "tip": "블라이드 협찬로 진행하는 개인 나눔이에요. 구매 없이 참여할 수 있어요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/pomuue/status/2121535205240668249",
+  "verified": [
+   "경품·당첨인원: 개인 X 게시물 확인(#제품제공 본문 표기)",
+   "마감: 본문 미기재, 당첨 발표 11/21 → 11/20 추정",
+   "참여인원: RT+인용(2026-11-15, RT 127·인용 0)"
+  ],
+  "type": [
+   "RT·공유",
+   "팔로우"
+  ],
+  "hostHandle": "pomuue",
+  "sponsor": "블라이드",
+  "announceDate": "2026-11-21"
+ },
+ {
+  "id": "S199",
+  "title": "머지 더블 글레이즈 락커 톤 플레이션 단품 나눔 (~11/22)",
+  "host": "쥬(@ChuWooChuWoo)",
+  "hostType": "협찬개인",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "머지 더블 글레이즈 락커 톤 플레이션 단품",
+    "count": 3
+   }
+  ],
+  "winners": 3,
+  "participants": 408,
+  "checkedAt": "2026-11-15",
+  "start": "2026-11-14",
+  "end": "2026-11-22",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요"
+  ],
+  "tip": "머지 협찬로 진행하는 개인 나눔이에요. 구매 없이 참여할 수 있어요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/ChuWooChuWoo/status/2121513314996154601",
+  "verified": [
+   "경품·당첨인원: 개인 X 게시물 확인(#광고 본문 표기)",
+   "마감: 본문 ~11/22",
+   "참여인원: RT+인용(2026-11-15, RT 406·인용 2)"
+  ],
+  "type": [
+   "RT·공유"
+  ],
+  "hostHandle": "ChuWooChuWoo",
+  "sponsor": "머지"
+ },
+ {
+  "id": "S200",
+  "title": "코페르 큐리페어 멜라크림 나눔 (~11/18)",
+  "host": "Q.Q.Q(@qqq_3_thanks)",
+  "hostType": "협찬개인",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "코페르 큐리페어 멜라크림",
+    "count": 3
+   }
+  ],
+  "winners": 3,
+  "participants": 371,
+  "checkedAt": "2026-11-15",
+  "start": "2026-11-13",
+  "end": "2026-11-18",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요"
+  ],
+  "tip": "코페르 협찬로 진행하는 개인 나눔이에요. 구매 없이 참여할 수 있어요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/qqq_3_thanks/status/2121387678164013418",
+  "verified": [
+   "경품·당첨인원: 개인 X 게시물 확인(#제품제공 본문 표기)",
+   "마감: 본문 기간 11/14~11/18, 19일 발표",
+   "참여인원: RT+인용(2026-11-15, RT 371·인용 0)"
+  ],
+  "type": [
+   "RT·공유"
+  ],
+  "hostHandle": "qqq_3_thanks",
+  "sponsor": "코페르",
+  "announceDate": "2026-11-19"
+ },
+ {
+  "id": "S201",
+  "title": "넛세린 보습밤 3종세트 나눔 (~11/20)",
+  "host": "하트떡국ෆ(@hateutteog65679)",
+  "hostType": "협찬개인",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "넛세린 보습밤 3종세트",
+    "count": null
+   }
+  ],
+  "winners": null,
+  "participants": 132,
+  "checkedAt": "2026-11-15",
+  "start": "2026-11-13",
+  "end": "2026-11-20",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요"
+  ],
+  "tip": "넛세린 협찬로 진행하는 개인 나눔이에요. 구매 없이 참여할 수 있어요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/hateutteog65679/status/2121209431073722389",
+  "verified": [
+   "경품·당첨인원: 개인 X 게시물 확인(#제품제공 본문 표기)",
+   "마감: 본문 미기재 → 게시(11/13)+7일=11/20 추정",
+   "참여인원: RT+인용(2026-11-15, RT 132·인용 0)"
+  ],
+  "type": [
+   "RT·공유"
+  ],
+  "hostHandle": "hateutteog65679",
+  "sponsor": "넛세린"
+ },
+ {
+  "id": "N83",
+  "title": "리디북스 <더 로튼 러브> 론칭 팔로우+RT 이벤트 (~11/21)",
+  "host": "STORYZAK(@STORYZAK21)",
+  "hostType": "기업",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "CU 금액권",
+    "count": 1
+   }
+  ],
+  "winners": 1,
+  "participants": 329,
+  "checkedAt": "2026-11-15",
+  "start": "2026-11-14",
+  "end": "2026-11-21",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요",
+   "주최·브랜드 계정을 팔로우해요"
+  ],
+  "tip": "웹소설 론칭 기념 출판사 이벤트예요. 팔로우+RT만 하면 돼요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/STORYZAK21/status/2121407771169919014",
+  "verified": [
+   "경품·당첨인원: 공식 X 게시물 확인(공식)",
+   "마감: 본문 미기재 → 게시(11/14)+7일=11/21 추정",
+   "참여인원: RT+인용(2026-11-15, RT 329·인용 0)"
+  ],
+  "type": [
+   "팔로우",
+   "RT·공유"
+  ],
+  "hostHandle": "STORYZAK21"
+ },
+ {
+  "id": "N84",
+  "title": "리디북스 <짝사랑을 접기로 했습니다> 론칭 팔로우+RT 이벤트 (~11/20)",
+  "host": "STORYZAK(@STORYZAK21)",
+  "hostType": "기업",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "컴포즈커피 금액권",
+    "count": 1
+   }
+  ],
+  "winners": 1,
+  "participants": 346,
+  "checkedAt": "2026-11-15",
+  "start": "2026-11-13",
+  "end": "2026-11-20",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요",
+   "주최·브랜드 계정을 팔로우해요"
+  ],
+  "tip": "웹소설 론칭 기념 출판사 이벤트예요. 팔로우+RT만 하면 돼요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/STORYZAK21/status/2121256777681371472",
+  "verified": [
+   "경품·당첨인원: 공식 X 게시물 확인(공식)",
+   "마감: 본문 미기재 → 게시(11/13)+7일=11/20 추정",
+   "참여인원: RT+인용(2026-11-15, RT 346·인용 0)"
+  ],
+  "type": [
+   "팔로우",
+   "RT·공유"
+  ],
+  "hostHandle": "STORYZAK21"
+ },
+ {
+  "id": "N85",
+  "title": "<개와 양> 시리즈에디션 론칭 팔로우+RT 이벤트 (~11/22)",
+  "host": "해피북스투유 웹소설(@happybooks2u)",
+  "hostType": "기업",
+  "channel": "X",
+  "prizes": [
+   {
+    "name": "투썸 기프티콘",
+    "count": 2
+   }
+  ],
+  "winners": 2,
+  "participants": 282,
+  "checkedAt": "2026-11-15",
+  "start": "2026-11-13",
+  "end": "2026-11-22",
+  "steps": [
+   "이벤트 게시물을 리포스트(RT)해요",
+   "주최·브랜드 계정을 팔로우해요"
+  ],
+  "tip": "출판사 신작 출간 이벤트예요. 발표는 11/23이에요.",
+  "difficulty": 1,
+  "minutes": 1,
+  "url": "https://x.com/happybooks2u/status/2121261264999788888",
+  "verified": [
+   "경품·당첨인원: 공식 X 게시물 확인(공식)",
+   "마감: 본문 미기재, 발표 11/23 → 11/22 추정",
+   "참여인원: RT+인용(2026-11-15, RT 282·인용 0)"
+  ],
+  "type": [
+   "팔로우",
+   "RT·공유"
+  ],
+  "hostHandle": "happybooks2u",
+  "announceDate": "2026-11-23"
  }
 ]
