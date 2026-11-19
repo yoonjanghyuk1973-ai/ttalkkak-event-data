@@ -195,83 +195,6 @@
   "hostHandle": "twilight_proj"
  },
  {
-  "id": "N13",
-  "title": "한국만화가협회 이달의 출판만화 인용 기대평 이벤트",
-  "host": "한국만화가협회",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "이달의 출판만화(<룩 백>/<흰 신>)",
-    "count": null
-   }
-  ],
-  "winners": null,
-  "participants": 10,
-  "checkedAt": "2026-11-08",
-  "start": "2026-11-04",
-  "end": "2026-11-18",
-  "steps": [
-   "X에서 @KorCartoonistsA 계정을 팔로우해요",
-   "이벤트 게시물을 리포스트(RT)해요",
-   "게시물을 인용해서 <룩 백>, <흰 신> 기대평을 남겨요",
-   "당첨되면 DM으로 연락이 오니 DM 수신을 열어 두세요"
-  ],
-  "tip": "당첨 인원은 게시물에 적혀 있지 않아요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/KorCartoonistsA/status/2117890340606874076",
-  "verified": [
-   "기간·경품·당첨인원: 공식 X 게시물 확인",
-   "참여인원: RT+인용(2026-11-08, RT 8·인용 2)"
-  ],
-  "type": [
-   "팔로우",
-   "댓글"
-  ],
-  "announceDate": "2026-11-19",
-  "hostType": "기관",
-  "hostImage": "img/N13.webp",
-  "hostHandle": "KorCartoonistsA"
- },
- {
-  "id": "N20",
-  "title": "사이코 슬루스 STOVE 출시 기념 굿즈 이벤트",
-  "host": "스토브(STOVE)",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "굿즈 3종 세트(담요·키캡 키링·손난로)",
-    "count": 5
-   }
-  ],
-  "winners": 5,
-  "participants": 67,
-  "checkedAt": "2026-11-08",
-  "start": "2026-11-05",
-  "end": "2026-11-18",
-  "steps": [
-   "X에서 @sgstove 계정을 팔로우해요",
-   "이벤트 게시물을 리포스트(RT)해요",
-   "당첨되면 DM으로 연락이 오니 DM 수신을 열어 두세요"
-  ],
-  "tip": "'모든 사람 DM 허용'을 꼭 켜 두세요. 국내 거주자만 받을 수 있어요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/sgstove/status/2118258088579121633",
-  "verified": [
-   "기간·경품·당첨인원: 공식 X 게시물 확인",
-   "참여인원: RT+인용(2026-11-08, RT 66·인용 1)"
-  ],
-  "type": [
-   "팔로우",
-   "RT·공유"
-  ],
-  "announceDate": "2026-11-19",
-  "hostType": "기업",
-  "hostImage": "img/N20.webp",
-  "hostHandle": "sgstove"
- },
- {
   "id": "N21",
   "title": "나무문구 FF14 오르골 RT 이벤트",
   "host": "나무 문구 다꾸샵",
@@ -1457,43 +1380,6 @@
   "hostImage": "img/M45.webp"
  },
  {
-  "id": "M46",
-  "title": "등산 안전수칙 댓글로 커피쿠폰 받자 이벤트",
-  "host": "산림청",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "따뜻한 아메리카노 기프티콘",
-    "count": 50
-   }
-  ],
-  "winners": 50,
-  "participants": null,
-  "checkedAt": "2026-11-05",
-  "start": "2026-11-04",
-  "end": "2026-11-18",
-  "steps": [
-   "산행 안전수칙 생각해요",
-   "나만의 꿀팁 댓글을 남겨요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 1,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319312",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-05)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "댓글"
-  ],
-  "announceDate": "2026-11-20",
-  "hostType": "기관",
-  "sponsor": null,
-  "hostImage": "img/M46.webp"
- },
- {
   "id": "M47",
   "title": "인천시 SNS 만족도 조사하고 상품권 받자 이벤트",
   "host": "인천광역시",
@@ -1613,123 +1499,6 @@
   "hostType": "기관",
   "sponsor": null,
   "hostImage": "img/M52.webp"
- },
- {
-  "id": "M55",
-  "title": "수험생 수능 응원댓글로 투썸상품권 받자 이벤트",
-  "host": "부천시",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "투썸플레이스 1만원권",
-    "count": 30
-   }
-  ],
-  "winners": 30,
-  "participants": null,
-  "checkedAt": "2026-11-05",
-  "start": "2026-11-04",
-  "end": "2026-11-18",
-  "steps": [
-   "부천시 팔로우해요",
-   "수능 응원댓글을 남겨요",
-   "친구태그해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319303",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-05)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "댓글",
-   "팔로우"
-  ],
-  "announceDate": "2026-11-24",
-  "hostType": "기관",
-  "sponsor": null,
-  "hostImage": "img/M55.webp"
- },
- {
-  "id": "M58",
-  "title": "낙엽 속 장소 맞히고 카페모카 받자 이벤트",
-  "host": "대전 오월드",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "이디야 디카페인 카페모카",
-    "count": 20
-   }
-  ],
-  "winners": 20,
-  "participants": null,
-  "checkedAt": "2026-11-05",
-  "start": "2026-11-04",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우해요",
-   "장소 댓글을 남겨요",
-   "인증샷 폼 제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319300",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-05)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "퀴즈",
-   "팔로우",
-   "댓글"
-  ],
-  "announceDate": "2026-11-25",
-  "hostType": "기관",
-  "sponsor": null,
-  "hostImage": "img/M58.webp"
- },
- {
-  "id": "M60",
-  "title": "수능 응원댓글 인증해 CGV관람권 받자 이벤트",
-  "host": "한국청소년활동진흥원",
-  "channel": "유튜브",
-  "prizes": [
-   {
-    "name": "CGV 영화관람권 1매",
-    "count": 30
-   }
-  ],
-  "winners": 30,
-  "participants": null,
-  "checkedAt": "2026-11-05",
-  "start": "2026-11-02",
-  "end": "2026-11-18",
-  "steps": [
-   "구독해요",
-   "응원댓글을 남겨요",
-   "캡처해 폼 제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319298",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-05)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "댓글"
-  ],
-  "announceDate": "2026-11-25",
-  "hostType": "기관",
-  "sponsor": null,
-  "hostImage": "img/M60.webp"
  },
  {
   "id": "M62",
@@ -2405,44 +2174,6 @@
   "announceDate": "2026-11-26"
  },
  {
-  "id": "S49",
-  "title": "지피엘 말랑두부 장벽크림 본품 나눔 (~11/18)",
-  "host": "잉쨔(@ingzzarazza)",
-  "hostType": "협찬개인",
-  "sponsor": "지피엘",
-  "hostHandle": "ingzzarazza",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "지피엘 말랑두부 플럼핑 트리플 워터장벽크림 본품",
-    "count": 2
-   }
-  ],
-  "winners": 2,
-  "participants": 106,
-  "checkedAt": "2026-11-08",
-  "start": "2026-11-07",
-  "end": "2026-11-18",
-  "steps": [
-   "X에서 주최 계정을 팔로우해요",
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "지피엘 협찬 개인 나눔, 브랜드에서 직접 배송해요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/ingzzarazza/status/2119044263845703847",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인(협찬/제품제공 표기, 브랜드 지피엘)",
-   "참여인원: RT+인용(2026-11-08, RT 106·인용 0)",
-   "마감: 본문 당발 11/18"
-  ],
-  "type": [
-   "팔로우",
-   "RT·공유"
-  ],
-  "announceDate": "2026-11-18"
- },
- {
   "id": "S50",
   "title": "이니스프리 레티놀 시카 앰플 기획세트+화산송이 폼 나눔 (~11/30)",
   "host": "로기(@HANROROck)",
@@ -2593,84 +2324,6 @@
   "announceDate": "2026-12-10"
  },
  {
-  "id": "M107",
-  "title": "SNS 만족도 조사하고 네이버페이 받자 이벤트",
-  "host": "중소기업기술정보진흥원",
-  "hostType": "기관",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "네이버페이 포인트 5천원",
-    "count": 10
-   },
-   {
-    "name": "디지털 온누리상품권 5천원",
-    "count": 5
-   }
-  ],
-  "winners": 15,
-  "participants": null,
-  "checkedAt": "2026-11-08",
-  "start": "2026-10-22",
-  "end": "2026-11-18",
-  "steps": [
-   "TIPA 계정을 팔로우해요",
-   "좋아요를 눌러요",
-   "만족도 설문을 제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319410",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-08)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "설문",
-   "팔로우"
-  ],
-  "announceDate": "2026-11-26"
- },
- {
-  "id": "M108",
-  "title": "해썹 설문 참여하고 네이버페이 받자 이벤트",
-  "host": "한국식품안전관리인증원",
-  "hostType": "기관",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "네이버페이 포인트 1만원권",
-    "count": 30
-   }
-  ],
-  "winners": 30,
-  "participants": null,
-  "checkedAt": "2026-11-08",
-  "start": "2026-11-05",
-  "end": "2026-11-18",
-  "steps": [
-   "인스타그램을 팔로우해요",
-   "QR로 접속해요",
-   "네이버폼을 제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319420",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-08)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "설문",
-   "팔로우"
-  ],
-  "announceDate": "2026-11-23"
- },
- {
   "id": "M139",
   "title": "사장님 휴가 DM공유로 에어팟 받자 이벤트",
   "host": "케이뱅크",
@@ -2794,43 +2447,6 @@
   "announceDate": "2026-11-30"
  },
  {
-  "id": "M142",
-  "title": "충북 여행취향 댓글로 신세계권 받자 이벤트",
-  "host": "들락날락 충북",
-  "hostType": "기관",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "신세계 상품권 1만원권",
-    "count": 50
-   }
-  ],
-  "winners": 50,
-  "participants": null,
-  "checkedAt": "2026-11-10",
-  "start": "2026-11-09",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우·좋아요",
-   "취향댓글해요",
-   "캡처제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319695",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-10)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "댓글"
-  ],
-  "announceDate": "2026-11-19"
- },
- {
   "id": "M143",
   "title": "수험생 응원댓글로 네이버페이 받자 이벤트",
   "host": "성남시의회",
@@ -2916,43 +2532,6 @@
    "댓글"
   ],
   "announceDate": "2026-11-27"
- },
- {
-  "id": "M145",
-  "title": "욜로온나 퀴즈 맞혀 다이소권 챙기자 이벤트",
-  "host": "대구광역시 욜로온나",
-  "hostType": "기관",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "다이소 모바일 금액권 5천원권",
-    "count": 35
-   }
-  ],
-  "winners": 35,
-  "participants": null,
-  "checkedAt": "2026-11-10",
-  "start": "2026-11-06",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우해요",
-   "뉴스레터구독해요",
-   "퀴즈폼 제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319698",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-10)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "퀴즈"
-  ],
-  "announceDate": "2026-11-20"
  },
  {
   "id": "M146",
@@ -4124,43 +3703,6 @@
   "announceDate": "2026-12-01"
  },
  {
-  "id": "M192",
-  "title": "키디딥톡 감상평 쓰고 투썸권 받자 이벤트",
-  "host": "한국보건산업진흥원",
-  "hostType": "기관",
-  "channel": "유튜브",
-  "prizes": [
-   {
-    "name": "투썸플레이스 모바일 금액권 5천원권",
-    "count": 20
-   }
-  ],
-  "winners": 20,
-  "participants": null,
-  "checkedAt": "2026-11-11",
-  "start": "2026-11-10",
-  "end": "2026-11-18",
-  "steps": [
-   "구독해요",
-   "영상댓글·좋아요",
-   "캡처 폼제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319752",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-11)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "댓글"
-  ],
-  "announceDate": "2026-11-27"
- },
- {
   "id": "M193",
   "title": "KFruit 구독 인증하고 국산사과 받자 이벤트",
   "host": "한국과수농협연합회",
@@ -4238,47 +3780,6 @@
   "announceDate": "2026-12-04"
  },
  {
-  "id": "M212",
-  "title": "빈칸 글자 조합해 캠핑의자 받아가자 이벤트",
-  "host": "상봉먹자골목",
-  "hostType": "기업",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "상봉먹자골목 캠핑의자",
-    "count": 5
-   },
-   {
-    "name": "네이버페이 5천원권",
-    "count": 5
-   }
-  ],
-  "winners": 10,
-  "participants": null,
-  "checkedAt": "2026-11-11",
-  "start": "2026-11-09",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우해요",
-   "빈칸 글자 순서대로 댓글 작성해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319808",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-11)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "퀴즈",
-   "댓글"
-  ],
-  "announceDate": "2026-11-23"
- },
- {
   "id": "M213",
   "title": "현충시설 맞히고 파인트 교환권 받자 이벤트",
   "host": "경북북부보훈지청",
@@ -4351,78 +3852,6 @@
   "announceDate": "2026-11-23"
  },
  {
-  "id": "M215",
-  "title": "앵커U 팔로우 인증하고 투썸쿠폰 받자 이벤트",
-  "host": "경북 앵커 U",
-  "hostType": "기업",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "투썸플레이스 모바일 쿠폰 1만원권",
-    "count": 20
-   }
-  ],
-  "winners": 20,
-  "participants": null,
-  "checkedAt": "2026-11-11",
-  "start": "2026-11-09",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우해요",
-   "좋아요",
-   "인증캡처해요",
-   "폼 제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319811",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-11)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "댓글"
-  ],
-  "announceDate": "2026-11-20"
- },
- {
-  "id": "M216",
-  "title": "수험생 응원 댓글로 배민상품권 받자 이벤트",
-  "host": "탕화쿵푸",
-  "hostType": "기업",
-  "channel": "웹",
-  "prizes": [
-   {
-    "name": "배달의민족 2만원 상품권",
-    "count": 50
-   }
-  ],
-  "winners": 50,
-  "participants": null,
-  "checkedAt": "2026-11-11",
-  "start": "2026-11-06",
-  "end": "2026-11-18",
-  "steps": [
-   "이벤트 게시물에 수험생 응원 댓글 남기기해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319812",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-11)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "댓글"
-  ],
-  "announceDate": "2026-11-19"
- },
- {
   "id": "M217",
   "title": "수능 부적 뽑고 친구 태그해 호두 받자 이벤트",
   "host": "앙호두",
@@ -4456,44 +3885,6 @@
    "댓글"
   ],
   "announceDate": "2026-11-20"
- },
- {
-  "id": "M218",
-  "title": "한글 점자명 맞히고 네이버페이 받자 이벤트",
-  "host": "한솔 노피곰",
-  "hostType": "기업",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "네이버페이 1만원권",
-    "count": 10
-   }
-  ],
-  "winners": 10,
-  "participants": null,
-  "checkedAt": "2026-11-11",
-  "start": "2026-11-04",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우해요",
-   "좋아요",
-   "훈맹정음 정답 댓글해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319815",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-11)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "퀴즈",
-   "댓글"
-  ],
-  "announceDate": "2026-11-19"
  },
  {
   "id": "M219",
@@ -4607,44 +3998,6 @@
    "댓글"
   ],
   "announceDate": "2026-11-24"
- },
- {
-  "id": "M222",
-  "title": "적극행정 퀴즈 풀고 네이버페이 받자 이벤트",
-  "host": "국토안전관리원",
-  "hostType": "기관",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "네이버페이 포인트 1만원권",
-    "count": 10
-   }
-  ],
-  "winners": 10,
-  "participants": null,
-  "checkedAt": "2026-11-11",
-  "start": "2026-11-10",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우 좋아요",
-   "이전글읽기해요",
-   "정답댓글해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319819",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-11)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "퀴즈",
-   "댓글"
-  ],
-  "announceDate": "2026-11-23"
  },
  {
   "id": "M223",
@@ -4795,43 +4148,6 @@
    "설문"
   ],
   "announceDate": "2026-11-30"
- },
- {
-  "id": "M228",
-  "title": "특별 혜택 소문내고 커피 받자 경품이벤트",
-  "host": "해법독서논술",
-  "hostType": "기업",
-  "channel": "웹",
-  "prizes": [
-   {
-    "name": "메가커피 아메리카노",
-    "count": 30
-   }
-  ],
-  "winners": 30,
-  "participants": null,
-  "checkedAt": "2026-11-11",
-  "start": "2026-11-02",
-  "end": "2026-11-18",
-  "steps": [
-   "블로그 이웃추가해요",
-   "댓글 작성해요",
-   "SNS 공유해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319825",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-11)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "댓글",
-   "RT·공유"
-  ],
-  "announceDate": "2026-11-23"
  },
  {
   "id": "M230",
@@ -5148,76 +4464,6 @@
   "announceDate": "2026-12-10"
  },
  {
-  "id": "M240",
-  "title": "용천동굴 초성 맞히고 커피쿠폰 받자 이벤트",
-  "host": "제주 유네스코 세계지질",
-  "hostType": "기관",
-  "channel": "웹",
-  "prizes": [
-   {
-    "name": "모바일 커피 교환권",
-    "count": 50
-   }
-  ],
-  "winners": 50,
-  "participants": null,
-  "checkedAt": "2026-11-11",
-  "start": "2026-11-10",
-  "end": "2026-11-18",
-  "steps": [
-   "동굴 정답댓글해요",
-   "프로필 구글폼 정보제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319837",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-11)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "퀴즈",
-   "댓글"
-  ],
-  "announceDate": "2026-11-20"
- },
- {
-  "id": "M241",
-  "title": "공모전 국민심사 참여하고 편의점 상품권 받자 이벤트",
-  "host": "한국교육학술정보원",
-  "hostType": "기관",
-  "channel": "웹",
-  "prizes": [
-   {
-    "name": "편의점 상품권",
-    "count": 50
-   }
-  ],
-  "winners": 50,
-  "participants": null,
-  "checkedAt": "2026-11-11",
-  "start": "2026-11-04",
-  "end": "2026-11-18",
-  "steps": [
-   "개인정보 보호 사례 공모전 국민심사 참여해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319838",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-11)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "설문"
-  ],
-  "announceDate": "2026-11-25"
- },
- {
   "id": "M242",
   "title": "부케 메시지 댓글 달고 메가커피 받자 이벤트",
   "host": "삼성스토어",
@@ -5400,49 +4646,6 @@
   ],
   "type": [
    "팔로우",
-   "댓글"
-  ],
-  "announceDate": "2026-11-27"
- },
- {
-  "id": "M247",
-  "title": "슬로건 공모 댓글 작성하고 상품권 받자 이벤트",
-  "host": "에듀온",
-  "hostType": "기업",
-  "channel": "웹",
-  "prizes": [
-   {
-    "name": "신세계 10만원권",
-    "count": 1
-   },
-   {
-    "name": "신세계 상품권 3만원권",
-    "count": 5
-   },
-   {
-    "name": "메가커피 5천원권",
-    "count": 50
-   }
-  ],
-  "winners": 56,
-  "participants": null,
-  "checkedAt": "2026-11-11",
-  "start": "2026-11-02",
-  "end": "2026-11-18",
-  "steps": [
-   "에듀온 접속해요",
-   "사이다 정보처리 슬로건 댓글 작성해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319845",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-11)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
    "댓글"
   ],
   "announceDate": "2026-11-27"
@@ -6090,44 +5293,6 @@
   "sponsor": "건강공화국"
  },
  {
-  "id": "S95",
-  "title": "투에이엔 모브 크러쉬 컬렉션 나눔 (~11/18)",
-  "host": "나니(@naneebeauty)",
-  "hostType": "협찬개인",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "투에이엔 모브 크러쉬 컬렉션 랜덤 1종",
-    "count": 1
-   }
-  ],
-  "winners": 1,
-  "participants": 614,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-10",
-  "end": "2026-11-18",
-  "steps": [
-   "X에서 @naneebeauty 계정을 팔로우해요",
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "투에이엔(2aN) 협찬으로 진행하는 개인 나눔이에요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/naneebeauty/status/2120203078960058647",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인([광고]/투에이엔)",
-   "마감·당발: 본문 기재(당발 11/18)",
-   "참여인원: RT+인용(2026-11-13, RT 612·인용 2)"
-  ],
-  "type": [
-   "팔로우",
-   "RT·공유"
-  ],
-  "hostHandle": "naneebeauty",
-  "sponsor": "투에이엔(2aN)",
-  "announceDate": "2026-11-18"
- },
- {
   "id": "S107",
   "title": "슬로우애시드 스트라이프 롱슬리브 나눔 (~11/19)",
   "host": "김온정(@0NJEONG)",
@@ -6283,42 +5448,6 @@
   "announceDate": "2026-12-04"
  },
  {
-  "id": "M269",
-  "title": "인천연구원 설문하고 투썸커피 받자 이벤트",
-  "host": "인천연구원",
-  "hostType": "기관",
-  "channel": "웹",
-  "prizes": [
-   {
-    "name": "투썸플레이스 아메리카노 교환권",
-    "count": 50
-   }
-  ],
-  "winners": 50,
-  "participants": null,
-  "checkedAt": "2026-11-12",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "설문 접속해요",
-   "서비스 평가해요",
-   "응답 제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319945",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-12)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "설문"
-  ],
-  "announceDate": "2026-11-25"
- },
- {
   "id": "M270",
   "title": "의왕시 SNS 설문해 네이버페이 받자 이벤트",
   "host": "의왕시",
@@ -6390,43 +5519,6 @@
    "설문"
   ],
   "announceDate": "2026-12-30"
- },
- {
-  "id": "M273",
-  "title": "영상보고서 시청하구 배달의민족 상품권 받자 이벤트",
-  "host": "한국법제연구원",
-  "hostType": "기관",
-  "channel": "유튜브",
-  "prizes": [
-   {
-    "name": "배달의민족 5만원권",
-    "count": 40
-   }
-  ],
-  "winners": 40,
-  "participants": null,
-  "checkedAt": "2026-11-12",
-  "start": "2026-11-04",
-  "end": "2026-11-18",
-  "steps": [
-   "유튜브 구독해요",
-   "댓글 작성해요",
-   "폼제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319949",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-12)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "댓글"
-  ],
-  "announceDate": "2026-11-30"
  },
  {
   "id": "M274",
@@ -6581,42 +5673,6 @@
   "announceDate": "2026-11-30"
  },
  {
-  "id": "M278",
-  "title": "수능 응원댓글로 떡갈비 세트 노리자 이벤트",
-  "host": "한성기업",
-  "hostType": "기업",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "명란한 떡갈비 1kg+찰떡궁합 가마보꼬 1kg 세트",
-    "count": 30
-   }
-  ],
-  "winners": 30,
-  "participants": null,
-  "checkedAt": "2026-11-12",
-  "start": "2026-11-05",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우·좋아요",
-   "수험생 응원댓글해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319954",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-12)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "댓글"
-  ],
-  "announceDate": "2026-11-25"
- },
- {
   "id": "M279",
   "title": "소이갈릭 마늘 맞히고 제품세트 받자 이벤트",
   "host": "하림",
@@ -6726,81 +5782,6 @@
   ],
   "type": [
    "설문"
-  ],
-  "announceDate": "2026-11-25"
- },
- {
-  "id": "M282",
-  "title": "장사를 향한 응원의 한마디 남기고 선물 받자 이벤트",
-  "host": "대한씨름협회",
-  "hostType": "기관",
-  "channel": "유튜브",
-  "prizes": [
-   {
-    "name": "스타벅스 1만원권",
-    "count": 10
-   }
-  ],
-  "winners": 10,
-  "participants": null,
-  "checkedAt": "2026-11-12",
-  "start": "2026-11-05",
-  "end": "2026-11-18",
-  "steps": [
-   "유튜브 구독해요",
-   "응원 댓글 작성해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319958",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-12)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "퀴즈",
-   "댓글"
-  ],
-  "announceDate": "2026-11-19"
- },
- {
-  "id": "M284",
-  "title": "보령 겨울별미 맞히고 다이소금액권 받자 이벤트",
-  "host": "보령시",
-  "hostType": "기관",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "다이소 모바일 금액권 1만원권",
-    "count": 30
-   }
-  ],
-  "winners": 30,
-  "participants": null,
-  "checkedAt": "2026-11-12",
-  "start": "2026-11-10",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우·좋아요",
-   "정답댓글해요",
-   "캡처제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319961",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-12)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "퀴즈",
-   "댓글"
   ],
   "announceDate": "2026-11-25"
  },
@@ -7104,79 +6085,6 @@
   "announceDate": "2026-11-23"
  },
  {
-  "id": "M293",
-  "title": "입동 2행시 댓글 짓고 CU상품권 받자 이벤트",
-  "host": "비상교육 맘앤톡",
-  "hostType": "기업",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "CU 모바일 상품권 5천원권",
-    "count": 50
-   }
-  ],
-  "winners": 50,
-  "participants": null,
-  "checkedAt": "2026-11-12",
-  "start": "2026-11-06",
-  "end": "2026-11-18",
-  "steps": [
-   "맘앤톡 팔로우해요",
-   "입동 2행시 댓글해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 3,
-  "minutes": 10,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319970",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-12)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "댓글"
-  ],
-  "announceDate": "2026-11-23"
- },
- {
-  "id": "M294",
-  "title": "수능 대박 응원하고 선물 받자 경품이벤트",
-  "host": "한국청소년활동진흥원",
-  "hostType": "기관",
-  "channel": "유튜브",
-  "prizes": [
-   {
-    "name": "CGV 영화관람권",
-    "count": 30
-   }
-  ],
-  "winners": 30,
-  "participants": null,
-  "checkedAt": "2026-11-12",
-  "start": "2026-11-02",
-  "end": "2026-11-18",
-  "steps": [
-   "유튜브 구독해요",
-   "댓글 작성해요",
-   "폼제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319971",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-12)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "댓글"
-  ],
-  "announceDate": "2026-11-27"
- },
- {
   "id": "M295",
   "title": "사진 속 호텔리어 찾고 캘린더 받자 이벤트",
   "host": "파라다이스호텔 부산",
@@ -7212,52 +6120,6 @@
    "댓글"
   ],
   "announceDate": "2026-12-03"
- },
- {
-  "id": "M296",
-  "title": "제주 초성퀴즈 풀고 배민쿠폰 받자 이벤트",
-  "host": "제주관광공사 비짓제주",
-  "hostType": "기관",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "배달의민족쿠팡이츠 선택형 쿠폰 3만원",
-    "count": 10
-   },
-   {
-    "name": "카페 브랜드 선택형 쿠폰 1만원",
-    "count": 40
-   },
-   {
-    "name": "편의점 브랜드 선택형 쿠폰 5천원",
-    "count": 60
-   }
-  ],
-  "winners": 110,
-  "participants": null,
-  "checkedAt": "2026-11-12",
-  "start": "2026-11-09",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우·좋아요",
-   "무장애 댓글해요",
-   "폼 제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319973",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-12)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "퀴즈",
-   "댓글"
-  ],
-  "announceDate": "2026-11-23"
  },
  {
   "id": "M297",
@@ -7300,80 +6162,6 @@
    "댓글"
   ],
   "announceDate": "2026-11-21"
- },
- {
-  "id": "M298",
-  "title": "수험생 응원댓글로 배민상품권 받자 이벤트",
-  "host": "대한적십자사 혈액관리본",
-  "hostType": "기관",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "배달의민족 1만원 모바일 교환권",
-    "count": 20
-   }
-  ],
-  "winners": 20,
-  "participants": null,
-  "checkedAt": "2026-11-12",
-  "start": "2026-11-09",
-  "end": "2026-11-18",
-  "steps": [
-   "인스타 팔로우해요",
-   "수험생 응원댓글 남기기해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319976",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-12)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "댓글"
-  ],
-  "announceDate": "2026-11-23"
- },
- {
-  "id": "M299",
-  "title": "숨은 문구 찾아 커피 쿠폰에 도전하자 이벤트",
-  "host": "한국지식재산보호원",
-  "hostType": "기관",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "아이스 아메리카노 모바일 교환권",
-    "count": 50
-   }
-  ],
-  "winners": 50,
-  "participants": null,
-  "checkedAt": "2026-11-12",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우해요",
-   "숨은문구 댓글해요",
-   "폼 작성·제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319977",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-12)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "퀴즈",
-   "댓글"
-  ],
-  "announceDate": "2026-11-25"
  },
  {
   "id": "M300",
@@ -7609,411 +6397,6 @@
   "announceDate": "2026-11-27"
  },
  {
-  "id": "S111",
-  "title": "브링그린 징크테카 세럼 샘플 나눔 (~11/18)",
-  "host": "웅응(@june_kyuuu)",
-  "hostType": "협찬개인",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "브링그린 징크테카 트러블 세럼 샘플 30mL",
-    "count": 10
-   }
-  ],
-  "winners": 10,
-  "participants": 149,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "X에서 @june_kyuuu 계정을 팔로우해요",
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "브링그린 협찬으로 진행하는 개인 나눔이에요. 본문에 마감일이 없어 추정 마감으로 표시했어요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/june_kyuuu/status/2120489452997124446",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인(#제품제공/@bringgreen_kr)",
-   "마감: 본문 미기재 → 게시(11/11)+7일=11/18 추정",
-   "참여인원: RT+인용(2026-11-13, RT 148·인용 1)"
-  ],
-  "type": [
-   "팔로우",
-   "RT·공유"
-  ],
-  "hostHandle": "june_kyuuu",
-  "sponsor": "브링그린"
- },
- {
-  "id": "S112",
-  "title": "블라이드 머드팩 클렌저 나눔 (~11/18)",
-  "host": "˞͛ 쌀 ˞͛(@bbackmii)",
-  "hostType": "협찬개인",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "블라이드 버블링 스플래쉬 마스크 인디언 그레이셜 머드",
-    "count": 3
-   }
-  ],
-  "winners": 3,
-  "participants": 175,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "X에서 @bbackmii 계정을 팔로우해요",
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "블라이드 협찬으로 진행하는 개인 나눔이에요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/bbackmii/status/2120441811365757048",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인(#제품제공 #협찬/블라이드)",
-   "마감·당발: 본문 기재 당첨 발표(11/18)를 마감으로 표시",
-   "참여인원: RT+인용(2026-11-13, RT 175·인용 0)"
-  ],
-  "type": [
-   "팔로우",
-   "RT·공유"
-  ],
-  "hostHandle": "bbackmii",
-  "sponsor": "블라이드",
-  "announceDate": "2026-11-18"
- },
- {
-  "id": "S113",
-  "title": "톤28 블루 펩타이드 고체 세럼 나눔 (~11/18)",
-  "host": "콩이(@kooongyii)",
-  "hostType": "협찬개인",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "톤28 더 퍼스트 블루 펩타이드 시카 고체 세럼",
-    "count": 2
-   }
-  ],
-  "winners": 2,
-  "participants": 237,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "X에서 @kooongyii 계정을 팔로우해요",
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "톤28 협찬으로 진행하는 개인 나눔이에요. 본문에 마감일이 없어 추정 마감으로 표시했어요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/kooongyii/status/2120429550698205345",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인(#제품제공/@toun28_official)",
-   "마감: 본문 미기재 → 게시(11/11)+7일=11/18 추정",
-   "참여인원: RT+인용(2026-11-13, RT 231·인용 6)"
-  ],
-  "type": [
-   "팔로우",
-   "RT·공유"
-  ],
-  "hostHandle": "kooongyii",
-  "sponsor": "톤28"
- },
- {
-  "id": "S114",
-  "title": "릴리바이레드 몽블틴 나눔 (~11/18)",
-  "host": "채니 Chany(@_neweno)",
-  "hostType": "협찬개인",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "릴리바이레드 몽블틴(컬러 선택)",
-    "count": 1
-   }
-  ],
-  "winners": 1,
-  "participants": 249,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "X에서 @_neweno 계정을 팔로우해요",
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "릴리바이레드 협찬으로 진행하는 개인 나눔이에요. 본문에 마감일이 없어 추정 마감으로 표시했어요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/_neweno/status/2120409259599155352",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인(#제품제공/릴리바이레드)",
-   "마감: 본문 미기재 → 게시(11/11)+7일=11/18 추정",
-   "참여인원: RT+인용(2026-11-13, RT 248·인용 1)"
-  ],
-  "type": [
-   "팔로우",
-   "RT·공유"
-  ],
-  "hostHandle": "_neweno",
-  "sponsor": "릴리바이레드"
- },
- {
-  "id": "S115",
-  "title": "어뮤즈 젤핏 글로스 나눔 (~11/18)",
-  "host": "호덕이(@hoduck_1)",
-  "hostType": "협찬개인",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "어뮤즈 젤핏 글로스",
-    "count": 3
-   }
-  ],
-  "winners": 3,
-  "participants": 409,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "X에서 @hoduck_1 계정을 팔로우해요",
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "어뮤즈 협찬으로 진행하는 개인 나눔이에요. 본문에 마감일이 없어 추정 마감으로 표시했어요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/hoduck_1/status/2120387374639382785",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인(#제품제공/어뮤즈)",
-   "마감: 본문 미기재 → 게시(11/11)+7일=11/18 추정",
-   "참여인원: RT+인용(2026-11-13, RT 409·인용 0)"
-  ],
-  "type": [
-   "팔로우",
-   "RT·공유"
-  ],
-  "hostHandle": "hoduck_1",
-  "sponsor": "어뮤즈"
- },
- {
-  "id": "S116",
-  "title": "블라이드 버블링 스플래쉬 마스크 나눔 (~11/18)",
-  "host": "강똥(@gangajiddong_)",
-  "hostType": "협찬개인",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "블라이드 버블링 스플래쉬 마스크",
-    "count": 3
-   }
-  ],
-  "winners": 3,
-  "participants": 157,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "X에서 @gangajiddong_ 계정을 팔로우해요",
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "블라이드 협찬으로 진행하는 개인 나눔이에요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/gangajiddong_/status/2120378667310391770",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인(#광고 #제품제공 #협찬/@blithe_kr)",
-   "마감·당발: 본문 기재 당첨 발표(11/18)를 마감으로 표시",
-   "참여인원: RT+인용(2026-11-13, RT 146·인용 11)"
-  ],
-  "type": [
-   "팔로우",
-   "RT·공유"
-  ],
-  "hostHandle": "gangajiddong_",
-  "sponsor": "블라이드",
-  "announceDate": "2026-11-18"
- },
- {
-  "id": "S117",
-  "title": "블라이드 그린캐비어 PDRN 팩클렌저 나눔 (~11/18)",
-  "host": "콩송이(@songibloom)",
-  "hostType": "협찬개인",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "블라이드 포밍 스플래쉬 마스크 그린 캐비어 PDRN",
-    "count": 3
-   }
-  ],
-  "winners": 3,
-  "participants": 140,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "X에서 @songibloom 계정을 팔로우해요",
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "블라이드 협찬으로 진행하는 개인 나눔이에요. 본문에 마감일이 없어 추정 마감으로 표시했어요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/songibloom/status/2120369440353391078",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인(#제품제공/@blithe_kr)",
-   "마감: 본문 미기재 → 게시(11/11)+7일=11/18 추정",
-   "참여인원: RT+인용(2026-11-13, RT 140·인용 0)"
-  ],
-  "type": [
-   "팔로우",
-   "RT·공유"
-  ],
-  "hostHandle": "songibloom",
-  "sponsor": "블라이드"
- },
- {
-  "id": "S118",
-  "title": "헤어플러스 단백질 본드 에센스 나눔 (~11/18)",
-  "host": "쿸키(@coookoo27)",
-  "hostType": "협찬개인",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "헤어플러스 단백질 본드 워터에센스 기획세트",
-    "count": 5
-   }
-  ],
-  "winners": 5,
-  "participants": 594,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-10",
-  "end": "2026-11-18",
-  "steps": [
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "헤어플러스 협찬으로 진행하는 개인 나눔이에요. 본문에 마감일이 없어 추정 마감으로 표시했어요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/coookoo27/status/2120170205490069809",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인(#제품제공/@hairplus_kr)",
-   "마감: 본문 미기재 → 게시(11/11)+7일=11/18 추정",
-   "참여인원: RT+인용(2026-11-13, RT 593·인용 1)"
-  ],
-  "type": [
-   "RT·공유"
-  ],
-  "hostHandle": "coookoo27",
-  "sponsor": "헤어플러스"
- },
- {
-  "id": "S119",
-  "title": "영롱 더블업 이노시톨 나눔 (~11/18)",
-  "host": "쿸키(@coookoo27)",
-  "hostType": "협찬개인",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "영롱 더블업 이노시톨",
-    "count": 1
-   }
-  ],
-  "winners": 1,
-  "participants": 164,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "브랜드 계정 @yl_official_kr을 팔로우해요",
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "영롱 협찬으로 진행하는 개인 나눔이에요. 본문에 마감일이 없어 추정 마감으로 표시했어요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/coookoo27/status/2120482322990649753",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인(#협찬/@yl_official_kr)",
-   "마감: 본문 미기재 → 게시(11/11)+7일=11/18 추정",
-   "참여인원: RT+인용(2026-11-13, RT 164·인용 0)"
-  ],
-  "type": [
-   "팔로우",
-   "RT·공유"
-  ],
-  "hostHandle": "coookoo27",
-  "sponsor": "영롱"
- },
- {
-  "id": "S120",
-  "title": "멘톨로지 수딩크림 나눔 (~11/18)",
-  "host": "𝙈𝙖𝙧𝙞(@roseumari)",
-  "hostType": "협찬개인",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "멘톨로지 마일드쿨 클리어 수딩크림",
-    "count": 2
-   }
-  ],
-  "winners": 2,
-  "participants": 201,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-10",
-  "end": "2026-11-18",
-  "steps": [
-   "X에서 @roseumari 계정을 팔로우해요",
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "멘톨로지 협찬으로 진행하는 개인 나눔이에요. 본문에 마감일이 없어 추정 마감으로 표시했어요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/roseumari/status/2120170108056465492",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인(#협찬 #제품제공/@menthology_kr)",
-   "마감: 본문 미기재 → 게시(11/11)+7일=11/18 추정",
-   "참여인원: RT+인용(2026-11-13, RT 200·인용 1)"
-  ],
-  "type": [
-   "팔로우",
-   "RT·공유"
-  ],
-  "hostHandle": "roseumari",
-  "sponsor": "멘톨로지"
- },
- {
-  "id": "S123",
-  "title": "컬러그램 젤리 레이어링 글로스 나눔 (~11/18)",
-  "host": "시샘달(@with_j00k)",
-  "hostType": "협찬개인",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "컬러그램 젤리 레이어링 글로스(컬러 랜덤)",
-    "count": 2
-   }
-  ],
-  "winners": 2,
-  "participants": 409,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "컬러그램 협찬으로 진행하는 개인 나눔이에요. 본문에 마감일이 없어 추정 마감으로 표시했어요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/with_j00k/status/2120492237863969188",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인(#광고/@colorgramtok)",
-   "마감: 본문 미기재 → 게시(11/11)+7일=11/18 추정",
-   "참여인원: RT+인용(2026-11-13, RT 404·인용 5)"
-  ],
-  "type": [
-   "RT·공유"
-  ],
-  "hostHandle": "with_j00k",
-  "sponsor": "컬러그램"
- },
- {
   "id": "S124",
   "title": "웨이크메이크 볼드 립 블러 틴트 나눔 (~11/20)",
   "host": "린 ﾘﾝ(@kkiaaaaa_a)",
@@ -8048,114 +6431,6 @@
   "hostHandle": "kkiaaaaa_a",
   "sponsor": "웨이크메이크",
   "announceDate": "2026-11-20"
- },
- {
-  "id": "S126",
-  "title": "메디힐 마데카소사이드 흔적패드 인용 이벤트 (~11/18)",
-  "host": "솦💘🍋(@summer_soft_)",
-  "hostType": "협찬개인",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "메디힐 마데카소사이드 흔적 패드 본품(100매)",
-    "count": 3
-   }
-  ],
-  "winners": 3,
-  "participants": 404,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "게시물을 인용(RT)하며 #토너패드 해시태그를 포함해 남겨요"
-  ],
-  "tip": "메디힐 협찬으로 진행하는 개인 나눔이에요. 본문에 마감일이 없어 추정 마감으로 표시했어요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/summer_soft_/status/2120432817079525799",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인(#광고/@mediheal_kr)",
-   "마감: 본문 미기재 → 게시(11/11)+7일=11/18 추정",
-   "참여인원: RT+인용(2026-11-13, RT 252·인용 152)"
-  ],
-  "type": [
-   "RT·공유",
-   "댓글"
-  ],
-  "hostHandle": "summer_soft_",
-  "sponsor": "메디힐"
- },
- {
-  "id": "S127",
-  "title": "알케마이즈드 도서 광고 네이버페이 2만원 RT (~11/18)",
-  "host": "아모(@dracolovemione)",
-  "hostType": "협찬개인",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "네이버페이 포인트 2만원권",
-    "count": 5
-   }
-  ],
-  "winners": 5,
-  "participants": 676,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "알케마이즈드(도서) 협찬으로 진행하는 개인 나눔이에요. 본문에 마감일이 없어 추정 마감으로 표시했어요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/dracolovemione/status/2120430902404927774",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인(#광고/도서 알케마이즈드)",
-   "마감: 본문 미기재 → 게시(11/11)+7일=11/18 추정",
-   "참여인원: RT+인용(2026-11-13, RT 673·인용 3)"
-  ],
-  "type": [
-   "RT·공유"
-  ],
-  "hostHandle": "dracolovemione",
-  "sponsor": "알케마이즈드(도서)"
- },
- {
-  "id": "S132",
-  "title": "지피엘 말랑두부 장벽 크림 나눔 (~11/18)",
-  "host": "신로미언니(@kuromishin526)",
-  "hostType": "협찬개인",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "지피엘 말랑두부 플럼핑 트리플 워터 장벽 크림",
-    "count": 2
-   }
-  ],
-  "winners": 2,
-  "participants": 242,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "X에서 @kuromishin526 계정을 팔로우해요",
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "지피엘 협찬으로 진행하는 개인 나눔이에요. 본문에 마감일이 없어 추정 마감으로 표시했어요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/kuromishin526/status/2120352633231908951",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인(#협찬/@zipiel_kr)",
-   "마감: 본문 미기재 → 게시(11/11)+7일=11/18 추정",
-   "참여인원: RT+인용(2026-11-13, RT 240·인용 2)"
-  ],
-  "type": [
-   "팔로우",
-   "RT·공유"
-  ],
-  "hostHandle": "kuromishin526",
-  "sponsor": "지피엘"
  },
  {
   "id": "S133",
@@ -8193,118 +6468,6 @@
   ],
   "hostHandle": "jinixxjin",
   "sponsor": "어뮤즈",
-  "announceDate": "2026-11-19"
- },
- {
-  "id": "S135",
-  "title": "코스알엑스 비타민C 23 세럼 나눔 (~11/18)",
-  "host": "쿠끼(@kimcookie20_)",
-  "hostType": "협찬개인",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "코스알엑스 어드밴스드 더 비타민C 23 세럼",
-    "count": 3
-   }
-  ],
-  "winners": 3,
-  "participants": 295,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-10",
-  "end": "2026-11-18",
-  "steps": [
-   "X에서 @kimcookie20_ 계정을 팔로우해요",
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "코스알엑스 협찬으로 진행하는 개인 나눔이에요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/kimcookie20_/status/2120092557778845830",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인([협찬]/@cosrx)",
-   "마감·당발: 본문 기재 당첨 발표(11/18)를 마감으로 표시",
-   "참여인원: RT+인용(2026-11-13, RT 295·인용 0)"
-  ],
-  "type": [
-   "팔로우",
-   "RT·공유"
-  ],
-  "hostHandle": "kimcookie20_",
-  "sponsor": "코스알엑스",
-  "announceDate": "2026-11-18"
- },
- {
-  "id": "S137",
-  "title": "블룸 블러쉬 라이터 9명 나눔 (~11/18)",
-  "host": "큐피(@urmycupiddd)",
-  "hostType": "협찬개인",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "블룸 블러쉬 라이터 1종(컬러 선택)",
-    "count": 9
-   }
-  ],
-  "winners": 9,
-  "participants": 368,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "X에서 @urmycupiddd 계정을 팔로우해요",
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "블룸 협찬으로 진행하는 개인 나눔이에요. 본문에 마감일이 없어 추정 마감으로 표시했어요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/urmycupiddd/status/2120513074545488195",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인([협찬]/블룸)",
-   "마감: 본문 미기재 → 게시(11/11)+7일=11/18 추정",
-   "참여인원: RT+인용(2026-11-13, RT 352·인용 16)"
-  ],
-  "type": [
-   "팔로우",
-   "RT·공유"
-  ],
-  "hostHandle": "urmycupiddd",
-  "sponsor": "블룸"
- },
- {
-  "id": "N80",
-  "title": "디어달리아 블프 블러쉬 6종 세트 RT (~11/18)",
-  "host": "디어달리아 Dear Dahlia(@deardahlia_kr)",
-  "hostType": "기업",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "디어달리아 베일 블러쉬 6종 세트",
-    "count": 10
-   }
-  ],
-  "winners": 10,
-  "participants": 102,
-  "checkedAt": "2026-11-12",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "X에서 @deardahlia_kr 계정을 팔로우해요",
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "공식 계정 이벤트예요. 당첨 DM을 받을 수 있게 DM 수신을 열어 두세요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/deardahlia_kr/status/2120532006207676742",
-  "verified": [
-   "경품·당첨인원: 공식 X 게시물 확인(공식)",
-   "마감·당발: 본문 기재(11/19 00시 마감, 11/19 발표)",
-   "참여인원: RT+인용(2026-11-12, RT 99·인용 3)"
-  ],
-  "type": [
-   "팔로우",
-   "RT·공유"
-  ],
-  "hostHandle": "deardahlia_kr",
   "announceDate": "2026-11-19"
  },
  {
@@ -8672,43 +6835,6 @@
   "announceDate": "2026-11-27"
  },
  {
-  "id": "M315",
-  "title": "음주비용 계산하고 댓글로 커피 받자 이벤트",
-  "host": "무음모드ON",
-  "hostType": "기업",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "커피 기프티콘",
-    "count": 250
-   }
-  ],
-  "winners": 250,
-  "participants": null,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "가이드 확인해요",
-   "계산해요",
-   "친구태그 댓글해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320088",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-13)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "댓글",
-   "RT·공유"
-  ],
-  "announceDate": "2026-11-24"
- },
- {
   "id": "M316",
   "title": "아동학대예방 20회 맞혀 케이크 받자 이벤트",
   "host": "국가아동권리보장원",
@@ -8964,40 +7090,6 @@
    "설문"
   ],
   "announceDate": "2026-11-30"
- },
- {
-  "id": "M327",
-  "title": "보도자료 인포그래픽 댓글 남기고 선물 받자 이벤트",
-  "host": "대한상공회의소 소플",
-  "hostType": "기업",
-  "channel": "웹",
-  "prizes": [
-   {
-    "name": "네이버페이 5천원권",
-    "count": 30
-   }
-  ],
-  "winners": 30,
-  "participants": null,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "보도자료 인포그래픽 댓글 작성해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320076",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-13)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "댓글"
-  ],
-  "announceDate": "2026-12-23"
  },
  {
   "id": "M329",
@@ -9632,42 +7724,6 @@
   "announceDate": "2026-11-30"
  },
  {
-  "id": "M351",
-  "title": "콘텐츠 취향 댓글로 네이버페이 받자 이벤트",
-  "host": "경남콘텐츠기업지원센터",
-  "hostType": "기관",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "네이버페이 쿠폰 1만원권",
-    "count": 15
-   }
-  ],
-  "winners": 15,
-  "participants": null,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-12",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우해요",
-   "콘텐츠 4종 중 취향 댓글해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320051",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-13)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "댓글"
-  ],
-  "announceDate": "2026-11-20"
- },
- {
   "id": "M353",
   "title": "체육시설 댓글 남기고 커피쿠폰 받자 이벤트",
   "host": "체육시설알리미",
@@ -10016,41 +8072,6 @@
   ],
   "type": [
    "댓글"
-  ],
-  "announceDate": "2026-11-25"
- },
- {
-  "id": "M365",
-  "title": "조달청 SNS 만족도 설문하고 네페 받자 이벤트",
-  "host": "조달청",
-  "hostType": "기관",
-  "channel": "웹",
-  "prizes": [
-   {
-    "name": "네이버페이 포인트쿠폰 1만원권",
-    "count": 50
-   }
-  ],
-  "winners": 50,
-  "participants": null,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-10",
-  "end": "2026-11-18",
-  "steps": [
-   "네이버폼 접속해요",
-   "SNS 만족도 설문 제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320037",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-13)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "설문"
   ],
   "announceDate": "2026-11-25"
  },
@@ -10444,43 +8465,6 @@
   "announceDate": "2026-11-30"
  },
  {
-  "id": "M380",
-  "title": "모모 페페 골라 티라미수 케이크 받자 이벤트",
-  "host": "재정경제부",
-  "hostType": "기관",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "티라미수 조각 케이크",
-    "count": 30
-   }
-  ],
-  "winners": 30,
-  "participants": null,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우해요",
-   "좋아요",
-   "모모·페페 선택 댓글해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320021",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-13)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "댓글"
-  ],
-  "announceDate": "2026-11-27"
- },
- {
   "id": "M382",
   "title": "Best 5 숏폼 좋아요 누르고 네이버페이 받자 이벤트",
   "host": "근로복지공단",
@@ -10860,43 +8844,6 @@
   "announceDate": "2026-12-15"
  },
  {
-  "id": "M396",
-  "title": "대구광역시 유튜브 감상평 남기고 커피 받자 이벤트",
-  "host": "대구광역시",
-  "hostType": "기관",
-  "channel": "유튜브",
-  "prizes": [
-   {
-    "name": "투썸플레이스 기프티콘",
-    "count": 20
-   }
-  ],
-  "winners": 20,
-  "participants": null,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "유튜브 구독해요",
-   "영상 시청해요",
-   "댓글 작성해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320005",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-13)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "댓글"
-  ],
-  "announceDate": "2026-11-20"
- },
- {
   "id": "M398",
   "title": "댄스왕 선수 뽑고 사인 유니폼 받자 이벤트",
   "host": "현대차증권",
@@ -11012,80 +8959,6 @@
    "댓글"
   ],
   "announceDate": "2026-12-04"
- },
- {
-  "id": "M403",
-  "title": "돌림판 청정우 찾고 네이버페이 받자 이벤트",
-  "host": "호주청정우",
-  "hostType": "기업",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "네이버페이 포인트 3만원권",
-    "count": 15
-   }
-  ],
-  "winners": 15,
-  "participants": null,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-12",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우해요",
-   "돌림판 정답댓글해요",
-   "친구태그해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319998",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-13)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "퀴즈",
-   "댓글"
-  ],
-  "announceDate": "2026-11-23"
- },
- {
-  "id": "M404",
-  "title": "우체국 SNS 구독 인증하고 라떼 받자 이벤트",
-  "host": "우정사업본부",
-  "hostType": "기관",
-  "channel": "유튜브",
-  "prizes": [
-   {
-    "name": "투썸플레이스 카페라떼 R ICE",
-    "count": 100
-   }
-  ],
-  "winners": 100,
-  "participants": null,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-12",
-  "end": "2026-11-18",
-  "steps": [
-   "인스타 팔로우해요",
-   "유튜브 구독해요",
-   "캡처 DM해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 1,
-  "minutes": 2,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319997",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-13)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우"
-  ],
-  "announceDate": "2026-11-24"
  },
  {
   "id": "M405",
@@ -11205,42 +9078,6 @@
   "announceDate": "2026-11-30"
  },
  {
-  "id": "M412",
-  "title": "금천향기 댓글 달고 GS25 상품권 받자 이벤트",
-  "host": "서울특별시 금천구",
-  "hostType": "기관",
-  "channel": "웹",
-  "prizes": [
-   {
-    "name": "GS25 모바일상품권 1만원권",
-    "count": 80
-   }
-  ],
-  "winners": 80,
-  "participants": null,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-12",
-  "end": "2026-11-18",
-  "steps": [
-   "이웃추가해요",
-   "의견댓글해요",
-   "캡처 폼제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319987",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-13)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "댓글"
-  ],
-  "announceDate": "2026-11-26"
- },
- {
   "id": "M413",
   "title": "순국선열 추모댓글로 CU상품권 받자 이벤트",
   "host": "국가보훈부",
@@ -11273,44 +9110,6 @@
    "댓글"
   ],
   "announceDate": "2026-12-02"
- },
- {
-  "id": "M414",
-  "title": "초성퀴즈 풀고 스타벅스 커피 받자 이벤트",
-  "host": "현대차증권",
-  "hostType": "기업",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "스타벅스 아이스 아메리카노 Tall",
-    "count": 200
-   }
-  ],
-  "winners": 200,
-  "participants": null,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우·좋아요",
-   "정답댓글해요",
-   "폼제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319985",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-13)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "퀴즈",
-   "댓글"
-  ],
-  "announceDate": "2026-11-24"
  },
  {
   "id": "M415",
@@ -11347,82 +9146,6 @@
    "RT·공유"
   ],
   "announceDate": "2026-12-15"
- },
- {
-  "id": "S142",
-  "title": "지피엘 말랑두부 워터장벽크림 나눔 (~11/18)",
-  "host": "이비업(@88_blooood)",
-  "hostType": "협찬개인",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "지피엘 말랑두부 플럼핑 트리플 워터장벽크림 본품",
-    "count": 2
-   }
-  ],
-  "winners": 2,
-  "participants": 44,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-13",
-  "end": "2026-11-18",
-  "steps": [
-   "X에서 @88_blooood 계정을 팔로우해요",
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "지피엘 제품제공으로 진행하는 개인 나눔이에요. 당첨 발표는 11/18이에요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/88_blooood/status/2121032797305667729",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인([#제품제공] 본문 표기)",
-   "마감·당발: 본문 기재 당첨 발표(11/18)를 마감으로 표시",
-   "참여인원: RT+인용(2026-11-13, RT 44·인용 0)"
-  ],
-  "type": [
-   "팔로우",
-   "RT·공유"
-  ],
-  "hostHandle": "88_blooood",
-  "sponsor": "지피엘",
-  "announceDate": "2026-11-18"
- },
- {
-  "id": "S143",
-  "title": "블라이드 머드팩클렌저 나눔 (~11/18)",
-  "host": "집순이(@lov2home)",
-  "hostType": "협찬개인",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "블라이드 머드팩클렌저",
-    "count": 3
-   }
-  ],
-  "winners": 3,
-  "participants": 138,
-  "checkedAt": "2026-11-13",
-  "start": "2026-11-12",
-  "end": "2026-11-18",
-  "steps": [
-   "X에서 @lov2home 계정을 팔로우해요",
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "블라이드 제품제공으로 진행하는 개인 나눔이에요. 당첨 발표는 11/18이에요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/lov2home/status/2120863487803167169",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인(#제품제공/@blithe_kr)",
-   "마감·당발: 본문 기재 당첨 발표(11/18)를 마감으로 표시",
-   "참여인원: RT+인용(2026-11-13, RT 136·인용 2)"
-  ],
-  "type": [
-   "팔로우",
-   "RT·공유"
-  ],
-  "hostHandle": "lov2home",
-  "sponsor": "블라이드",
-  "announceDate": "2026-11-18"
  },
  {
   "id": "S145",
@@ -11611,42 +9334,6 @@
   "announceDate": "2026-11-23"
  },
  {
-  "id": "M424",
-  "title": "KISA 만족도 설문하고 네이버페이 받자 이벤트",
-  "host": "한국인터넷진흥원",
-  "hostType": "기관",
-  "channel": "웹",
-  "prizes": [
-   {
-    "name": "네이버페이 포인트 5천원권",
-    "count": 40
-   }
-  ],
-  "winners": 40,
-  "participants": null,
-  "checkedAt": "2026-11-14",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "폼 접속해요",
-   "SNS 만족도 설문해요",
-   "연락처 제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319930",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-14)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "설문"
-  ],
-  "announceDate": "2026-12-04"
- },
- {
   "id": "M425",
   "title": "부산 정책제안해 편의점상품권 받자 이벤트",
   "host": "부산광역시",
@@ -11755,42 +9442,6 @@
   "announceDate": "2026-11-26"
  },
  {
-  "id": "M428",
-  "title": "심폐소생술 인식조사로 카페쿠폰 받자 이벤트",
-  "host": "질병관리청",
-  "hostType": "기관",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "카페 쿠폰 5천원권",
-    "count": 100
-   }
-  ],
-  "winners": 100,
-  "participants": null,
-  "checkedAt": "2026-11-14",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "구글폼 조사 제출해요",
-   "참여완료 댓글·좋아요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319934",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-14)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "설문",
-   "댓글"
-  ],
-  "announceDate": "2026-11-27"
- },
- {
   "id": "M429",
   "title": "2026 SGIS 퀴즈 풀고 사은품 받자 경품이벤트",
   "host": "국가데이터처",
@@ -11870,42 +9521,6 @@
    "댓글"
   ],
   "announceDate": "2026-12-04"
- },
- {
-  "id": "M431",
-  "title": "가장 인상 깊었던 구간 남기고 메가커피 받자 이벤트",
-  "host": "IBK기업은행",
-  "hostType": "기업",
-  "channel": "유튜브",
-  "prizes": [
-   {
-    "name": "메가MGC커피 아메리카노",
-    "count": 10
-   }
-  ],
-  "winners": 10,
-  "participants": null,
-  "checkedAt": "2026-11-14",
-  "start": "2026-11-05",
-  "end": "2026-11-18",
-  "steps": [
-   "유튜브 구독해요",
-   "댓글 작성해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319937",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-14)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "댓글"
-  ],
-  "announceDate": "2026-11-19"
  },
  {
   "id": "M432",
@@ -12063,83 +9678,6 @@
   "announceDate": "2026-11-26"
  },
  {
-  "id": "M436",
-  "title": "승강기 OX퀴즈 맞혀 네이버페이 받자 이벤트",
-  "host": "한국승강기안전공단",
-  "hostType": "기업",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "네이버페이 1만원권",
-    "count": 20
-   }
-  ],
-  "winners": 20,
-  "participants": null,
-  "checkedAt": "2026-11-14",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "X댓글해요",
-   "팔로우·구독해요",
-   "인증샷 폼제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319942",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-14)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "퀴즈",
-   "댓글",
-   "후기·리뷰"
-  ],
-  "announceDate": "2026-11-23"
- },
- {
-  "id": "M437",
-  "title": "홍보소통 설문 참여해 주유권 노리자 이벤트",
-  "host": "한국도로교통공단",
-  "hostType": "기관",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "모바일 주유권 1만원권",
-    "count": 30
-   }
-  ],
-  "winners": 30,
-  "participants": null,
-  "checkedAt": "2026-11-14",
-  "start": "2026-10-29",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우해요",
-   "좋아요·3명 태그해요",
-   "설문제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=319943",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-14)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "설문",
-   "댓글"
-  ],
-  "announceDate": "2026-11-23"
- },
- {
   "id": "M438",
   "title": "고객정보 수정하고 커피쿠폰 받자 이벤트",
   "host": "한국주택금융공사",
@@ -12283,43 +9821,6 @@
    "댓글"
   ],
   "announceDate": "2026-11-27"
- },
- {
-  "id": "M460",
-  "title": "과정평가 사행시로 베이글세트 받자 이벤트",
-  "host": "과정평가형 국가기술자격",
-  "hostType": "기업",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "투썸플레이스 올리브 치즈 베이글+아메리카노 R",
-    "count": 35
-   }
-  ],
-  "winners": 35,
-  "participants": null,
-  "checkedAt": "2026-11-14",
-  "start": "2026-11-12",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우/이웃해요",
-   "사행시 댓글해요",
-   "폼 인증해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 3,
-  "minutes": 10,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320120",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-14)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "댓글"
-  ],
-  "announceDate": "2026-11-23"
  },
  {
   "id": "M461",
@@ -12856,42 +10357,6 @@
   ],
   "hostHandle": "ung0ng",
   "sponsor": "더랩바이블랑두"
- },
- {
-  "id": "S168",
-  "title": "토니모리 세라마이드 모찌 토너 나눔 (~11/18)",
-  "host": "시차(@sicha_ko)",
-  "hostType": "협찬개인",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "토니모리 세라마이드 모찌 토너",
-    "count": 3
-   }
-  ],
-  "winners": 3,
-  "participants": 194,
-  "checkedAt": "2026-11-14",
-  "start": "2026-11-13",
-  "end": "2026-11-18",
-  "steps": [
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "토니모리 광고로 진행하는 개인 나눔이에요. 구매 없이 참여할 수 있어요. 당첨 발표는 11/18이에요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/sicha_ko/status/2121183003695362056",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인([광고] 본문 표기)",
-   "마감·당발: 본문 기재 당첨 발표(11/18)를 마감으로 표시",
-   "참여인원: RT+인용(2026-11-14, RT 194·인용 0)"
-  ],
-  "type": [
-   "RT·공유"
-  ],
-  "hostHandle": "sicha_ko",
-  "sponsor": "토니모리",
-  "announceDate": "2026-11-18"
  },
  {
   "id": "S170",
@@ -13610,44 +11075,6 @@
   "sponsor": "마데카"
  },
  {
-  "id": "S193",
-  "title": "포블랑시 유기농 여성청결제 나눔 (~11/18)",
-  "host": "돈키(@kittymichingirl)",
-  "hostType": "협찬개인",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "포블랑시 유기농 여성청결제",
-    "count": 2
-   }
-  ],
-  "winners": 2,
-  "participants": 103,
-  "checkedAt": "2026-11-15",
-  "start": "2026-11-14",
-  "end": "2026-11-18",
-  "steps": [
-   "이벤트 게시물을 리포스트(RT)해요",
-   "주최·브랜드 계정을 팔로우해요"
-  ],
-  "tip": "포블랑시 협찬로 진행하는 개인 나눔이에요. 구매 없이 참여할 수 있어요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/kittymichingirl/status/2121607571400478967",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인(#제품제공 본문 표기)",
-   "마감: 본문 이벤트 기간 11/14~11/18, 발표 11/20",
-   "참여인원: RT+인용(2026-11-15, RT 103·인용 0)"
-  ],
-  "type": [
-   "RT·공유",
-   "팔로우"
-  ],
-  "hostHandle": "kittymichingirl",
-  "sponsor": "포블랑시",
-  "announceDate": "2026-11-20"
- },
- {
   "id": "S194",
   "title": "더랩바이블랑두 캡슐 젤리 미스트 나눔 (~11/21)",
   "host": "코덕쪼코(@codukcchoco)",
@@ -13864,42 +11291,6 @@
   "sponsor": "머지"
  },
  {
-  "id": "S200",
-  "title": "코페르 큐리페어 멜라크림 나눔 (~11/18)",
-  "host": "Q.Q.Q(@qqq_3_thanks)",
-  "hostType": "협찬개인",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "코페르 큐리페어 멜라크림",
-    "count": 3
-   }
-  ],
-  "winners": 3,
-  "participants": 371,
-  "checkedAt": "2026-11-15",
-  "start": "2026-11-13",
-  "end": "2026-11-18",
-  "steps": [
-   "이벤트 게시물을 리포스트(RT)해요"
-  ],
-  "tip": "코페르 협찬로 진행하는 개인 나눔이에요. 구매 없이 참여할 수 있어요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/qqq_3_thanks/status/2121387678164013418",
-  "verified": [
-   "경품·당첨인원: 개인 X 게시물 확인(#제품제공 본문 표기)",
-   "마감: 본문 기간 11/14~11/18, 19일 발표",
-   "참여인원: RT+인용(2026-11-15, RT 371·인용 0)"
-  ],
-  "type": [
-   "RT·공유"
-  ],
-  "hostHandle": "qqq_3_thanks",
-  "sponsor": "코페르",
-  "announceDate": "2026-11-19"
- },
- {
   "id": "S201",
   "title": "넛세린 보습밤 3종세트 나눔 (~11/20)",
   "host": "하트떡국ෆ(@hateutteog65679)",
@@ -14042,659 +11433,6 @@
   ],
   "hostHandle": "happybooks2u",
   "announceDate": "2026-11-23"
- },
- {
-  "id": "M510",
-  "title": "온리원 퍼즐 맞히고 배민상품권 받자 이벤트",
-  "host": "온리원 키즈",
-  "hostType": "기관",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "배달의민족 모바일 상품권 5천원",
-    "count": 20
-   }
-  ],
-  "winners": 20,
-  "participants": null,
-  "checkedAt": "2026-11-16",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "온리원 팔로우해요",
-   "빠진 퍼즐 번호 댓글해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320189",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-16)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "퀴즈",
-   "댓글"
-  ],
-  "announceDate": "2026-11-23"
- },
- {
-  "id": "M511",
-  "title": "SNS 3곳 팔로우하고 2만원 주유권 받자 이벤트",
-  "host": "태백마루자율상권조합",
-  "hostType": "기관",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "SK 모바일 주유권 2만원",
-    "count": 10
-   }
-  ],
-  "winners": 10,
-  "participants": null,
-  "checkedAt": "2026-11-16",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "SNS 3곳 팔로우·구독해요",
-   "계정명 폼 제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 1,
-  "minutes": 2,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320190",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-16)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우"
-  ],
-  "announceDate": "2026-11-20"
- },
- {
-  "id": "M512",
-  "title": "청년 초성퀴즈 풀고 배민상품권 받자 이벤트",
-  "host": "충남청년센터",
-  "hostType": "기관",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "배민상품권 1만원",
-    "count": 5
-   },
-   {
-    "name": "모바일 커피쿠폰",
-    "count": 20
-   }
-  ],
-  "winners": 25,
-  "participants": null,
-  "checkedAt": "2026-11-16",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우·좋아요",
-   "정답 댓글해요",
-   "친구태그해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320191",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-16)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "퀴즈",
-   "댓글"
-  ],
-  "announceDate": "2026-11-25"
- },
- {
-  "id": "M513",
-  "title": "청년DB 등록하고 애플워치 도전하자 이벤트",
-  "host": "제주청년센터",
-  "hostType": "기관",
-  "channel": "웹",
-  "prizes": [
-   {
-    "name": "애플워치 SE3 스타라이트 40mm",
-    "count": 1
-   },
-   {
-    "name": "배달의민족 상품권 5천원",
-    "count": 69
-   }
-  ],
-  "winners": 70,
-  "participants": null,
-  "checkedAt": "2026-11-16",
-  "start": "2026-11-09",
-  "end": "2026-11-18",
-  "steps": [
-   "청년DB 등록해요",
-   "정책 4개 골라 빙고댓글해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 3,
-  "minutes": 10,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320192",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-16)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "댓글"
-  ],
-  "announceDate": "2026-11-26"
- },
- {
-  "id": "M514",
-  "title": "페이커 RAM 찾기 퀴즈로 T1 굿즈  받자 이벤트",
-  "host": "파인인포",
-  "hostType": "기업",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "T1 유니폼 재킷 FAKER L",
-    "count": 1
-   },
-   {
-    "name": "T1 KLEVV 티셔츠",
-    "count": 10
-   },
-   {
-    "name": "T1 KLEVV 마우스 손목받침대",
-    "count": 10
-   },
-   {
-    "name": "네이버페이 5천원",
-    "count": 10
-   }
-  ],
-  "winners": 31,
-  "participants": null,
-  "checkedAt": "2026-11-16",
-  "start": "2026-11-05",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우해요",
-   "릴스 확인해요",
-   "RAM 가진 번호 댓글해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320193",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-16)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "퀴즈",
-   "댓글"
-  ],
-  "announceDate": "2026-11-20"
- },
- {
-  "id": "M515",
-  "title": "키즈 비타민 당류 OX퀴즈로 꾸미 받자 이벤트",
-  "host": "네추럴라이즈 키즈",
-  "hostType": "기업",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "칼슘비타민D 꾸미 파우치",
-    "count": 50
-   }
-  ],
-  "winners": 50,
-  "participants": null,
-  "checkedAt": "2026-11-16",
-  "start": "2026-11-12",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우해요",
-   "좋아요",
-   "당류 OX 정답 댓글해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320194",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-16)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "퀴즈",
-   "댓글"
-  ],
-  "announceDate": "2026-11-19"
- },
- {
-  "id": "M516",
-  "title": "캐슬클럽 이름 맞히고 스타벅스 받자 이벤트",
-  "host": "메이필드호텔",
-  "hostType": "기업",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "스타벅스 커피 쿠폰",
-    "count": 15
-   }
-  ],
-  "winners": 15,
-  "participants": null,
-  "checkedAt": "2026-11-16",
-  "start": "2026-11-12",
-  "end": "2026-11-18",
-  "steps": [
-   "계정 팔로우해요",
-   "캐슬클럽 정답 댓글해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320195",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-16)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "퀴즈",
-   "댓글"
-  ],
-  "announceDate": "2026-11-20"
- },
- {
-  "id": "M517",
-  "title": "마우스 삼행시로 배민상품권 받자 이벤트",
-  "host": "하이퍼코퍼레이션",
-  "hostType": "기업",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "배달의민족 상품권 최대 50만원",
-    "count": null
-   }
-  ],
-  "winners": null,
-  "participants": null,
-  "checkedAt": "2026-11-16",
-  "start": "2026-11-05",
-  "end": "2026-11-18",
-  "steps": [
-   "로지텍댓글해요",
-   "DM가입해요",
-   "마우스 삼행시해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 3,
-  "minutes": 10,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320197",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-16)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "댓글"
-  ],
-  "announceDate": "2026-11-25"
- },
- {
-  "id": "M518",
-  "title": "고베 여행유형 댓글로 커피쿠폰 받자 이벤트",
-  "host": "고베 관광국",
-  "hostType": "기업",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "커피디저트 쿠폰",
-    "count": 15
-   }
-  ],
-  "winners": 15,
-  "participants": null,
-  "checkedAt": "2026-11-16",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우해요",
-   "고베 매력·여행이유·유형 댓글해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320198",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-16)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "댓글"
-  ],
-  "announceDate": "2026-11-24"
- },
- {
-  "id": "M519",
-  "title": "달뚜벅 모집글 공유하고 GS25권 받자 이벤트",
-  "host": "김천 나이트투어 달뚜벅",
-  "hostType": "기업",
-  "channel": "웹",
-  "prizes": [
-   {
-    "name": "GS25 편의점 상품권 3천원권",
-    "count": 15
-   }
-  ],
-  "winners": 15,
-  "participants": null,
-  "checkedAt": "2026-11-16",
-  "start": "2026-11-15",
-  "end": "2026-11-18",
-  "steps": [
-   "모집글 공유해요",
-   "지인 언급해 댓글 작성해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320199",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-16)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "댓글",
-   "RT·공유"
-  ],
-  "announceDate": "2026-11-30"
- },
- {
-  "id": "M520",
-  "title": "친구 태그하고 올드아이폰 경품 받자 이벤트",
-  "host": "SoapyETN",
-  "hostType": "기업",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "아이폰 SE1 실버 32GB",
-    "count": 1
-   },
-   {
-    "name": "아이폰 6s 실버 32GB",
-    "count": 1
-   },
-   {
-    "name": "아이폰 7 실버 32GB",
-    "count": 1
-   }
-  ],
-  "winners": 3,
-  "participants": null,
-  "checkedAt": "2026-11-16",
-  "start": "2026-11-04",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우해요",
-   "친구태그해요",
-   "좋아요",
-   "스토리해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320200",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-16)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "댓글"
-  ],
-  "announceDate": "2026-11-19"
- },
- {
-  "id": "M521",
-  "title": "수능 응원송 듣고 할리스 디저트 받자 이벤트",
-  "host": "우리은행",
-  "hostType": "기업",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "리센느 친필 사인 폴라로이드+할리스 아메리카노 R+쿠키앤크림 쏘스윗박스",
-    "count": 5
-   },
-   {
-    "name": "할리스 아메리카노 R+쿠키앤크림 쏘스윗박스",
-    "count": 15
-   }
-  ],
-  "winners": 20,
-  "participants": null,
-  "checkedAt": "2026-11-16",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우해요",
-   "노래 듣고 '우리는 해' 응원댓글해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320201",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-16)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "댓글"
-  ],
-  "announceDate": "2026-11-20"
- },
- {
-  "id": "M522",
-  "title": "선행 칭찬댓글로 피자콜라 세트 받자 이벤트",
-  "host": "사이좋은 디지털 세상",
-  "hostType": "기업",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "미스터피자 피자콜라 세트",
-    "count": 30
-   }
-  ],
-  "winners": 30,
-  "participants": null,
-  "checkedAt": "2026-11-16",
-  "start": "2026-11-05",
-  "end": "2026-11-18",
-  "steps": [
-   "팔로우해요",
-   "좋아요",
-   "선행칭찬 댓글해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320202",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-16)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "댓글"
-  ],
-  "announceDate": "2026-11-20"
- },
- {
-  "id": "M523",
-  "title": "시민 경영설문 참여해 커피쿠폰 받자 이벤트",
-  "host": "대전광역시시설관리공단",
-  "hostType": "기관",
-  "channel": "웹",
-  "prizes": [
-   {
-    "name": "커피 기프티콘",
-    "count": 100
-   }
-  ],
-  "winners": 100,
-  "participants": null,
-  "checkedAt": "2026-11-16",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "설문 접속해요",
-   "경영방향 6문항 응답·제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320203",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-16)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "설문"
-  ],
-  "announceDate": "2026-11-23"
- },
- {
-  "id": "M524",
-  "title": "행운 소망 댓글로 투썸 디저트 받자 이벤트",
-  "host": "렉서스 인천",
-  "hostType": "기업",
-  "channel": "웹",
-  "prizes": [
-   {
-    "name": "투썸플레이스 떠먹는 티라미수+아메리카노",
-    "count": 10
-   }
-  ],
-  "winners": 10,
-  "participants": null,
-  "checkedAt": "2026-11-16",
-  "start": "2026-11-13",
-  "end": "2026-11-18",
-  "steps": [
-   "게시물 확인해요",
-   "바라는 행운 댓글 작성해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320204",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-16)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "댓글"
-  ],
-  "announceDate": "2026-11-19"
- },
- {
-  "id": "M525",
-  "title": "KERIS SNS 설문 참여하고 투썸 커피 받자 이벤트",
-  "host": "한국교육학술정보원",
-  "hostType": "기관",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "투썸플레이스 아메리카노 R",
-    "count": 15
-   }
-  ],
-  "winners": 15,
-  "participants": null,
-  "checkedAt": "2026-11-16",
-  "start": "2026-11-13",
-  "end": "2026-11-18",
-  "steps": [
-   "설문 제출해요",
-   "팔로우해요",
-   "참여완료 댓글해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320205",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-16)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "설문",
-   "댓글"
-  ],
-  "announceDate": "2026-11-19"
- },
- {
-  "id": "M526",
-  "title": "수능 응원 댓글로 올영상품권 받자 이벤트",
-  "host": "플루니",
-  "hostType": "기업",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "올리브영 기프티콘 1만원권",
-    "count": 10
-   }
-  ],
-  "winners": 10,
-  "participants": null,
-  "checkedAt": "2026-11-16",
-  "start": "2026-11-12",
-  "end": "2026-11-18",
-  "steps": [
-   "수험생 응원 댓글해요",
-   "플루니 계정 팔로우해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 3,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320206",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-16)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "댓글"
-  ],
-  "announceDate": "2026-11-20"
  },
  {
   "id": "M527",
@@ -18163,43 +14901,6 @@
   "sponsor": "어뮤즈"
  },
  {
-  "id": "N87",
-  "title": "더하르나이 영상 속 제품 2종 RT 이벤트 (~11/18)",
-  "host": "더하르나이 (theharnay)(@theharnay_ad)",
-  "hostType": "기업",
-  "channel": "X",
-  "prizes": [
-   {
-    "name": "더하르나이 영상 속 제품 2종",
-    "count": 3
-   }
-  ],
-  "winners": 3,
-  "participants": 369,
-  "checkedAt": "2026-11-16",
-  "start": "2026-11-13",
-  "end": "2026-11-18",
-  "steps": [
-   "이벤트 게시물을 리포스트(RT)해요",
-   "응원 인용(댓글)을 남겨요"
-  ],
-  "tip": "더하르나이 공식 계정 이벤트예요. 구매 없이 참여할 수 있어요.",
-  "difficulty": 1,
-  "minutes": 1,
-  "url": "https://x.com/theharnay_ad/status/2121113795053633652",
-  "verified": [
-   "경품·당첨인원: 공식 X 게시물 확인(공식 계정 게시물)",
-   "마감: 본문 '이벤트 기간 11/13 ~ 11/18' 기준",
-   "참여인원: RT+인용(2026-11-16, RT 369·인용 0)"
-  ],
-  "type": [
-   "RT·공유",
-   "댓글"
-  ],
-  "hostHandle": "theharnay_ad",
-  "announceDate": "2026-11-20"
- },
- {
   "id": "N88",
   "title": "오로라렌즈 펄팝 원데이 1팩+아이오프너 RT 이벤트 (~11/20)",
   "host": "오로라렌즈(@ololalens)",
@@ -18599,42 +15300,6 @@
    "설문"
   ],
   "announceDate": "2026-12-03"
- },
- {
-  "id": "M597",
-  "title": "BASE900 3채널 팔로우하고 주유권 받자 이벤트",
-  "host": "BASE 900",
-  "hostType": "기업",
-  "channel": "유튜브",
-  "prizes": [
-   {
-    "name": "SK 모바일 주유권 2만원권",
-    "count": 10
-   }
-  ],
-  "winners": 10,
-  "participants": null,
-  "checkedAt": "2026-11-18",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "인스타·FB팔로우해요",
-   "유튜브구독해요",
-   "폼제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 1,
-  "minutes": 2,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320283",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-18)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우"
-  ],
-  "announceDate": "2026-11-20"
  },
  {
   "id": "M598",
@@ -23401,78 +20066,6 @@
   "announceDate": "2026-12-03"
  },
  {
-  "id": "M723",
-  "title": "겨울간식 영상 멈춰 잡고 퓨어 핸드솝 받자 이벤트",
-  "host": "퓨어",
-  "hostType": "기업",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "퓨어 핸드솝 코튼향 500mL",
-    "count": 100
-   }
-  ],
-  "winners": 100,
-  "participants": null,
-  "checkedAt": "2026-11-18",
-  "start": "2026-11-13",
-  "end": "2026-11-18",
-  "steps": [
-   "퓨어 팔로우해요",
-   "좋아요",
-   "영상 멈춰 간식 잡고 댓글해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 3,
-  "minutes": 10,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320413",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-18)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "댓글"
-  ],
-  "announceDate": "2026-11-25"
- },
- {
-  "id": "M724",
-  "title": "시민 수요조사 참여하고 선물 받자 이벤트",
-  "host": "파주시",
-  "hostType": "기관",
-  "channel": "웹",
-  "prizes": [
-   {
-    "name": "스타벅스 아메리카노",
-    "count": 200
-   }
-  ],
-  "winners": 200,
-  "participants": null,
-  "checkedAt": "2026-11-18",
-  "start": "2026-11-13",
-  "end": "2026-11-18",
-  "steps": [
-   "파주시 지능정보사회 종합계획 설문 참여해요",
-   "폼제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320414",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-18)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "설문"
-  ],
-  "announceDate": "2026-11-25"
- },
- {
   "id": "M725",
   "title": "라이브 방송 알림 신청하고 아메리카노 받자 이벤트",
   "host": "LG전자",
@@ -27234,45 +23827,6 @@
   "announceDate": "2026-12-10"
  },
  {
-  "id": "M825",
-  "title": "농업의 날 먹거리 퀴즈 풀고 고구마라떼 받자 이벤트",
-  "host": "국립대구과학관",
-  "hostType": "기관",
-  "channel": "인스타그램",
-  "prizes": [
-   {
-    "name": "이디야커피 고구마라떼",
-    "count": 20
-   }
-  ],
-  "winners": 20,
-  "participants": null,
-  "checkedAt": "2026-11-18",
-  "start": "2026-11-11",
-  "end": "2026-11-18",
-  "steps": [
-   "인스타·유튜브 팔로우해요",
-   "정답 댓글해요",
-   "폼에 정답·인증샷 제출해요"
-  ],
-  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
-  "difficulty": 2,
-  "minutes": 5,
-  "url": "https://www.eventhouse.kr/site/view.php?no=320516",
-  "verified": [
-   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-18)",
-   "채널: 응모방법 문구 기준 추정",
-   "참여인원: 미확인"
-  ],
-  "type": [
-   "팔로우",
-   "퀴즈",
-   "댓글",
-   "후기·리뷰"
-  ],
-  "announceDate": "2026-11-19"
- },
- {
   "id": "M826",
   "title": "초성퀴즈 풀고 커피 만원권 받자 경품이벤트",
   "host": "전북특별자치도",
@@ -27515,5 +24069,4226 @@
    "RT·공유"
   ],
   "announceDate": "2026-12-15"
+ },
+ {
+  "id": "M832",
+  "title": "가스안전공사 채널 설문해 커피 받자 이벤트",
+  "host": "한국가스안전공사",
+  "hostType": "기관",
+  "channel": "유튜브",
+  "prizes": [
+   {
+    "name": "스타벅스 아이스 아메리카노 T",
+    "count": 100
+   }
+  ],
+  "winners": 100,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-23",
+  "steps": [
+   "유튜브 구독해요",
+   "QR 접속해요",
+   "만족도조사 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320522",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "설문"
+  ],
+  "announceDate": "2026-11-27"
+ },
+ {
+  "id": "M833",
+  "title": "피크 숨은 컬러 퀴즈 맞히고 네이버페이 받자 이벤트",
+  "host": "피크 페인트",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "네이버페이 포인트 2만원권",
+    "count": 20
+   }
+  ],
+  "winners": 20,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-11-22",
+  "steps": [
+   "피크 팔로우해요",
+   "스크래치 영상 확인해요",
+   "컬러명 댓글해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320523",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "퀴즈",
+   "댓글"
+  ],
+  "announceDate": "2026-11-26"
+ },
+ {
+  "id": "M834",
+  "title": "설문 참여해 배민상품권 치킨 받자 이벤트",
+  "host": "한국원자력안전기술원",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "BHC 뿌링클+콜라125L",
+    "count": 5
+   },
+   {
+    "name": "배달의민족 모바일상품권 1만원권",
+    "count": 30
+   },
+   {
+    "name": "컴포즈커피 아메리카노 HOT",
+    "count": 100
+   }
+  ],
+  "winners": 135,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-17",
+  "end": "2026-11-24",
+  "steps": [
+   "네이버폼 접속해요",
+   "설문 답변 작성해요",
+   "제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320524",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "설문"
+  ],
+  "announceDate": "2026-11-30"
+ },
+ {
+  "id": "M835",
+  "title": "자이 영상 공유하고 커피 받자 경품이벤트",
+  "host": "자이",
+  "hostType": "기업",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "루이스폴센 판텔라 160 포터블",
+    "count": 1
+   },
+   {
+    "name": "고블렛 와인잔",
+    "count": 2
+   },
+   {
+    "name": "투썸플레이스 아메리카노",
+    "count": 50
+   }
+  ],
+  "winners": 53,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-17",
+  "end": "2026-11-19",
+  "steps": [
+   "아르뮤제자이 영상 공유해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320525",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "RT·공유"
+  ],
+  "announceDate": "2026-11-20"
+ },
+ {
+  "id": "M836",
+  "title": "구급대원분들을 향한 응원 메시지 남기고 커피 받자 이벤트",
+  "host": "국토교통부",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "파스쿠찌 아메리카노",
+    "count": 10
+   }
+  ],
+  "winners": 10,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-12",
+  "end": "2026-11-19",
+  "steps": [
+   "영상 시청해요",
+   "구급대원분들을 향한 응원 메시지 남기기해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320526",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "댓글"
+  ],
+  "announceDate": "2026-11-26"
+ },
+ {
+  "id": "M837",
+  "title": "나만의 추억의 음식 남기고 햄버거 받자 이벤트",
+  "host": "하남시",
+  "hostType": "기관",
+  "channel": "유튜브",
+  "prizes": [
+   {
+    "name": "롯데리아 한우명품팩",
+    "count": 10
+   }
+  ],
+  "winners": 10,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-13",
+  "end": "2026-11-19",
+  "steps": [
+   "유튜브 구독해요",
+   "댓글 작성해요",
+   "폼제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320527",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-11-23"
+ },
+ {
+  "id": "M838",
+  "title": "선수진로지원센터 퀴즈 풀고 치킨 받자 이벤트",
+  "host": "대한체육회 선수진로지원",
+  "hostType": "기관",
+  "channel": "유튜브",
+  "prizes": [
+   {
+    "name": "치킨 상품권",
+    "count": 30
+   }
+  ],
+  "winners": 30,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-13",
+  "end": "2026-11-19",
+  "steps": [
+   "인스타 팔로우·유튜브 구독해요",
+   "정답 댓글해요",
+   "폼 정보 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320528",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "퀴즈",
+   "댓글"
+  ],
+  "announceDate": "2026-11-20"
+ },
+ {
+  "id": "M839",
+  "title": "올해의 대표 인플루언서 투표하고 네이버페이 받자 이벤트",
+  "host": "한국원자력안전재단",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "네이버페이 3만 원권",
+    "count": 50
+   }
+  ],
+  "winners": 50,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-13",
+  "end": "2026-11-19",
+  "steps": [
+   "영상 시청해요",
+   "감상 댓글 작성해요",
+   "폼 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320529",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "투표",
+   "댓글"
+  ],
+  "announceDate": "2026-11-24"
+ },
+ {
+  "id": "M840",
+  "title": "SNS 두곳 팔로우하고 CU상품권 받자 이벤트",
+  "host": "국가물산업클러스터",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "CU 편의점 1만원권",
+    "count": 70
+   }
+  ],
+  "winners": 70,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-17",
+  "end": "2026-11-30",
+  "steps": [
+   "SNS 2곳 팔로우해요",
+   "설문 제출해요",
+   "완료 댓글해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320530",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "설문",
+   "댓글"
+  ],
+  "announceDate": "2026-12-04"
+ },
+ {
+  "id": "M841",
+  "title": "K패션 뷰티 영상 소감 남기고 라떼 받자 이벤트",
+  "host": "한국산업은행",
+  "hostType": "기업",
+  "channel": "유튜브",
+  "prizes": [
+   {
+    "name": "투썸플레이스 카페라떼 R",
+    "count": 20
+   }
+  ],
+  "winners": 20,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-27",
+  "steps": [
+   "KDB 구독해요",
+   "영상 시청·소감 댓글해요",
+   "구글폼 인증해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320531",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-12-02"
+ },
+ {
+  "id": "M842",
+  "title": "울주군 인스타 설문하고 케이크 받자 이벤트",
+  "host": "울산광역시 울주군",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "홀 케이크 3만원 상당",
+    "count": 30
+   },
+   {
+    "name": "치킨 기프티콘 2만원 상당",
+    "count": 50
+   },
+   {
+    "name": "커피 기프티콘 1만원 상당",
+    "count": 150
+   }
+  ],
+  "winners": 230,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-30",
+  "steps": [
+   "팔로우 좋아요 공유해요",
+   "인증 설문해요",
+   "완료댓글해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320532",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "설문",
+   "댓글",
+   "RT·공유"
+  ],
+  "announceDate": "2026-12-07"
+ },
+ {
+  "id": "M843",
+  "title": "수능 응원댓글 달고 배민상품권 받자 이벤트",
+  "host": "빅이슈코리아",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "배달의민족 상품권 3만원권",
+    "count": 10
+   }
+  ],
+  "winners": 10,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-19",
+  "steps": [
+   "빅이슈 팔로우해요",
+   "수능 응원댓글 작성해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320533",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-11-25"
+ },
+ {
+  "id": "M844",
+  "title": "나만 알고있는 운전 꿀팁 남기고 핫초코 받자 이벤트",
+  "host": "국토교통부",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "메가커피 핫초코",
+    "count": 20
+   }
+  ],
+  "winners": 20,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-13",
+  "end": "2026-11-20",
+  "steps": [
+   "영상 시청해요",
+   "나만의 안전운전 꿀팁 댓글 작성해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320534",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "댓글"
+  ],
+  "announceDate": "2026-11-27"
+ },
+ {
+  "id": "M845",
+  "title": "센터 이름 초성퀴즈 풀고 배라 싱글킹 받자 이벤트",
+  "host": "전남가상융합산업혁신센",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "배스킨라빈스 싱글킹 아이스크림",
+    "count": 15
+   }
+  ],
+  "winners": 15,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-17",
+  "end": "2026-11-20",
+  "steps": [
+   "인스타·페북 팔로우해요",
+   "가상융합 댓글해요",
+   "캡처 폼 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320535",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "퀴즈",
+   "댓글"
+  ],
+  "announceDate": "2026-11-25"
+ },
+ {
+  "id": "M846",
+  "title": "금융사기 예방법 남기고 투썸플레이스 받자 이벤트",
+  "host": "농협상호금융",
+  "hostType": "기업",
+  "channel": "유튜브",
+  "prizes": [
+   {
+    "name": "투썸플레이스 아메리카노",
+    "count": 30
+   }
+  ],
+  "winners": 30,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-13",
+  "end": "2026-11-22",
+  "steps": [
+   "유튜브 구독해요",
+   "감상평 댓글 작성해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320536",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-11-24"
+ },
+ {
+  "id": "M847",
+  "title": "백두산 풍경 선택 댓글로 경품 도전하자 이벤트",
+  "host": "통일부",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "커피쿠폰",
+    "count": 30
+   }
+  ],
+  "winners": 30,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-22",
+  "steps": [
+   "유튜브 3화 시청해요",
+   "풍경·이유 댓글해요",
+   "구글폼 정보 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320537",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "댓글"
+  ],
+  "announceDate": "2026-11-25"
+ },
+ {
+  "id": "M848",
+  "title": "서경방송 연상어 댓글로 치킨 받자 이벤트",
+  "host": "서경방송",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "맘스터치 후라이드 치킨 반마리",
+    "count": 20
+   }
+  ],
+  "winners": 20,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-11-22",
+  "steps": [
+   "팔로우해요",
+   "#서경방송 단어 댓글해요",
+   "폼 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320538",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-11-25"
+ },
+ {
+  "id": "M849",
+  "title": "C투어버스 SNS 공유하고 메가커피 쿠폰 받자 이벤트",
+  "host": "충북관광",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "메가커피 5천원 기프티콘",
+    "count": 150
+   }
+  ],
+  "winners": 150,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-11-22",
+  "steps": [
+   "SNS에 필수태그 넣어 공유해요",
+   "URL·캡처 네이버폼 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320539",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "댓글",
+   "RT·공유"
+  ],
+  "announceDate": "2026-11-25"
+ },
+ {
+  "id": "M850",
+  "title": "북구 정책퀴즈 풀고 5천원 상품권 받자 이벤트",
+  "host": "전남광주통합특별시 북구",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "5천원권 상품권",
+    "count": 30
+   }
+  ],
+  "winners": 30,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-11-22",
+  "steps": [
+   "정책퀴즈 풀기해요",
+   "정답 선택해요",
+   "응모정보 작성 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320540",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "퀴즈"
+  ],
+  "announceDate": "2026-11-23"
+ },
+ {
+  "id": "M851",
+  "title": "베이미아 팔로우로 커피상품권 받자 이벤트",
+  "host": "베이미아",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "스타벅스 모바일 상품권 1만원권",
+    "count": 30
+   }
+  ],
+  "winners": 30,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-23",
+  "steps": [
+   "팔로우해요",
+   "좋아요",
+   "스토리 공유해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 1,
+  "minutes": 2,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320541",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "RT·공유"
+  ],
+  "announceDate": "2026-11-30"
+ },
+ {
+  "id": "M852",
+  "title": "가로세로 퀴즈 풀고 네이버페이 받자 이벤트",
+  "host": "수원문화재단",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "네이버페이 포인트 3천원",
+    "count": 30
+   }
+  ],
+  "winners": 30,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-17",
+  "end": "2026-11-23",
+  "steps": [
+   "팔로우해요",
+   "빨간칸 네글자 정답 댓글해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320542",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "퀴즈",
+   "댓글"
+  ],
+  "announceDate": "2026-11-24"
+ },
+ {
+  "id": "M853",
+  "title": "수능 초성퀴즈 맞히고 배민쿠폰 받자 이벤트",
+  "host": "인사이",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "배달의민족 5천원 쿠폰",
+    "count": 10
+   }
+  ],
+  "winners": 10,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-23",
+  "steps": [
+   "팔로우해요",
+   "초성 정답댓글해요",
+   "친구태그해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320543",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "퀴즈",
+   "댓글"
+  ],
+  "announceDate": "2026-12-01"
+ },
+ {
+  "id": "M854",
+  "title": "재테크 퀴즈 풀고 신세계상품권 받자 이벤트",
+  "host": "2027 대한민국 재테크 박람",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "신세계 상품권 5만원권",
+    "count": 2
+   },
+   {
+    "name": "파리바게뜨 3만원권",
+    "count": 10
+   },
+   {
+    "name": "BBQ치킨",
+    "count": 10
+   },
+   {
+    "name": "배달의민족 2만원권",
+    "count": 10
+   },
+   {
+    "name": "메가커피 카페라떼",
+    "count": 68
+   }
+  ],
+  "winners": 100,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-25",
+  "end": "2026-11-23",
+  "steps": [
+   "퀴즈 선택해요",
+   "전부 풀기해요",
+   "마지막 화면 DM해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320544",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "퀴즈"
+  ],
+  "announceDate": "2026-11-30"
+ },
+ {
+  "id": "M855",
+  "title": "조선머니 구독하고 메가커피 받자 이벤트",
+  "host": "2027 대한민국 재테크 박람",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "메가커피 아메리카노 기프티콘",
+    "count": 200
+   }
+  ],
+  "winners": 200,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-24",
+  "steps": [
+   "구독해요",
+   "캡처해요",
+   "재테크 댓글해요",
+   "DM전송해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 1,
+  "minutes": 2,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320545",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-11-30"
+ },
+ {
+  "id": "M856",
+  "title": "슬농 미션 달성해 온누리상품권 받자 이벤트",
+  "host": "슬농",
+  "hostType": "기업",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "온누리상품권 1만원",
+    "count": 1500
+   }
+  ],
+  "winners": 1500,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-30",
+  "steps": [
+   "회원가입해요",
+   "서비스 미션완료해요",
+   "본인인증해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 3,
+  "minutes": 10,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320546",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "후기·리뷰"
+  ],
+  "announceDate": "2026-12-01"
+ },
+ {
+  "id": "M857",
+  "title": "청주문화 채널 추가하고 선물키트 받자 이벤트",
+  "host": "청주문화10만인클럽",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "10만분의 1 키트",
+    "count": 3
+   },
+   {
+    "name": "10만인클럽 포근 키트",
+    "count": 7
+   },
+   {
+    "name": "10만인클럽 베이직 키트",
+    "count": 30
+   }
+  ],
+  "winners": 40,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-12-03",
+  "steps": [
+   "카톡추가해요",
+   "구독캡처해요",
+   "네이버폼 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 1,
+  "minutes": 2,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320547",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우"
+  ],
+  "announceDate": "2026-12-04"
+ },
+ {
+  "id": "M858",
+  "title": "기대되는 티니핑 댓글로 피규어 받자 이벤트",
+  "host": "티니핑",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "쥬얼스타 캐치 티니핑 피규어 랜덤 1종",
+    "count": 32
+   }
+  ],
+  "winners": 32,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-24",
+  "steps": [
+   "기대 티니핑과 이유 댓글해요",
+   "팔로우 좋아요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320548",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-11-30"
+ },
+ {
+  "id": "M859",
+  "title": "청주무형유산교육관 주소 맞히고 치킨 받자 이벤트",
+  "host": "청주무형유산전수교육관",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "BBQ 황올반+양념반+황금알치즈볼",
+    "count": 8
+   },
+   {
+    "name": "메가커피 ICE 아메리카노",
+    "count": 45
+   }
+  ],
+  "winners": 53,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-12-01",
+  "steps": [
+   "청주무형유산전수교육관 팔로우해요",
+   "도로명주소 댓글해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320549",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "퀴즈",
+   "댓글"
+  ],
+  "announceDate": "2026-12-02"
+ },
+ {
+  "id": "M860",
+  "title": "세종베이비페어 리그램하고 커피케이크 받자 이벤트",
+  "host": "베베 세종베이비페어",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "투썸플레이스 커피케이크 쿠폰",
+    "count": 20
+   }
+  ],
+  "winners": 20,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-17",
+  "end": "2026-12-06",
+  "steps": [
+   "베베페어 팔로우해요",
+   "게시물 좋아요",
+   "리그램 공유해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320550",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "RT·공유"
+  ],
+  "announceDate": "2026-12-07"
+ },
+ {
+  "id": "M861",
+  "title": "상미로운 생활 푸드뱅크편 댓글달고 선물 받자 이벤트",
+  "host": "상미당",
+  "hostType": "기업",
+  "channel": "유튜브",
+  "prizes": [
+   {
+    "name": "파리바게뜨 1만원권",
+    "count": 20
+   }
+  ],
+  "winners": 20,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-17",
+  "end": "2026-11-30",
+  "steps": [
+   "유튜브 구독해요",
+   "댓글 작성해요",
+   "폼제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320551",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-12-04"
+ },
+ {
+  "id": "M862",
+  "title": "전남광주 여행지 선택하고 네이버페이 받자 이벤트",
+  "host": "전남광주사랑애서포터즈",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "네이버페이 포인트 5천원",
+    "count": 300
+   }
+  ],
+  "winners": 300,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-12-02",
+  "steps": [
+   "신규 팔로우해요",
+   "여행지 확인해요",
+   "이유 작성해요",
+   "인증샷 폼 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320552",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "설문",
+   "후기·리뷰"
+  ],
+  "announceDate": "2026-12-04"
+ },
+ {
+  "id": "M863",
+  "title": "수험생 응원댓글로 오렌지주스 받자 이벤트",
+  "host": "플로리다 오렌지주스",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "플로리다 오렌지주스",
+    "count": 50
+   }
+  ],
+  "winners": 50,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-24",
+  "steps": [
+   "팔로우해요",
+   "좋아요",
+   "수험생 응원댓글 친구태그해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320553",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-11-25"
+ },
+ {
+  "id": "M864",
+  "title": "음주폐해예방 OX퀴즈 풀고 파인트 아이스크림 받자 이벤트",
+  "host": "시흥시정신건강복지센터",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "배스킨라빈스 파인트 아이스크림 쿠폰",
+    "count": 100
+   }
+  ],
+  "winners": 100,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-30",
+  "steps": [
+   "카드뉴스 읽기해요",
+   "프로필 구글폼 OX퀴즈 풀고 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320554",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "퀴즈"
+  ],
+  "announceDate": "2026-12-10"
+ },
+ {
+  "id": "M865",
+  "title": "임금직업포털 팔로우 인증하고 네이버페이 받자 이벤트",
+  "host": "한국고용정보원 임금직업",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "네이버페이 포인트 5천원 모바일쿠폰",
+    "count": 100
+   }
+  ],
+  "winners": 100,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-17",
+  "end": "2026-11-24",
+  "steps": [
+   "공식 SNS 팔로우해요",
+   "폼에 인증샷 제출해요",
+   "참여완료 댓글해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 1,
+  "minutes": 2,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320555",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글",
+   "후기·리뷰"
+  ],
+  "announceDate": "2026-11-30"
+ },
+ {
+  "id": "M866",
+  "title": "온작 코스트코 갈비탕 입점 축하하고 갈비탕 받자 이벤트",
+  "host": "온작",
+  "hostType": "기업",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "코스트코 갈비탕",
+    "count": 20
+   },
+   {
+    "name": "커피 기프티콘",
+    "count": 20
+   }
+  ],
+  "winners": 40,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-12-09",
+  "steps": [
+   "온작 코스트코 갈비탕 입점 축하 댓글 작성해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320556",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "댓글"
+  ],
+  "announceDate": "2026-12-16"
+ },
+ {
+  "id": "M867",
+  "title": "딸기 사투리 댓글 달고 상품권 받자 이벤트",
+  "host": "2027 논산세계딸기산업엑",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "네이버페이 포인트 5천원",
+    "count": 30
+   }
+  ],
+  "winners": 30,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-25",
+  "steps": [
+   "팔로우해요",
+   "딸기 사투리 댓글해요",
+   "폼 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320557",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-11-30"
+ },
+ {
+  "id": "M868",
+  "title": "유통정보 설문 참여해 커피쿠폰 받자 이벤트",
+  "host": "서울시농수산식품공사",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "커피 기프티콘",
+    "count": 400
+   }
+  ],
+  "winners": 400,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-11-29",
+  "steps": [
+   "유통정보 이용해요",
+   "구글폼 설문 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320558",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "설문"
+  ],
+  "announceDate": "2026-12-10"
+ },
+ {
+  "id": "M869",
+  "title": "부안여행 일본어 인스타 팔로우하고 네이버페이 받자 이벤트",
+  "host": "부안여행",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "네이버페이 5만원",
+    "count": 5
+   },
+   {
+    "name": "네이버페이 1만원",
+    "count": 55
+   }
+  ],
+  "winners": 60,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-11-27",
+  "steps": [
+   "일본어계정 팔로우해요",
+   "좋아요",
+   "인증샷 폼 제출해요",
+   "참여완료 댓글해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 1,
+  "minutes": 2,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320559",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글",
+   "후기·리뷰"
+  ],
+  "announceDate": "2026-11-30"
+ },
+ {
+  "id": "M870",
+  "title": "소닉 할인소식 리포스트하고 페이 받자 이벤트",
+  "host": "소닉 더 헤지혹",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "네이버페이 3만원권",
+    "count": 30
+   }
+  ],
+  "winners": 30,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-12-01",
+  "steps": [
+   "소닉 팔로우해요",
+   "할인글 리포스트해요",
+   "댓글 작성해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320560",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글",
+   "RT·공유"
+  ],
+  "announceDate": "2026-12-02"
+ },
+ {
+  "id": "M871",
+  "title": "풀무원 그릭 축하댓글로 상품권 받자 이벤트",
+  "host": "풀무원요거트",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "신세계백화점 상품권 5만원권",
+    "count": 10
+   },
+   {
+    "name": "풀무원 요거트그릭 세트",
+    "count": 20
+   }
+  ],
+  "winners": 30,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-24",
+  "steps": [
+   "그릭 팔로우해요",
+   "축하댓글해요",
+   "친구태그해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320561",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-11-30"
+ },
+ {
+  "id": "M872",
+  "title": "전남광주 가을 여행코스 고르고 올영상품권 받자 이벤트",
+  "host": "전광판온",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "올리브영 상품권 1만원권",
+    "count": 10
+   }
+  ],
+  "winners": 10,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-11-29",
+  "steps": [
+   "전광판 온 팔로우해요",
+   "가고 싶은 여행코스 댓글 작성해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320562",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-11-30"
+ },
+ {
+  "id": "M873",
+  "title": "치매 퀴즈 풀고 편의점 상품권 받자 이벤트",
+  "host": "대구광역치매센터",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "편의점 상품권",
+    "count": null
+   }
+  ],
+  "winners": null,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-17",
+  "end": "2026-11-27",
+  "steps": [
+   "QR 정답제출해요",
+   "좋아요",
+   "이름·완료 댓글해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320564",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "퀴즈",
+   "댓글"
+  ],
+  "announceDate": "2026-12-04"
+ },
+ {
+  "id": "M874",
+  "title": "뮤비 투표하고 투썸 아메리카노 받자 이벤트",
+  "host": "전국민AI경진대회",
+  "hostType": "기업",
+  "channel": "유튜브",
+  "prizes": [
+   {
+    "name": "투썸플레이스 아메리카노 R",
+    "count": 100
+   }
+  ],
+  "winners": 100,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-11-25",
+  "steps": [
+   "구독해요",
+   "영상보기해요",
+   "좋아요·평해요",
+   "캡처폼해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320565",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "퀴즈",
+   "투표"
+  ],
+  "announceDate": "2026-12-04"
+ },
+ {
+  "id": "M875",
+  "title": "의회 용어 퀴즈 풀고 버거세트 받자 이벤트",
+  "host": "대구광역시의회",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "버거 세트",
+    "count": 50
+   }
+  ],
+  "winners": 50,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-24",
+  "steps": [
+   "SNS 팔로우해요",
+   "좋아요",
+   "폼에 정답 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320566",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "퀴즈"
+  ],
+  "announceDate": "2026-11-26"
+ },
+ {
+  "id": "M876",
+  "title": "경북소마고 SNS 팔로우하고 올리브영 상품권 받자 이벤트",
+  "host": "경북소프트웨어마이스터",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "올리브영 5만원 모바일 쿠폰",
+    "count": 3
+   },
+   {
+    "name": "BHC 뿌링클콤보+콜라 125L",
+    "count": 10
+   },
+   {
+    "name": "투썸플레이스 아이스 아메리카노+스초생",
+    "count": 15
+   }
+  ],
+  "winners": 28,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-24",
+  "steps": [
+   "인스타·블로그 중 1곳 팔로우해요",
+   "참여완료 댓글해요",
+   "폼 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 1,
+  "minutes": 2,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320567",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-11-26"
+ },
+ {
+  "id": "M877",
+  "title": "아동권리 콘텐츠 골라 빅맥세트 받자 이벤트",
+  "host": "국가아동권리보장원",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "맥도날드 빅맥세트",
+    "count": 30
+   }
+  ],
+  "winners": 30,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-30",
+  "steps": [
+   "블로그 이동해요",
+   "최애 콘텐츠·이유 댓글해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320568",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "댓글"
+  ],
+  "announceDate": "2026-12-03"
+ },
+ {
+  "id": "M878",
+  "title": "세르프 i05 i10 맞히고 네이버페이 받자 이벤트",
+  "host": "세르프",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "네이버페이 1만원권",
+    "count": 100
+   }
+  ],
+  "winners": 100,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-17",
+  "end": "2026-11-30",
+  "steps": [
+   "팔로우해요",
+   "좋아요",
+   "i05와 i10 각각 댓글해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320569",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "퀴즈",
+   "댓글"
+  ],
+  "announceDate": "2026-12-04"
+ },
+ {
+  "id": "M879",
+  "title": "복권 홍보 아이디어 남기고 상품권 받자 이벤트",
+  "host": "기획예산처",
+  "hostType": "기업",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "편의점 5천원권",
+    "count": 400
+   }
+  ],
+  "winners": 400,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-12-04",
+  "steps": [
+   "복권 홍보 아이디어 남기기해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320570",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "설문"
+  ],
+  "announceDate": "2026-12-11"
+ },
+ {
+  "id": "M880",
+  "title": "가장 기억에 남는 뉴스 남기고 기념품 받자 이벤트",
+  "host": "우주항공청",
+  "hostType": "기관",
+  "channel": "유튜브",
+  "prizes": [
+   {
+    "name": "우주항공청 기념품",
+    "count": 10
+   }
+  ],
+  "winners": 10,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-17",
+  "end": "2026-11-29",
+  "steps": [
+   "유튜브 구독해요",
+   "댓글 작성해요",
+   "폼제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320571",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-12-04"
+ },
+ {
+  "id": "M881",
+  "title": "박물관 팔로우 인증하고 배민권 받자 이벤트",
+  "host": "국립인천해양박물관",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "배달의민족 1만원권",
+    "count": 5
+   },
+   {
+    "name": "투썸플레이스 아메리카노",
+    "count": 35
+   }
+  ],
+  "winners": 40,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-17",
+  "end": "2026-11-29",
+  "steps": [
+   "팔로우해요",
+   "좋아요",
+   "팔로우 캡처 폼제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 1,
+  "minutes": 2,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320572",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우"
+  ],
+  "announceDate": "2026-12-04"
+ },
+ {
+  "id": "M882",
+  "title": "온라인행정심판 만족도 조사하고 기프티콘 받자 이벤트",
+  "host": "온라인행정심판",
+  "hostType": "기업",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "1만원 상당 기프티콘",
+    "count": 100
+   }
+  ],
+  "winners": 100,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-09",
+  "end": "2026-12-06",
+  "steps": [
+   "행정심판 홈페이지 접속해요",
+   "만족도조사 배너 클릭해요",
+   "설문 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320573",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "설문"
+  ],
+  "announceDate": "2026-12-21"
+ },
+ {
+  "id": "M883",
+  "title": "지방시대 엑스포 친구태그로 페이 받자 이벤트",
+  "host": "지방시대위원회",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "네이버페이 5천원권",
+    "count": 40
+   }
+  ],
+  "winners": 40,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-12-09",
+  "steps": [
+   "채널 팔로우해요",
+   "친구태그·엑스포 홍보해요",
+   "폼 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320574",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글",
+   "RT·공유"
+  ],
+  "announceDate": "2026-12-16"
+ },
+ {
+  "id": "M884",
+  "title": "울산 동구 트리 인증하고 숙박권 받자 이벤트",
+  "host": "울산광역시 동구",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "라한호텔 동구 숙박권",
+    "count": 3
+   },
+   {
+    "name": "HD현대중공업 HD 시그니처 우드 오르골",
+    "count": 2
+   },
+   {
+    "name": "HD아트센터 영화 쿠폰북",
+    "count": 5
+   },
+   {
+    "name": "정조대왕 선박레고",
+    "count": 20
+   },
+   {
+    "name": "엔드위시 또는 더퓨처",
+    "count": 20
+   },
+   {
+    "name": "아메리카노 1잔 기프티콘",
+    "count": 200
+   }
+  ],
+  "winners": 250,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2027-01-15",
+  "steps": [
+   "트리 방문 촬영해요",
+   "해시태그 3개 공개게시해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 3,
+  "minutes": 10,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320575",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "댓글"
+  ],
+  "announceDate": "2027-01-20"
+ },
+ {
+  "id": "M885",
+  "title": "그린AI에 귀농 질문하고 쿠폰 받자 이벤트",
+  "host": "그린대로",
+  "hostType": "기업",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "네이버페이 포인트 쿠폰 5천원권",
+    "count": 1000
+   }
+  ],
+  "winners": 1000,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-12-18",
+  "steps": [
+   "그린대로 접속해요",
+   "그린AI에 질문하기해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320576",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "댓글"
+  ],
+  "announceDate": "2026-12-22"
+ },
+ {
+  "id": "M886",
+  "title": "어린이 무형유산 발표회 응원하고 선물 받자 이벤트",
+  "host": "국가유산진흥원",
+  "hostType": "기관",
+  "channel": "유튜브",
+  "prizes": [
+   {
+    "name": "아메리카노 기프티콘",
+    "count": 50
+   }
+  ],
+  "winners": 50,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-17",
+  "end": "2026-11-30",
+  "steps": [
+   "유튜브 구독해요",
+   "댓글 작성해요",
+   "폼제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320577",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-12-02"
+ },
+ {
+  "id": "M887",
+  "title": "경기아트센터 SNS 설문하고 치킨 받자 이벤트",
+  "host": "경기아트센터",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "굽네치킨",
+    "count": 5
+   },
+   {
+    "name": "메가커피 아이스 아메리카노 교환권",
+    "count": 195
+   }
+  ],
+  "winners": 200,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-12-09",
+  "steps": [
+   "SNS 채널 둘러보기해요",
+   "네이버폼 설문 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320579",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "설문"
+  ],
+  "announceDate": "2026-12-23"
+ },
+ {
+  "id": "M888",
+  "title": "탄소 SNS 설문 참여해 네이버페이 받자 이벤트",
+  "host": "한국탄소산업진흥원",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "네이버페이 포인트 5천원권",
+    "count": 100
+   }
+  ],
+  "winners": 100,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-17",
+  "end": "2026-11-26",
+  "steps": [
+   "구글폼 접속해요",
+   "SNS 콘텐츠 평가 후 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320580",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "설문"
+  ],
+  "announceDate": "2026-12-04"
+ },
+ {
+  "id": "M889",
+  "title": "유진그룹 블로그 이웃추가하고 상품권 받자 이벤트",
+  "host": "유진그룹",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "GS25 1만원권",
+    "count": 50
+   }
+  ],
+  "winners": 50,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-17",
+  "end": "2026-11-29",
+  "steps": [
+   "블로그 이웃추가해요",
+   "이벤트 공유해요",
+   "이웃 댓글 태그해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 1,
+  "minutes": 2,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320581",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "댓글",
+   "RT·공유"
+  ],
+  "announceDate": "2026-12-03"
+ },
+ {
+  "id": "M890",
+  "title": "충남 여행댓글 달고 커피머신 도전 이벤트",
+  "host": "충남문화관광재단",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "네스프레소 커피머신",
+    "count": 1
+   },
+   {
+    "name": "에어팟 5세대",
+    "count": 1
+   },
+   {
+    "name": "지역사랑상품권 5만원권",
+    "count": 4
+   },
+   {
+    "name": "치킨세트 기프티콘",
+    "count": 5
+   }
+  ],
+  "winners": 11,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-30",
+  "steps": [
+   "팔로우해요",
+   "여행후기 댓글해요",
+   "좋아요·태그해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320582",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-12-02"
+ },
+ {
+  "id": "M891",
+  "title": "경륜경정 공모전 SNS 공유하고 투썸커피 받자 이벤트",
+  "host": "씽유",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "투썸플레이스 아메리카노 기프티콘",
+    "count": 100
+   }
+  ],
+  "winners": 100,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-12-03",
+  "steps": [
+   "공모전 SNS 공유·해시태그해요",
+   "씽유 가입 후 URL 댓글해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320583",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "댓글",
+   "RT·공유"
+  ],
+  "announceDate": "2026-12-10"
+ },
+ {
+  "id": "M892",
+  "title": "미농수니TV 퀴즈 풀고 메가커피 받자 이벤트",
+  "host": "경기도농수산진흥원",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "메가MGC커피 아메리카노",
+    "count": 50
+   }
+  ],
+  "winners": 50,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-25",
+  "steps": [
+   "구독캡처해요",
+   "퀴즈댓글해요",
+   "폼 인증 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320584",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "퀴즈",
+   "댓글"
+  ],
+  "announceDate": "2026-11-27"
+ },
+ {
+  "id": "M893",
+  "title": "특별하게 소식지 독자 설문하고 메가커피 받자 이벤트",
+  "host": "중앙취업지원센터",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "메가커피 모바일 금액권 5천원",
+    "count": 60
+   }
+  ],
+  "winners": 60,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-17",
+  "end": "2026-11-27",
+  "steps": [
+   "구글폼 접속해요",
+   "특별하게 선호 코너·희망 내용 응답해요",
+   "제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320586",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "설문"
+  ],
+  "announceDate": "2026-12-04"
+ },
+ {
+  "id": "M894",
+  "title": "광주시문화재단 유튜브 구독하고 상품권 받자 이벤트",
+  "host": "광주시문화재단",
+  "hostType": "기관",
+  "channel": "유튜브",
+  "prizes": [
+   {
+    "name": "다이소 5천원권",
+    "count": 100
+   }
+  ],
+  "winners": 100,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-11-29",
+  "steps": [
+   "유튜브 구독해요",
+   "구독화면 캡처해요",
+   "폼제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 1,
+  "minutes": 2,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320587",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우"
+  ],
+  "announceDate": "2026-11-30"
+ },
+ {
+  "id": "M895",
+  "title": "수험생 응원 댓글로 BBQ 치킨 받자 이벤트",
+  "host": "수원특례시의회",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "BBQ 황금올리브치킨+콜라 125L 모바일쿠폰",
+    "count": 15
+   }
+  ],
+  "winners": 15,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-27",
+  "steps": [
+   "공식 SNS 팔로우해요",
+   "응원댓글해요",
+   "QR폼 정보 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320588",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-11-30"
+ },
+ {
+  "id": "M896",
+  "title": "한방에 담다 투표하고 커피쿠폰 받자 이벤트",
+  "host": "서울한방진흥센터",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "커피 쿠폰",
+    "count": 50
+   }
+  ],
+  "winners": 50,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-17",
+  "end": "2026-11-27",
+  "steps": [
+   "인스타 프로필 링크해요",
+   "한방 후보작 투표해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 1,
+  "minutes": 2,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320589",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "투표"
+  ],
+  "announceDate": "2026-12-04"
+ },
+ {
+  "id": "M897",
+  "title": "K아이템 유형 댓글로 스타벅스 받자 이벤트",
+  "host": "TBT종합지원센터",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "스타벅스 제품교환권 5천원권",
+    "count": 30
+   }
+  ],
+  "winners": 30,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-25",
+  "steps": [
+   "팔로우해요",
+   "유형·선물 댓글해요",
+   "캡처 폼제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320590",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-11-27"
+ },
+ {
+  "id": "M898",
+  "title": "경기 관광지 방문 인증해 상품권 받자 이벤트",
+  "host": "경기관광공사",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "신세계 상품권 5만원권",
+    "count": 10
+   },
+   {
+    "name": "알로코리아 군밤알밤 손난로 보조배터리",
+    "count": 20
+   },
+   {
+    "name": "투썸플레이스 말차 크림 라떼 R",
+    "count": 50
+   }
+  ],
+  "winners": 80,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-12-13",
+  "steps": [
+   "팔로우해요",
+   "#경기가자 사진게시해요",
+   "폼제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 3,
+  "minutes": 10,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320591",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "후기·리뷰"
+  ],
+  "announceDate": "2026-12-18"
+ },
+ {
+  "id": "M899",
+  "title": "수험생 응원 댓글 남기고 허갈피 치킨 받자 이벤트",
+  "host": "후라이드 참 잘하는 집",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "허갈피 치킨 모바일 상품권",
+    "count": 10
+   }
+  ],
+  "winners": 10,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-25",
+  "steps": [
+   "후참잘 인스타 팔로우해요",
+   "수험생 응원 댓글 작성해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320592",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-11-26"
+ },
+ {
+  "id": "M900",
+  "title": "빈칸퀴즈 맞히고 네이버페이 노리자 이벤트",
+  "host": "경기도주식회사 배달특급",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "네이버페이 3만원권",
+    "count": 3
+   },
+   {
+    "name": "피자헛 치즈러버 오리지널M+콜라 125L",
+    "count": 5
+   },
+   {
+    "name": "파리바게뜨 교환권 1만원권",
+    "count": 15
+   }
+  ],
+  "winners": 23,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-11-27",
+  "steps": [
+   "팔로우해요",
+   "좋아요",
+   "배달특급 댓글해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320593",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "퀴즈",
+   "댓글"
+  ],
+  "announceDate": "2026-12-04"
+ },
+ {
+  "id": "M901",
+  "title": "빈칸 퀴즈 풀고 올리브영 상품권 받자 이벤트",
+  "host": "국립낙동강생물자원관",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "올리브영 5천원권",
+    "count": 50
+   }
+  ],
+  "winners": 50,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-17",
+  "end": "2026-11-25",
+  "steps": [
+   "블로그 이웃추가해요",
+   "퀴즈 정답 남기기해요",
+   "폼제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320594",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "퀴즈"
+  ],
+  "announceDate": "2026-11-27"
+ },
+ {
+  "id": "M902",
+  "title": "퓨리얼 26주년 퀴즈 풀고 상품권 받자 이벤트",
+  "host": "퓨리얼",
+  "hostType": "기업",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "신세계 상품권",
+    "count": 1
+   },
+   {
+    "name": "치킨 상품권",
+    "count": 3
+   },
+   {
+    "name": "배달의민족 1만원권",
+    "count": 6
+   },
+   {
+    "name": "메가커피 아메리카노",
+    "count": 30
+   },
+   {
+    "name": "네이버페이 1천원권",
+    "count": 10
+   },
+   {
+    "name": "네이버페이 500원",
+    "count": 210
+   }
+  ],
+  "winners": 260,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-11-30",
+  "steps": [
+   "퓨리얼 26주년 퀴즈 풀기해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320596",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "퀴즈"
+  ],
+  "announceDate": "2026-12-17"
+ },
+ {
+  "id": "M903",
+  "title": "채널 만족도 조사 참여하고 상품권 받자 이벤트",
+  "host": "인문360",
+  "hostType": "기업",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "문화상품권 5천원권",
+    "count": 60
+   }
+  ],
+  "winners": 60,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-12-10",
+  "steps": [
+   "인문360 콘텐츠,채널 만족도 조사 참여해요",
+   "폼제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320597",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "설문"
+  ],
+  "announceDate": "2026-12-15"
+ },
+ {
+  "id": "M904",
+  "title": "말풍선 채우고 올리브영 1만원 받자 이벤트",
+  "host": "충청북도교육청",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "올리브영 1만원권",
+    "count": 30
+   }
+  ],
+  "winners": 30,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-11-30",
+  "steps": [
+   "블로그 이웃추가해요",
+   "댓글 작성해요",
+   "폼제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320598",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "퀴즈",
+   "댓글"
+  ],
+  "announceDate": "2026-12-04"
+ },
+ {
+  "id": "M905",
+  "title": "천봉이 쇼츠 출연편수 맞히고 치킨쿠폰 받자 이벤트",
+  "host": "백제역사유적지구",
+  "hostType": "기관",
+  "channel": "유튜브",
+  "prizes": [
+   {
+    "name": "맘스터치 간장마늘 빅싸이순살",
+    "count": 30
+   },
+   {
+    "name": "메가MGC커피 아메리카노",
+    "count": 100
+   }
+  ],
+  "winners": 130,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-27",
+  "steps": [
+   "유튜브 구독 캡처해요",
+   "천봉이 쇼츠 세기해요",
+   "영상 좋아요 캡처해요",
+   "폼 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320599",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "퀴즈"
+  ],
+  "announceDate": "2026-12-02"
+ },
+ {
+  "id": "M906",
+  "title": "네이버 스마트스토어 찜하고 네이버페이 받자 이벤트",
+  "host": "지학사",
+  "hostType": "기업",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "네이버페이 5천원권",
+    "count": 100
+   }
+  ],
+  "winners": 100,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-17",
+  "end": "2026-12-06",
+  "steps": [
+   "스마트스토어 찜하기해요",
+   "폼제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 1,
+  "minutes": 2,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320600",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "설문"
+  ],
+  "announceDate": "2026-12-16"
+ },
+ {
+  "id": "M907",
+  "title": "NCS 인스타 설문 참여해 신세계상품권 받자 이벤트",
+  "host": "국가직무능력표준",
+  "hostType": "기업",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "신세계 상품권 2만원권",
+    "count": 30
+   }
+  ],
+  "winners": 30,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-30",
+  "steps": [
+   "설문링크 접속해요",
+   "NCS 만족도 응답해요",
+   "폼 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320601",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "설문"
+  ],
+  "announceDate": "2026-12-12"
+ },
+ {
+  "id": "M908",
+  "title": "광주은행 창립 58주년 축하하고 올리브영 상품권 받자 이벤트",
+  "host": "광주은행",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "올리브영 상품권 3만원권",
+    "count": 20
+   }
+  ],
+  "winners": 20,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-24",
+  "steps": [
+   "광주은행 팔로우해요",
+   "게시물 좋아요",
+   "58주년 축하 댓글해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320602",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-11-25"
+ },
+ {
+  "id": "M909",
+  "title": "국립해양측위정보원 설문 참여하고 선물 받자 이벤트",
+  "host": "해양수산부",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "1만원 상당 상품권",
+    "count": 10
+   }
+  ],
+  "winners": 10,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-11-30",
+  "steps": [
+   "국립해양측위정보원 인지도 및 홍보 설문 참여해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320603",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "설문"
+  ],
+  "announceDate": "2026-12-07"
+ },
+ {
+  "id": "M910",
+  "title": "대한민국 응원 댓글 남기고 선물 받자 이벤트",
+  "host": "과학기술정보통신부",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "문화상품권 5만원권",
+    "count": 5
+   },
+   {
+    "name": "네이버페이 5천원권",
+    "count": 50
+   }
+  ],
+  "winners": 55,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-11-30",
+  "steps": [
+   "대한민국 응원 댓글 남기기해요",
+   "SEED RUN 게임 플레이(필수X)해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320604",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "댓글"
+  ],
+  "announceDate": "2026-12-02"
+ },
+ {
+  "id": "M911",
+  "title": "안심공제 공유해 네이버포인트 받자 이벤트",
+  "host": "한국예술인복지재단",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "네이버포인트 5천원권",
+    "count": 100
+   }
+  ],
+  "winners": 100,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-17",
+  "end": "2026-11-30",
+  "steps": [
+   "팔로우해요",
+   "좋아요·공유해요",
+   "태그·폼제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320606",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글",
+   "RT·공유"
+  ],
+  "announceDate": "2026-12-04"
+ },
+ {
+  "id": "M912",
+  "title": "세종교육청 홍보 만족도 설문하고 상품권 받자 이벤트",
+  "host": "세종특별자치시교육청",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "신세계 상품권 5만원권",
+    "count": 3
+   },
+   {
+    "name": "도미노피자 슈퍼슈프림L+콜라",
+    "count": 10
+   },
+   {
+    "name": "컴포즈커피 아메리카노",
+    "count": 100
+   }
+  ],
+  "winners": 113,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-12-02",
+  "steps": [
+   "홍보 만족도 설문 접속해요",
+   "홍보매체 평가·의견 작성해요",
+   "제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320607",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "설문"
+  ],
+  "announceDate": "2026-12-09"
+ },
+ {
+  "id": "M913",
+  "title": "대구 여행지 추천댓글로 포인트 받자 이벤트",
+  "host": "대구관광",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "네이버페이 포인트 5천원",
+    "count": 30
+   }
+  ],
+  "winners": 30,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-25",
+  "steps": [
+   "대구관광 팔로우해요",
+   "추천 여행지 댓글해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320608",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-11-30"
+ },
+ {
+  "id": "M914",
+  "title": "NH페이 광고퀴즈 풀고 쿠팡캐시 받자 이벤트",
+  "host": "NH농협카드",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "쿠팡이츠 쿠팡캐시 교환권 1만원권",
+    "count": 50
+   }
+  ],
+  "winners": 50,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-12-10",
+  "steps": [
+   "광고시청해요",
+   "좋아요",
+   "팔로우해요",
+   "댓글해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320609",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "퀴즈",
+   "댓글"
+  ],
+  "announceDate": "2026-12-16"
+ },
+ {
+  "id": "M915",
+  "title": "수출코리아 쇼츠 몰아보고 선물 받자 이벤트",
+  "host": "산업통상부",
+  "hostType": "기관",
+  "channel": "유튜브",
+  "prizes": [
+   {
+    "name": "수출프렌즈 트래블키트",
+    "count": 30
+   }
+  ],
+  "winners": 30,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-11-29",
+  "steps": [
+   "유튜브 구독해요",
+   "영상 좋아요",
+   "댓글 작성해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320610",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-12-02"
+ },
+ {
+  "id": "M916",
+  "title": "캠페인 영상 시청소감 남기고 커피 받자 이벤트",
+  "host": "조달청",
+  "hostType": "기관",
+  "channel": "유튜브",
+  "prizes": [
+   {
+    "name": "커피 기프티콘",
+    "count": 20
+   }
+  ],
+  "winners": 20,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-17",
+  "end": "2026-11-24",
+  "steps": [
+   "유튜브 구독해요",
+   "댓글 작성해요",
+   "폼제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320611",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "설문",
+   "댓글"
+  ],
+  "announceDate": "2026-12-01"
+ },
+ {
+  "id": "M917",
+  "title": "레디 응원 댓글 남기고 스타벅스 받자 이벤트",
+  "host": "한화케미칼",
+  "hostType": "기업",
+  "channel": "유튜브",
+  "prizes": [
+   {
+    "name": "스타벅스 아메리카노",
+    "count": 20
+   }
+  ],
+  "winners": 20,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-17",
+  "end": "2026-11-30",
+  "steps": [
+   "유튜브 구독해요",
+   "레디 응원 댓글 작성해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320612",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-12-07"
+ },
+ {
+  "id": "M918",
+  "title": "만족도 설문조사 참여하고 선물 받자 이벤트",
+  "host": "제주관광공사 비짓제주",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "신세계 5만원권",
+    "count": 10
+   },
+   {
+    "name": "컴포즈 5천원권",
+    "count": 140
+   }
+  ],
+  "winners": 150,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-11-30",
+  "steps": [
+   "구글폼 접속해요",
+   "비짓제주 만족도 조사 참여해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320613",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "설문"
+  ],
+  "announceDate": "2026-12-07"
+ },
+ {
+  "id": "M919",
+  "title": "아세안센터 응원댓글로 네이버페이 받자 이벤트",
+  "host": "한아세안센터",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "아마존 기프트카드 10달러",
+    "count": 100
+   },
+   {
+    "name": "네이버페이 1만원권",
+    "count": 100
+   }
+  ],
+  "winners": 200,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-29",
+  "steps": [
+   "아세안센터 팔로우해요",
+   "좋아요",
+   "응원 댓글해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 1,
+  "minutes": 2,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320614",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-12-04"
+ },
+ {
+  "id": "M920",
+  "title": "거창군을 소개하는 글 남기고 네이버페이 받자 이벤트",
+  "host": "거창군",
+  "hostType": "기관",
+  "channel": "유튜브",
+  "prizes": [
+   {
+    "name": "네이버페이 1만원권",
+    "count": 50
+   }
+  ],
+  "winners": 50,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-12-03",
+  "steps": [
+   "유튜브 구독해요",
+   "거창 소개글 댓글 작성해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320615",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-12-05"
+ },
+ {
+  "id": "M921",
+  "title": "맞춤배움길 만족도 설문하고 커피 받자 이벤트",
+  "host": "한국교육학술정보원",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "2만원 상당 커피 교환권",
+    "count": 100
+   }
+  ],
+  "winners": 100,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-13",
+  "end": "2026-11-25",
+  "steps": [
+   "서비스 로그인해요",
+   "지정 기능 이용해요",
+   "팝업 설문 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320616",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "설문"
+  ],
+  "announceDate": "2026-12-01"
+ },
+ {
+  "id": "M922",
+  "title": "대학원 소개영상 보고 커피쿠폰 받자 이벤트",
+  "host": "고려사이버대학교",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "커피 쿠폰",
+    "count": 50
+   }
+  ],
+  "winners": 50,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-11-27",
+  "steps": [
+   "인스타 팔로우해요",
+   "대학원 영상시청해요",
+   "설문제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320617",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "설문"
+  ],
+  "announceDate": "2026-12-11"
+ },
+ {
+  "id": "M923",
+  "title": "함안 으뜸정책 투표하고 상품권 받자 이벤트",
+  "host": "함안군",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "모바일 함안사랑상품권 1만원권",
+    "count": 100
+   }
+  ],
+  "winners": 100,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-11-27",
+  "steps": [
+   "설문링크 접속해요",
+   "함안 으뜸정책 투표 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320618",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "투표",
+   "설문"
+  ],
+  "announceDate": "2026-12-10"
+ },
+ {
+  "id": "M924",
+  "title": "전기연구원 SNS 만족도 조사하고 네이버페이 받자 이벤트",
+  "host": "한국전기연구원",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "네이버페이 5천원 모바일상품권",
+    "count": 20
+   }
+  ],
+  "winners": 20,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-12-06",
+  "steps": [
+   "연구원 SNS 1개 이상 팔로우해요",
+   "네이버폼 설문 응답·제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320619",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "설문"
+  ],
+  "announceDate": "2026-12-16"
+ },
+ {
+  "id": "M925",
+  "title": "광동 헛개차 다른점 찾고 헛개차 받자 이벤트",
+  "host": "광동제약",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "광동 헛개차 500ml 12입",
+    "count": 30
+   }
+  ],
+  "winners": 30,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-24",
+  "steps": [
+   "광동 팔로우해요",
+   "다른점 댓글해요",
+   "친구태그해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320621",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "퀴즈",
+   "댓글"
+  ],
+  "announceDate": "2026-12-03"
+ },
+ {
+  "id": "M926",
+  "title": "원주시 올해의 유튜브 영상 뽑고 치킨 받자 이벤트",
+  "host": "원주시",
+  "hostType": "기관",
+  "channel": "유튜브",
+  "prizes": [
+   {
+    "name": "반반치킨+콜라 세트",
+    "count": 5
+   },
+   {
+    "name": "네이버페이 1만원",
+    "count": 6
+   },
+   {
+    "name": "아메리카노 모바일 쿠폰",
+    "count": 89
+   }
+  ],
+  "winners": 100,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-24",
+  "steps": [
+   "유튜브 구독해요",
+   "영상 좋아요·소감 댓글해요",
+   "캡처 후 구글폼 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320622",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "설문",
+   "댓글"
+  ],
+  "announceDate": "2026-11-30"
+ },
+ {
+  "id": "M927",
+  "title": "붕어빵 캡처하고 네이버페이 받자 이벤트",
+  "host": "근로복지공단",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "네이버페이 포인트 5천원권",
+    "count": 50
+   }
+  ],
+  "winners": 50,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-30",
+  "steps": [
+   "구독·좋아요",
+   "캡처해요",
+   "응원글해요",
+   "폼제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 3,
+  "minutes": 10,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320623",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우"
+  ],
+  "announceDate": "2026-12-04"
+ },
+ {
+  "id": "M928",
+  "title": "삼척 수능 응원하고 GS25 상품권 받자 이벤트",
+  "host": "삼척시",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "GS25 모바일 상품권 1만원권",
+    "count": 30
+   }
+  ],
+  "winners": 30,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-12-02",
+  "steps": [
+   "팔로우해요",
+   "좋아요",
+   "수험생 응원 댓글해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320624",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-12-09"
+ },
+ {
+  "id": "M929",
+  "title": "정상 혈압 혈당 맞히고 메가커피 받자 이벤트",
+  "host": "사천시",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "메가커피 기프티콘 2천원 상당",
+    "count": 150
+   }
+  ],
+  "winners": 150,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-25",
+  "steps": [
+   "게시물 좋아요",
+   "혈압·혈당 정답 댓글해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320625",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "퀴즈",
+   "댓글"
+  ],
+  "announceDate": "2026-12-11"
+ },
+ {
+  "id": "M930",
+  "title": "밀양시 누리집 퀴즈 풀고 특산물 받자 이벤트",
+  "host": "밀양시",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "밀양 얼음골 사과",
+    "count": 25
+   },
+   {
+    "name": "백미",
+    "count": 30
+   },
+   {
+    "name": "대추잇소 대추 선물 세트",
+    "count": 30
+   },
+   {
+    "name": "밀양한천 명품 양갱 3호",
+    "count": 30
+   }
+  ],
+  "winners": 115,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-11-27",
+  "steps": [
+   "밀양시 누리집 퀴즈 풀기해요",
+   "개인정보 ㅊ작성해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320626",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "퀴즈"
+  ],
+  "announceDate": "2026-12-04"
+ },
+ {
+  "id": "M931",
+  "title": "수확 퍼즐 맞히고 올리브영 쿠폰 받자 이벤트",
+  "host": "한국농어촌공사",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "올리브영 모바일상품권 1만원권",
+    "count": 30
+   }
+  ],
+  "winners": 30,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-30",
+  "steps": [
+   "SNS 팔로우해요",
+   "퍼즐번호 댓글해요",
+   "폼 인증해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320627",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "퀴즈",
+   "댓글"
+  ],
+  "announceDate": "2026-12-04"
+ },
+ {
+  "id": "M932",
+  "title": "경기연구원 SNS 만족도 설문하고 네이버페이 받자 이벤트",
+  "host": "경기연구원",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "네이버페이 포인트 1만원",
+    "count": 70
+   }
+  ],
+  "winners": 70,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-11-29",
+  "steps": [
+   "경기연구원 SNS 팔로우해요",
+   "네이버폼 만족도 설문 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320628",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "설문"
+  ],
+  "announceDate": "2026-12-02"
+ },
+ {
+  "id": "M933",
+  "title": "통합예약시스템 설문 참여하고 핸즈커피 받자 이벤트",
+  "host": "대구광역시",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "핸즈커피 기프티콘",
+    "count": 100
+   }
+  ],
+  "winners": 100,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-11-25",
+  "steps": [
+   "통합예약시스템 만족도 설문조사 참여해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320629",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "설문"
+  ],
+  "announceDate": "2026-11-30"
+ },
+ {
+  "id": "M934",
+  "title": "신규사업 발굴 아이디어 심사하고 기프티콘 받자 이벤트",
+  "host": "국민체육진흥공단",
+  "hostType": "기업",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "음료 기프티콘",
+    "count": 100
+   }
+  ],
+  "winners": 100,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-24",
+  "steps": [
+   "신규사업 발굴 아이디어 심사 참여해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320630",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "설문"
+  ],
+  "announceDate": "2026-12-02"
+ },
+ {
+  "id": "M935",
+  "title": "노랑풍선 수상 축하하고 배민쿠폰 받자 이벤트",
+  "host": "노랑풍선",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "배달의민족 2만원권",
+    "count": 10
+   },
+   {
+    "name": "메가MGC커피 아메리카노",
+    "count": 50
+   }
+  ],
+  "winners": 60,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-18",
+  "end": "2026-11-25",
+  "steps": [
+   "팔로우해요",
+   "좋아요",
+   "수상축하 댓글해요",
+   "친구태그해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320631",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-11-30"
+ },
+ {
+  "id": "M936",
+  "title": "G20 인천유치 응원하고 상품권 받자 이벤트",
+  "host": "인천광역시",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "신세계 3만원권",
+    "count": 20
+   },
+   {
+    "name": "메가커피 아메리카노",
+    "count": 200
+   }
+  ],
+  "winners": 220,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-12-31",
+  "steps": [
+   "응원 내용 작성해요",
+   "서명하기해요",
+   "개인정보 입력해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320632",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "댓글"
+  ],
+  "announceDate": "2026-12-07"
+ },
+ {
+  "id": "M937",
+  "title": "SNS 만족도 설문하고 치킨 상품권 받자 이벤트",
+  "host": "시작공간 일부",
+  "hostType": "기관",
+  "channel": "웹",
+  "prizes": [
+   {
+    "name": "BHC 치킨",
+    "count": 5
+   },
+   {
+    "name": "메가커피 아메리카노",
+    "count": 50
+   }
+  ],
+  "winners": 55,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-19",
+  "end": "2026-12-06",
+  "steps": [
+   "네이버폼 접속해요",
+   "SNS 만족도 설문 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 5,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320633",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "설문"
+  ],
+  "announceDate": "2026-12-11"
+ },
+ {
+  "id": "M938",
+  "title": "W브릿지 신규가입 설문하고 커피 받자 이벤트",
+  "host": "한국여성과학기술인육성재단",
+  "hostType": "기관",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "메가커피 아이스 아메리카노 모바일 쿠폰",
+    "count": 600
+   }
+  ],
+  "winners": 600,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-11-30",
+  "steps": [
+   "이벤트 댓글해요",
+   "DM 링크 가입해요",
+   "설문 제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 1,
+  "minutes": 2,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320585",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "댓글",
+   "설문"
+  ],
+  "announceDate": "2026-12-07"
+ },
+ {
+  "id": "M939",
+  "title": "하림 선닭대 신청하고 신제품 맛보자 이벤트",
+  "host": "하림",
+  "hostType": "기업",
+  "channel": "인스타그램",
+  "prizes": [
+   {
+    "name": "하림 오드그로서 마라 탉꼬치 및 시크릿 제품 체험",
+    "count": 50
+   }
+  ],
+  "winners": 50,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-16",
+  "end": "2026-11-24",
+  "steps": [
+   "팔로우해요",
+   "프로필 폼신청해요",
+   "완료댓글해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 3,
+  "minutes": 10,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320620",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-11-30"
+ },
+ {
+  "id": "M940",
+  "title": "댓글 달고 상품권 받자 이벤트",
+  "host": "국토교통과학기술진흥원",
+  "hostType": "기관",
+  "channel": "유튜브",
+  "prizes": [
+   {
+    "name": "CU 5천원권",
+    "count": 40
+   }
+  ],
+  "winners": 40,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-17",
+  "end": "2026-11-24",
+  "steps": [
+   "유튜브 구독해요",
+   "댓글 작성해요",
+   "폼제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320595",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-12-01"
+ },
+ {
+  "id": "M941",
+  "title": "댓글 작성하고 상품권 받자 이벤트",
+  "host": "농림축산식품부",
+  "hostType": "기관",
+  "channel": "유튜브",
+  "prizes": [
+   {
+    "name": "네이버페이 5천원권",
+    "count": 50
+   }
+  ],
+  "winners": 50,
+  "participants": null,
+  "checkedAt": "2026-11-19",
+  "start": "2026-11-13",
+  "end": "2026-11-27",
+  "steps": [
+   "유튜브 구독해요",
+   "댓글 작성해요",
+   "폼제출해요"
+  ],
+  "tip": "원본 게시물(주최 공식 SNS/홈페이지)에서 응모 조건을 한 번 더 확인하세요.",
+  "difficulty": 2,
+  "minutes": 3,
+  "url": "https://www.eventhouse.kr/site/view.php?no=320605",
+  "verified": [
+   "기간·경품·당첨인원·발표일: 이벤트하우스 상세페이지 확인(2026-11-19)",
+   "채널: 응모방법 문구 기준 추정",
+   "참여인원: 미확인"
+  ],
+  "type": [
+   "팔로우",
+   "댓글"
+  ],
+  "announceDate": "2026-11-30"
  }
 ]
