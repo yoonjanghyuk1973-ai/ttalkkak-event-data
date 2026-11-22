@@ -1,0 +1,13 @@
+name: ex-api-test
+on:
+  workflow_dispatch:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test data.ex.co.kr reachability (gas, 1 row)
+        run: |
+          echo "--- gas page 1 (numOfRows=1) ---"
+          curl -s -m 30 -o /tmp/fuel.json -w "HTTP %{http_code} size %{size_download}\n" "https://data.ex.co.kr/openapi/business/curStateStation?key=${{ secrets.EX_API_KEY }}&type=json&numOfRows=1&pageNo=1"
+          echo "--- first 300 bytes ---"
+          head -c 300 /tmp/fuel.json; echo
