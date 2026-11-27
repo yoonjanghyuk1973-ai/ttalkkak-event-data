@@ -30189,11 +30189,11 @@
   "channel": "웹",
   "prizes": [
    {
-    "name": "ㆍ경품내역",
-    "count": null
+    "name": "총상금 2000만원",
+    "count": 6
    }
   ],
-  "winners": null,
+  "winners": 6,
   "participants": null,
   "checkedAt": "2026-11-27",
   "start": "2026-11-23",
@@ -30212,7 +30212,7 @@
    "참여인원: 미확인"
   ],
   "type": [
-   "설문"
+   "후기·리뷰"
   ],
   "announceDate": "2026-12-21"
  }
